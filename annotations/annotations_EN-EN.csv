@@ -1,0 +1,701 @@
+1;
+The transport of the potential vorticity gradient $\bnabla{q}$ along surfaces of constant temperature θ is investigated for the stratified Euler , Navier-Stokes and hydrostatic primitive equations of the oceans and atmosphere using the divergenceless flux vector $\bdB = \bnabla Q( q )\times\bnabla\theta$ , for any smooth function Q(q) .;2 Problem, 32 Method-Procedure
+The flux $\bdB$ is shown to satisfy \partial_t\bdB - {curl} ( \bU\times\bdB ) = - \bnabla\big[qQ'( q ) {div} \bU\big]\times\bnabla\theta ,where $\bU$ is a formal transport velocity of PV flux .;41 Results-Specific
+While the left hand side of this expression is reminiscent of the frozen-in magnetic field flux in magnetohydrodynamics , the non-zero right hand side means that $\bdB] is not frozen into the flow of $\bU$ when ${div} \bU \neq 0$ .;51 Conclusions-Explanation
+The result may apply to measurements of potential vorticity and potential temperature at the tropopause .;52 Conclusions-Specific
+2;
+In cold molecular clouds submillimetre emission lines are excited by the ambient radiation field .;1 Background
+The pumping is dominated by the cosmic microwave background ( CMB ) .;1 Background
+It is usual in molecular line radiative transfer modelling to simply assume that this is the only incident radiation field .;1 Background
+In this paper, a molecular line transport code and a dust radiative transfer code are used to explore the effects of the inclusion of a full interstellar radiation field (ISRF) on a simple test molecular cloud .;2 Problem
+It is found that in many galactic situations , the shape and strength of the line profiles that result are robust to variations in the ISRF and thus that in most cases , it is safe to adopt the CMB radiation field for the molecular line transport calculations .;42 Results-Reference, 52 Conclusions-Specific
+However , we show that in two examples , the inclusion of a plausible radiation field can have a significant effect on the line profiles .;42 Results-Reference
+Firstly , in the vicinity of an embedded massive star , there will be an enhanced far infared component to the radiation field .;41 Results-Specific
+Secondly , for molecular clouds at large redshift , the CMB temperature increases and this of course also alters the radiation field .;41 Results-Specific
+In both of these cases , the line profiles are weakened significantly compared to a cloud exposed to a standard radiation field .;41 Results-Specific
+Therefore this effect should be accounted for when investigating prestellar cores in massive star forming regions and when searching for molecular clouds at high redshift .;52 Conclusions-Specific
+3;
+We derive absolute dimensions of the early B-type detached eclipsing binary V453 Cygni (B0.4 IV + B0.7 IV, P=3.89d), a member of the open cluster NGC 6871.;2 Problem
+From the analysis of new, high-resolution, spectroscopy and the UBV light curves of Cohen (1974) we find the masses to be 14.36 +/- 0.20 and 11.11 +/- 0.13 Msun, the radii to be 8.55 +/- 0.06 and 5.49 +/- 0.06 Rsun, and   the effective temperatures to be 26600 +/- 500 and 25 500 +/- 800 K for the primary and secondary stars, respectively.;31 Method-Specific, 41 Results-Specific
+The surface gravities of 3.731 +/- 0.012 and 4.005 +/- 0.015 indicate that V453 Cyg is reaching the end of its main sequence lifetime.;51 Conclusions-Explanation
+We have determined the apsidal motion period of the system to be 66.4 +/- 1.8 yr using the technique of Lacy (1992) extended to include spectroscopic data as well as times of minimum light, giving a density concentration coefficient of log(k_2) = -2.226 +/- 0.024.;31 Method-Specific, 41 Results-Specific
+Contaminating (third) light has been detected for the first time in the light curve of V453 Cyg, previous analyses without this effect systematically underestimate the ratio of the radii of the two stars.;2 Problem, 41 Results-Specific
+The absolute dimensions of the system have been compared to the stellar evolution models of the Granada, Geneva, Padova and Cambridge groups.;42 Results-Reference
+All model sets fit the data on V453 Cyg for solar helium and metal abundances and an age of 10.0 +/- 0.2 Myr.;41 Results-Specific
+The Granada models also agree fully with the observed log(k_2) once general relativistic effects have been accounted for.;41 Results-Specific
+The Cambridge models with convective core overshooting fit V453 Cyg better than those without.;41 Results-Specific
+Given this success of the theoretical predictions, we briefly discuss which eclipsing binaries should be studied in order to further challenge the models.;53 Conclusions-Reference
+4;
+We report the discovery of only the fourth massive WO star to be found in the Milky Way, and only the seventh identified within the Local Group.;41 Results-Specific
+This has resulted from the first observations made in a programme of follow-up spectroscopy of candidate emission line stars from the AAO/UK Schmidt Southern Galactic Plane H-alpha Survey.;32 Method-Procedure
+The optical spectrum of this star, to become WR 93b in the Catalogue of Galactic Wolf-Rayet stars, is presented and described.;42 Results-Reference
+WR 93b is classified as WO3 and is shown to be highly reddened (E(B-V) = 2.1 pm 0.1).;41 Results-Specific
+A recombination line analysis of the emission lines yields the abundance ratios C/He = 0.95 and O/He = 0.13 (by number).;41 Results-Specific
+Comparisons at near infrared wavelengths of reddening corrected photometry between WR 93b and both of Sand 2 (WO3, D = 49 kpc) and Sand 5 (WO2, D = 1.75 kpc) yields a consistent distance to WR 93b of 3.4 kpc.;41 Results-Specific
+Positioned at Galactic co-ordinates l = 353.27, b = -0.85, the star is most likely located in the Scutum-Crux Arm of the inner Milky Way.;41 Results-Specific
+We note that none of the four Galactic WO stars lies significantly beyond the Solar Circle (with two well inside).;41 Results-Specific
+Estimation of the wind terminal velocity in WR 93b at 5750 km/s makes this star the current wind speed record holder among all non-degenerate stars.;41 Results-Specific
+5;
+We present the final catalogue of the 2dF QSO Redshift Survey (2QZ), based on Anglo-Australian Telescope 2dF spectroscopic observations of 44576 colour-selected (u b_J r) objects with 18.25<b_J<20.85 selected from APM scans of UK Schmidt Telescope (UKST) photographic plates.;2 Problem, 32 Method-Procedure
+The 2QZ comprises 23338 QSOs, 12292 galactic stars (including 2071 white dwarfs) and 4558 compact narrow-emission-line galaxies.;41 Results-Specific
+We obtained a reliable spectroscopic identification for 86 per cent of objects observed with 2dF.;41 Results-Specific
+We also report on the 6dF QSO Redshift Survey (6QZ), based on UKST 6dF observations of 1564 brighter 16<b_J<18.25 sources selected from the same photographic input catalogue.;42 Results-Reference
+In total, we identified 322 QSOs spectroscopically in the 6QZ.;41 Results-Specific
+The completed 2QZ is, by more than a factor 50, the largest homogeneous QSO catalogue ever constructed at these faint limits (b_J<20.85) and high QSO surface densities (5 QSOs deg^-2).;41 Results-Specific
+As such it represents an important resource in the study of the Universe at moderate-to-high redshifts.;52 Conclusions-Specific
+As an example of the results possible with the 2QZ, we also present our most recent analysis of the optical QSO luminosity function and its cosmological evolution with redshift.;42 Results-Reference
+For a flat, Omega_m=0.3 and Omega_lam=0.7, Universe, we find that a double power law with luminosity evolution that is exponential in look-back time, t, of the form L*(z) exp(6.15t), equivalent to an e-folding time of 2Gyr, provides an acceptable fit to the redshift dependence of the QSO luminosity function over the range [0.4 < z < 2.1 and M_bJ<-22.5.;41 Results-Specific
+Evolution described by a quadratic in redshift is also an acceptable fit, with L*(z)~10^(1.39z-0.29z^2).;41 Results-Specific
+6;
+We derive absolute dimensions for two early-type main sequence detached eclipsing binaries in the young open cluster h Persei (NGC 869).;2 Problem
+V615 Persei has a spectral type of B7V and a period of 13.7d.;41 Results-Specific
+V618 Persei is A2V and has a period of 6.4d.;41 Results-Specific
+New ephemerides are calculated for both systems.;42 Results-Reference
+The masses of the component stars have been derived using high-resolution spectroscopy and are 4.08+/-0.06 Msun and 3.18+/-0.05 Msun for V615 Per and 2.33+/-0.03 Msun and 1.56+/-0.02] Msun for V618 Per.;31 Method-Specific, 41 Results-Specific
+The radii have been measured by fitting the available light curves using EBOP and are 2.29+/-0.14] Rsun and 1.90+/-0.09 Rsun for V615 Per and 1.64+/-0.07 Rsun and 1.32+/-0.07 Rsun for V618 Per.;31 Method-Specific, 41 Results-Specific
+By comparing the observed spectra of V615 Per to synthetic spectra from model atmospheres we find that the effective temperatures of the two stars are 15000+/-500 K and 11000+/-500 K.;32 Method-Procedure, 41 Results-Specific
+The equatorial rotational velocities of the primary and secondary components of V615 Per are 28+/-5 km/s and 8+/-5 km/s, respectively.;41 Results-Specific
+Both components of V618 Per rotate at 10+/-5 km/s.;41 Results-Specific
+The equatorial rotational velocities for synchronous rotation are about 10 km/s for all four stars.;41 Results-Specific
+The timescales for orbital circularisation for both systems, and the timescale for rotational synchronisation of V615 Per, are much greater than the age of h Per.;41 Results-Specific
+Their negligible eccentricities and equatorial rotational velocities therefore support the hypothesis that they were formed by 'delayed breakup'.;51 Conclusions-Explanation
+We have compared the radii of these stars to models by the Granada and the Padova groups for stars of the same masses but different compositions.;32 Method-Procedure
+We conclude that the metallicity of the stars is about Z=0.01.;41 Results-Specific
+This appears to be the first estimate of the bulk metallicity of h Per.;52 Conclusions-Specific
+Recent photometric studies have assumed a solar metallicity so their results should be reviewed.;52 Conclusions-Specific
+7;
+We develop new methods to study the properties of galaxy redshift surveys and radial peculiar velocity surveys, both individually and combined.;2 Problem
+We derive the Fisher information matrix for redshift surveys, including redshift distortions and stochastic bias.;42 Results-Reference
+We find exact results for estimating the marginalised accuracy of a two-parameter measurement of the amplitude of galaxy clustering, A_g, and the distortion parameter beta.;42 Results-Reference
+The Fisher matrix is also derived for a radial peculiar velocity survey and we discuss optimisation of these surveys for equal timescales.;42 Results-Reference
+The Fisher Super-Matrix, combining both surveys, is derived.;42 Results-Reference
+We apply these results to investigate the 6 degree Field Galaxy Survey (6dFGS), currently underway on the UK Schmidt Telescope (UKST).;32 Method-Procedure
+The survey will consist of approximately 125000 K-band selected galaxies with redshifts and a subset of around 5000 galaxies with radial peculiar velocities.;32 Method-Procedure
+We find for the redshift survey that we can measure the three parameters A_g, Gamma and beta to about 3% accuracy, but will not be able to detect the baryon abundance, or the matter-galaxy correlation coefficient, r_g.;41 Results-Specific
+The peculiar velocity survey will jointly measure the velocity amplitude A_v and Gamma to around 25% accuracy.;41 Results-Specific
+A conditional estimate of the amplitude A_v alone, can be made to 5%.;41 Results-Specific
+When the surveys are combined however, the major degeneracy between beta and r_g is lifted and we are able to measure A_g, Gamma, beta and r_g all to the 2% level, significantly improving on current estimates.;41 Results-Specific
+Finally we consider scale dependence of r_g and the biassing parameter b.;42 Results-Reference
+We find that measurements for these averaged over logarithmic passbands can be constrained to the level of a few percent.;41 Results-Specific
+8;
+Mass outflows from Eddington-limited accreting compact objects appear to be a very widespread phenomenon.;1 Background
+They may provide the soft excess observed in quasars and ULXs, and imply that such objects have a major effect on their surroundings.;1 Background
+In particular they allow a simple parameter-free argument for the M_BH-sigma relation for galaxies, and offer a straightforward interpretation of the emission nebulae seen around ULXs.;42 Results-Reference
+9;
+We have surveyed four globular clusters in the Fornax dwarf galaxy for RR Lyrae stars, using archival HST observations.;2 Problem, 32 Method-Procedure
+We identify 197 new RR Lyrae stars in these four clusters.;41 Results-Specific
+Despite the short observational baseline, we derive periods, light-curves, and photometric parameters for each.;42 Results-Reference
+The Fornax clusters have exceptionally large RR Lyrae specific frequencies compared with the Galactic globular clusters.;41 Results-Specific
+Furthermore, the Fornax cluster RR Lyrae stars are unusual in that their characteristics are intermediate between the two Galactic Oosterhoff groups.;41 Results-Specific
+In this respect the Fornax clusters are similar to the field populations in several dwarf galaxies.;41 Results-Specific
+We revise previous measurements of the HB morphology in each cluster.;42 Results-Reference
+The Fornax clusters closely resemble the ''young'' Galactic halo population defined by Zinn.;41 Results-Specific
+The existence of the second parameter effect among the Fornax clusters is also confirmed.;41 Results-Specific
+Finally, we determine foreground reddening and distance estimates for each cluster.;42 Results-Reference
+We find a mean distance modulus to Fornax of (m-M)_0 = 20.66 +/- 0.03 (random) +/- 0.15 (systematic).;41 Results-Specific
+Our measurements are consistent with a line of sight depth of 8-10 kpc for this galaxy, matching its projected dimensions, and incompatible with tidal model explanations for the observed high velocity dispersions in many dSph galaxies.;52 Conclusions-Specific
+Dark matter dominance is suggested.;51 Conclusions-Explanation
+10;
+I discuss how parameters describing inflation in the very early universe may be related to primordial perturbation spectra. ;2 Problem
+Precision observations of anisotropies in the cosmic microwave background (CMB) such as those provided by the WMAP satellite offer an unprecedented window onto the physics of the very early universe.;1 Background
+To theorists exploring speculative models of physics at high energies, the CMB offers us the chance to put our ideas to the test.;53 Conclusions-Reference
+11;
+We demonstrate how to produce a stable multispeed lattice Boltzmann method (LBM) for a wide range of velocity sets, many of which were previously thought to be intrinsically unstable.;2 Problem
+We use non-Gauss-Hermitian cubatures.;31 Method-Specific
+The method operates stably for almost zero viscosity, has second-order accuracy, suppresses typical spurious oscillation (only a modest Gibbs effect is present) and introduces no artificial viscosity.;41 Results-Specific
+There is almost no computational cost for this innovation.;41 Results-Specific
+12;
+We revisit the classical stability versus accuracy dilemma for the lattice Boltzmann methods (LBM).;2 Problem
+Our goal is a stable method of second-order accuracy for fluid dynamics based on the lattice Bhatnager-Gross-Krook method (LBGK).;2 Problem
+The LBGK scheme can be recognised as a discrete dynamical system generated by free-flight and entropic involution.;1 Background
+In this framework the stability and accuracy analysis are more natural.;Unknown
+We find the necessary and sufficient conditions for second-order accurate fluid dynamics modelling.;42 Results-Reference
+In particular, it is proven that in order to guarantee second-order accuracy the distribution should belong to a distinguished surface - the invariant film (up to second-order in the time step).;41 Results-Specific
+This surface is the trajectory of the (quasi)equilibrium distribution surface under free-flight.;
+The main instability mechanisms are identified.;42 Results-Reference
+The simplest recipes for stabilisation add no artificial dissipation (up to second-order) and provide second-order accuracy of the method.;41 Results-Specific
+Two other prescriptions add some artificial dissipation locally and prevent the system from loss of positivity and local blow-up.;41 Results-Specific
+Demonstration of the proposed stable LBGK schemes are provided by the numerical simulation of a 1D shock tube and the unsteady 2D-flow around a square-cylinder (up to Reynolds number 10000).;32 Method-Procedure
+13;
+We examine the feasibility of predicting and subsequently managing the future evolution of a Complex Adaptive System.;2 Problem
+Our archetypal system mimics a competitive population of mechanical, biological, informational or human objects.;32 Method-Procedure
+We show that short-term prediction yields corridors along which the system will, with very high probability, evolve.;42 Results-Reference
+We then show how small amounts of 'population engineering' can be undertaken in order to steer the system away from any undesired regimes which have been predicted.;2 Problem
+Despite the system's many degrees of freedom and inherent stochasticity, this dynamical 'soft' control over future risk requires only minimal knowledge about the population's composition.;52 Conclusions-Specific
+14;
+We introduce a Hubbard model on a particular class of geometries, and consider the effect of doping the highly spin-degenerate Mott-insulating state with a microscopic number of holes in the extreme strong-coupling limit.;2 Problem
+The geometry is quite general, with pairs of atomic sites at each superlattice vertex, and a highly frustrated inter-atomic connectivity: the one dimensional realization is a chain of edge-sharing tetrahedra.;41 Results-Specific
+The sole model parameter is the ratio of intra-pair to inter-pair hopping matrix elements.;41 Results-Specific
+If the intra-pair hopping is negligible then introducing a microscopic number of holes results in a ferromagnetic Nagaoka groundstate.;41 Results-Specific
+Conversely, if the intra-pair hopping is comparable with the inter-pair hopping then the groundstate is low spin with short-ranged spin correlations.;41 Results-Specific
+We exactly solve the correlated motion of a pair of holes in such a state and find that, in 1-d and 2-d, they form a bound pair on a length scale that increases with diminishing binding energy.;41 Results-Specific
+This result is pertinent to the long-standing problem of hole motion in the copper-oxide planes of the high-temperature superconductors: we have rigorously shown that, on our frustrated geometry, the holes pair up and a short-ranged low-spin state is generated by hole motion alone.;41 Results-Specific
+15;
+We discuss electron scattering in a one-dimensional delta barrier potential with either time-dependent coupling constant (classical model) or a coupling constant that is linear in a boson coordinate (quantum model).;2 Problem
+We find an exact continued fraction solution and Fano like resonances in the transmission coefficient.;42 Results-Reference
+In the quantum model, energies for perfect transmission exist below the first sideband threshold.;41 Results-Specific
+16;
+In very anisotropic layered superconductors (e.g. Bi2Sr2CaCu2Ox) a tilted magnetic field can penetrate as two co-existing lattices of vortices parallel and perpendicular to the layers.;1 Background
+At low out-of-plane fields the perpendicular vortices form a set of isolated vortex chains, which have recently been observed in detail with scanning Hall-probe measurements.;1 Background
+We present calculations that show a very delicate stability of this isolated-chain state.;2 Problem
+As the vortex density increases along the chain there is a first-order transition to a buckled chain, and then the chain will expel vortices in a continuous transition to a composite-chain state.;42 Results-Reference
+At low densities there is an instability towards clustering, due to a long-range attraction between the vortices on the chain, and at very low densities it becomes energetically favorable to form a tilted chain, which may explain the sudden disappearance of vortices along the chains seen in recent experiments.;42 Results-Reference
+17;
+We describe the Sr optical lattice clock apparatus at NPL with particular emphasis on techniques used to increase reliability and minimise the human requirement in its operation.;2 Problem
+Central to this is a clock-referenced transfer cavity scheme for the stabilisation of cooling and trapping lasers.;32 Method-Procedure
+We highlight several measures to increase the reliability of the clock with a view towards the realisation of an optical time-scale.;42 Results-Reference
+The clock contributed 502 hours of data over a 25 day period (84% uptime) in a recent measurement campaign with several uninterrupted periods of more than 48 hours.;41 Results-Specific
+An instability of 2×10−17 was reached after 105 s of averaging in an interleaved self-comparison of the clock.;41 Results-Specific
+18;
+We develop a method of modified hyper-Ramsey spectroscopy in optical clocks, achieving complete immunity to the frequency shifts induced by the probing fields themselves.;2 Problem
+Using particular pulse sequences with tailored phases, frequencies, and durations, we can derive an error signal centered exactly at the unperturbed atomic resonance with a steep discriminant which is robust against variations in the probe shift.;32 Method-Procedure
+We experimentally investigate the scheme using the magnetically-induced 1S0−3P0 transition in 88Sr, demonstrating automatic suppression of a sizeable \num{2e-13} probe Stark shift to below \num{1e-16} even with very large errors in shift compensation.;32 Method-Procedure, 41 Results-Specific
+19;
+We report on the design and testing of an array of Penning ion traps made from printed circuit board.;2 Problem
+The system enables fast shuttling of ions from one trapping zone to another, which could be of use in quantum information processing.;52 Conclusions-Specific
+We describe simulations carried out to determine the optimal potentials to be applied to the trap electrodes for enabling this movement.;42 Results-Reference
+The results of a preliminary experiment with a cloud of laser cooled calcium ions demonstrate a round-trip shuttling efficiency of up to 75%.;41 Results-Specific
+20;
+We present a solid-state laser system that generates over 200 mW of continuous-wave, narrowband light, tunable from 316.3 nm - 17.7 nm and 318.0 nm - 319.3 nm.;2 Problem, 41 Results-Specific
+The laser is based on commercially available fiber amplifiers and optical frequency doubling technology, along with sum frequency generation in a periodically poled stoichiometric lithium tantalate crystal.;Unknown
+The laser frequency is stabilized to an atomic-referenced high finesse optical transfer cavity.;32 Method-Procedure
+Using a GPS-referenced optical frequency comb we measure a long term frequency instability of <35 kHz for timescales between 10−3 s and 103 s.;31 Method-Specific
+As an application we perform spectroscopy of Sr Rydberg states from n = 37 - 81, demonstrating mode-hop-free scans of 24 GHz.;32 Method-Procedure, 41 Results-Specific
+In a cold atomic sample we measure Doppler-limited linewidths of 350 kHz.;41 Results-Specific
+21;
+We describe a simple strontium vapor cell for laser spectroscopy experiments.;2 Problem
+Strontium vapor is produced using an electrically heated commercial dispenser source.;32 Method-Procedure
+The sealed cell operates at room temperature, and without a buffer gas or vacuum pump.;32 Method-Procedure
+The cell was characterised using laser spectroscopy, and was found to offer stable and robust operation, with an estimated lifetime of 10,000 hours.;31 Method-Specific, 41 Results-Specific
+By changing the dispenser, this technique can be readily extended to other alkali and alkaline earth elements.;52 Conclusions-Specific
+22;
+We report modulation transfer spectroscopy on the D2 transitions in 85Rb and 87Rb using a simple home-built electro-optic modulator (EOM).;2 Problem, 31 Method-Specific
+We show that both the gradient and amplitude of modulation transfer spectroscopy signals, for the 87Rb F=2 to F'=3 and the 85Rb F=3 to F'=4 transitions, can be significantly enhanced by expanding the beams, improving the signals for laser frequency stabilization.;42 Results-Reference
+The signal gradient for these transitions is increased by a factor of 3 and the peak to peak amplitude was increased by a factor of 2.;41 Results-Specific
+The modulation transfer signal for the 85Rb F=2 to F' transitions is also presented to highlight how this technique can generate a single, clear line for laser frequency stabilization even in cases where there are a number of closely spaced hyperfine transitions.;42 Results-Reference
+23;
+Atom interferometric sensors and quantum information processors must maintain coherence while the evolving quantum wavefunction is split, transformed and recombined, but suffer from experimental inhomogeneities and uncertainties in the speeds and paths of these operations.;2 Problem
+Several error-correction techniques have been proposed to isolate the variable of interest.;2 Problem
+Here we apply composite pulse methods to velocity-sensitive Raman state manipulation in a freely-expanding thermal atom cloud.;31 Method-Specific
+We compare several established pulse sequences, and follow the state evolution within them.;32 Method-Procedure
+The agreement between measurements and simple predictions shows the underlying coherence of the atom ensemble, and the inversion infidelity in an 80 micro-Kelvin atom cloud is halved.;41 Results-Specific
+Composite pulse techniques, especially if tailored for atom interferometric applications, should allow greater interferometer areas, larger atomic samples and longer interaction times, and hence improve the sensitivity of quantum technologies from inertial sensing and clocks to quantum information processors and tests of fundamental physics.;52 Conclusions-Specific
+24;
+Frauchiger and Renner have recently claimed to prove that “Single-world interpretations of quantum theory cannot be self-consistent”.;1 Background
+This is contradicted by a construction due to Bell, inspired by Bohmian mechanics, which shows that any quantum system can be modelled in such a way that there is only one “world” at any time, but the predictions of quantum theory are reproduced.;2 Problem
+This Bell–Bohmian theory is applied to the experiment proposed by Frauchiger and Renner, and their argument is critically examined.;53 Conclusions-Reference
+It is concluded that it is their version of “standard quantum theory”, incorporating state vector collapse upon measurement, that is not self-consistent.;53 Conclusions-Reference
+25;
+A problem in nonlinear water-wave propagation on the surface of an inviscid, stationary fluid is presented.;2 Problem
+"The primary surface wave, suitably initiated at some radius, is taken to be a slowly evolving nonlinear cylindrical wave (governed by an appropriate Korteweg-de Vries equation), the depth is assumed to be varying in a purely radial direction.";32 Method-Procedure
+We consider a $\sech^2$ profile at an initial radius (which is, following our scalings, rather large), and we describe the evolution as it propagates radially outwards.;32 Method-Procedure
+This initial profile was chosen because its evolution over constant depth is understood both analytically and numerically, even though it is not an exact solitary-wave solution of the cylindrical KdV equation.;51 Conclusions-Explanation
+The propagation process will introduce reflected and re-reflected components which will also be described.;42 Results-Reference
+The precise nature of these reflections is fixed by the requirements of mass conservation.;42 Results-Reference
+The asymptotic results presented describe the evolution of the primary wave, the development of an outward shelf and also an inward (reflected) shelf.;42 Results-Reference
+These results make use of specific depth variations (which were chosen to simplify the solution of the relevant equations), and mirror those obtained for the problem of 1-D plane waves over variable depth, although the details here are more complex due to the axi-symmetry.;51 Conclusions-Explanation
+26;
+In this paper we discuss Airy solutions of the second Painleve equation (\mbox{\rm PII}) and two related equations, the Painleve XXXIV equation (\rm P34) and the Jimbo-Miwa-Okamoto σ form of \mbox{\rm PII}\ (\mbox{\rm SII}), are discussed.;2 Problem
+It is shown that solutions which depend only on the Airy function Ai(z) have a completely difference structure to those which involve a linear combination of the Airy functions Ai(z) and Bi(z).;42 Results-Reference
+For all three equations, the special solutions which depend only on Ai(t) are tronquee solutions, i.e. they have no poles in a sector of the complex plane.;41 Results-Specific
+Further for both \rm P34\ and \mbox{\rm SII}, it is shown that amongst these tronquee solutions there is a family of solutions which have no poles on the real axis.;41 Results-Specific
+27;
+Exact solutions of the dispersive and modified equations are expressed in terms of special polynomials associated with rational solutions of the fourth Painleve equation, which arises as generalized scaling reductions of these equations.;42 Results-Reference
+Generalized solutions that involve an infinite sequence of arbitrary constants are also derived which are analogues of generalized rational solutions for the Korteweg-de Vries, Boussinesq and nonlinear Schrodinger equations ;42 Results-Reference
+28;
+The relationship between point vortex dynamics and the properties of polynomials with roots at the vortex positions is discussed.;2 Problem
+Classical polynomials, such as the Hermite polynomials, have roots that describe the equilibria of identical vortices on the line.;42 Results-Reference
+Stationary and uniformly translating vortex configurations with vortices of the same strength but positive or negative orientation are given by the zeros of the Adler-Moser polynomials, which arise in the description of rational solutions of the Korteweg-de Vries equation.;41 Results-Specific
+For quadupole background flow, vortex configurations are given by the zeros of polynomials expressed as wronskians of Hermite polynomials.;41 Results-Specific
+Further new solutions are found in this case using the special polynomials arising the in the description of rational solutions of the fourth Painleve equation.;32 Method-Procedure, 42 Results-Reference
+29;
+In this paper, we examine a generalized magma equation for rational values of two parameters, m and n.;2 Problem
+Firstly, the similarity reductions are found using the Lie group method of infinitesimal transformations.;31 Method-Specific, 41 Results-Specific
+The Painleve ODE test is then applied to the travelling wave reduction, and the pairs of m and n which pass the test are identified.;32 Method-Procedure
+These particular pairs are further subjected to the ODE test on their other symmetry reductions.;32 Method-Procedure
+Only two cases remain which pass the ODE test for all such symmetry reductions and these are completely integrable.;42 Results-Reference
+The case when m=0, n=−1 is related to the Hirota-Satsuma equation and for m=12, n=−12, it is a real, generalized, pumped Maxwell-Bloch equation.;41 Results-Specific
+30;
+The hydrostatic primitive equations (HPE) form the basis of most numerical weather, climate and global ocean circulation models.;1 Background
+Analytical (not statistical) methods are used to find a scaling proportional to (NuRaRe) 1/4 for the range of horizontal spatial sizes in HPE solutions, which is much broader than currently achievable computationally.;2 Problem, 32 Method-Procedure
+The range of scales for the HPE is determined from an analytical bound on the time-averaged enstrophy of the horizontal circulation.;32 Method-Procedure
+This bound allows the formation of very small spatial scales, whose existence would excite unphysically large linear oscillation frequencies and gravity wave speeds.;52 Conclusions-Specific
+31;
+Recent experiments have shown that many species of microorganisms leave a solid surface at a fixed angle determined by steric interactions and near-field hydrodynamics.;1 Background
+This angle is completely independent of the incoming angle.;1 Background
+For several collisions in a closed body this determines a unique type of billiard system, an aspecular billiard in which the outgoing angle is fixed for all collisions;1 Background
+We analyze such a system using numerical simulation of this billiard for varying tables and outgoing angles, and also utilize the theory of one-dimensional maps and wavefront dynamics;2 Problem, 31 Method-Specific
+When applicable we cite results from and compare our system to similar billiard systems in the literature.;32 Method-Procedure
+We focus on examples from three broad classes: the ellipse, the Bunimovich billiards, and the Sinai billiards.;32 Method-Procedure
+The effect of a noisy outgoing angle is also discussed.;42 Results-Reference
+32;
+Dynamical collapse models embody the idea of a physical collapse of the wave function in a mathematically well-defined way.;1 Background
+They involve modifications to the standard rules of quantum theory in order to describe collapse as a physical process;1 Background
+This appears to introduce a time reversal asymmetry into the dynamics since the state at any given time depends on collapses in the past but not in the future;2 Problem
+Here we challenge this conclusion by demonstrating that, subject to specified model constraints, collapse models can be given a structurally time symmetric formulation in which the collapse events are the primitive objects of the theory;2 Problem
+Three different examples of time asymmetries associated with collapse models are then examined and in each case it is shown that the same dynamical rule determining the collapse events works in both the forward and backward in time directions;42 Results-Reference
+Any physically observed time asymmetries that arise in such models are due to the asymmetric imposition of initial or final time boundary conditions, rather than from an inherent asymmetry in the dynamical law;51 Conclusions-Explanation
+This is the standard explanation of time asymmetric behaviour resulting from time symmetric laws.;51 Conclusions-Explanation
+33;
+The focusing of spin waves in magnetic materials has a number of important advantages for directing energy and thus information.;1 Background
+In contrast to earlier works, we theoretically calculate the focusing of short-wavelength spin waves.;2 Problem
+We show that strong focusing of large wave-vector spin waves naturally occurs about halfway out in the Brillouin zone with no need for a magnetocrystalline anisotropy, dipolar effects, or an external magnetic field.;42 Results-Reference
+The fact that the wavelength is on the order of the lattice constant leads to a form of lattice-induced anisotropy in the wave propagation.;42 Results-Reference
+We also explore the tunability that is achieved by the application of both an external field and a uniaxial anisotropy.;2 Problem
+In this case there is a rotation of the focusing pattern.;41 Results-Specific
+The rotation angle can be changed by varying the field strength, demonstrating tunability.;42 Results-Reference
+34;
+Proposed models of closed timelike curves (CTCs) have been shown to enable powerful information-processing protocols.;1 Background
+We examine the simulation of models of CTCs both by other models of CTCs and by physical systems without access to CTCs;2 Problem
+We prove that the recently proposed transition probability CTCs (T-CTCs) are physically equivalent to postselection CTCs (P-CTCs), in the sense that one model can simulate the other with reasonable overhead;2 Problem
+As a consequence, their information-processing capabilities are equivalent;42 Results-Reference
+We also describe a method for quantum computers to simulate Deutschian CTCs (but with a reasonable overhead only in some cases);42 Results-Reference
+In cases for which the overhead is reasonable, it might be possible to perform the simulation in a table-top experiment;52 Conclusions-Specific
+This approach has the benefit of resolving some ambiguities associated with the equivalent circuit model of Ralph et al.;52 Conclusions-Specific
+Furthermore, we provide an explicit form for the state of the CTC system such that it is a maximum-entropy state, as prescribed by Deutsch.;42 Results-Reference
+35;
+The additional information within a Hamilton–Jacobi representation of quantum mechanics is extra, in general, to the Schrödinger representation.;1 Background
+This additional information specifies the microstate of ψ that is incorporated into the quantum reduced action, W.;1 Background
+Non-physical solutions of the quantum stationary Hamilton–Jacobi equation for energies that are not Hamiltonian eigenvalues are examined to establish Lipschitz continuity of the quantum reduced action and conjugate momentum.;2 Problem
+Milne quantization renders the eigenvalue J.;41 Results-Specific
+Eigenvalues J and E mutually imply each other.;41 Results-Specific
+Jacobi’s theorem generates a microstate-dependent time parametrization t−τ=∂EW even where energy, E, and action variable, J, are quantized eigenvalues.;41 Results-Specific
+Substantiating examples are examined in a Hamilton–Jacobi representation including the linear harmonic oscillator numerically and the square well in closed form.;32 Method-Procedure
+Two byproducts are developed.;42 Results-Reference
+First, the monotonic behavior of W is shown to ease numerical and analytic computations.;41 Results-Specific
+Second, a Hamilton–Jacobi representation, quantum trajectories, is shown to develop the standard energy quantization formulas of wave mechanics.;41 Results-Specific
+36;
+A quantum state represents neither properties of a physical system nor anyone’s knowledge of its properties.;1 Background
+The important question is not what quantum states represent but how they are used—as informational bridges.;1 Background
+Knowing about some physical situations (its backing conditions), an agent may assign a quantum state to form expectations about other possible physical situations (its advice conditions).;1 Background
+Quantum states are objective: only expectations based on correct state assignments are generally reliable.;1 Background
+If a quantum state represents anything, it is the objective probabilistic relations between its backing conditions and its advice conditions.;1 Background
+This paper offers an account of quantum states and their function as informational bridges, in quantum teleportation and elsewhere.;2 Problem
+37;
+A Lagrangian formulation is constructed for particle interpretations of quantum mechanics, a well-known example of such an interpretation being the Bohm model.;42 Results-Reference
+The advantages of such a description are that the equations for particle motion, field evolution and conservation laws can all be deduced from a single Lagrangian density expression.;52 Conclusions-Specific
+The formalism presented is Lorentz invariant.;31 Method-Specific
+This paper follows on from a previous one which was limited to the single-particle case.;2 Problem
+The present paper treats the more general case of many particles in an entangled state.;2 Problem
+It is found that describing more than one particle while maintaining a relativistic description requires the specification of final boundary conditions as well as the usual initial ones, with the experimenter’s controllable choice of the final conditions thereby exerting a backwards-in-time influence.;42 Results-Reference
+This retrocausality then allows an important theoretical step forward to be made, namely that it becomes possible to dispense with the usual, many-dimensional description in configuration space and instead revert to a description in space–time using separate, single-particle wavefunctions.;51 Conclusions-Explanation
+38;
+Measurements of the electrostatic force with separation between a fixed and an optically trapped colloidal particle are examined with experiment, simulation and analytical calculation.;2 Problem, 32 Method-Procedure
+Non-Gaussian Brownian motion is observed in the position of the optically trapped particle when particles are close and traps weak.;41 Results-Specific
+As a consequence of this motion, a simple least squares parameterization of direct force measurements, in which force is inferred from the displacement of an optically trapped particle as separation is gradually decreased, contains forces generated by the rectification of thermal fluctuations in addition to those originating directly from the electrostatic interaction between the particles.;41 Results-Specific
+Thus, when particles are close and traps weak, simply fitting the measured direct force measurement to DLVO theory extracts parameters with modified meanings when compared to the original formulation.;52 Conclusions-Specific
+In such cases, however, physically meaningful DLVO parameters can be recovered by comparing the measured non-Gaussian statistics to those predicted by solutions to Smoluchowski's equation for diffusion in a potential.;52 Conclusions-Specific
+39;
+Thin films of long and short symmetric AB diblock copolymers are examined using self-consistent field theory (SCFT).;2 Problem, 31 Method-Specific
+We focus on hard confining walls with a preference for the A component, such that the lamellar domains orient parallel to the film with an even number ν of monolayers.;32 Method-Procedure
+For neat melts, confinement causes the lamellar period, D, to deviate from its bulk value, Db, in order to be commensurate with the film thickness, i.e., L=νD/2.;41 Results-Specific
+For blends, however, the melt also has the option of macrophase separating into ν(ℓ) large and ν(s) small monolayers so as to provide a better fit, where L=ν(ℓ)D(ℓ)/2+ν(s)D(s)/2.;41 Results-Specific
+In addition to performing full SCFT calculations of the entire film, we develop a semi-analytical calculation for the coexistence of thick and thin monolayers that helps explain the complicated interplay between miscibility and commensurability.;2 Problem
+40;
+The 2.41 min ground state decay of108Ag has been studied with a Ge(Li) detector.;32 Method-Procedure
+Twelve transitions are observed of which seven have not been reported previously.;41 Results-Specific
+Five of the new transitions are placed in the level scheme which includes the second 2+, 930.4 keV level and a new level at 1539.4 keV in108Pd.;41 Results-Specific
+41;
+The (p, α) reaction was studied on a208Pb target at 16.475 MeV.;32 Method-Procedure
+Nineteen states were observed in205Tl, up to 3.6 MeV in excitation.;41 Results-Specific
+Angular distributions were  obtained for five strong proton-hole transitions, and DWBA fits made to determine lj values. ;42 Results-Reference
+Results are compared with previous206Pb(t, α)205Tl,206Pb(d,3He)205Tl,205Tl(p, p′), and205Tl(n, n′) work.;42 Results-Reference
+42;
+There are many fascinating processes in the universe which we observe in more detail thanks to increasingly sophisticated technology.;1 Background
+One of the most interesting phenomena is the life cycle of stars, their birth, evolution and death.;1 Background
+If the stars are massive enough, they end their lives in a core-collapse supernova explosion, one of the most violent events in the universe.;1 Background
+As a result, the densest objects in the universe, neutron stars and/or black holes, are created.;1 Background
+The physical basis of these events should be understood in line with observation.;2 Problem
+Unfortunately, available data do not provide adequate constraints for many theoretical models of dense matter.;2 Problem
+One of the most open areas of research is the composition of matter in the cores of neutron stars.;2 Problem
+Unambiguous fingerprints for the appearance and evolution of particular components, such as strange baryons and mesons, with increasing density, have not been identified.;2 Problem
+In particular, the hadron-quark phase transition remains a subject of intensive research.;2 Problem
+In this contribution we briefly survey the most promising observational and theoretical directions leading to progress in understanding high density matter in neutron stars.;2 Problem
+A possible way forward in modeling high-density matter is outlined, exemplified by the quark-meson-coupling model (QMC).;42 Results-Reference
+This model makes connection between hadronic structure and the underlying quark make-up.;42 Results-Reference
+It offers a natural explanation for the saturation of nuclear force and treats high-density matter, containing the full baryon octet, in terms of four uniquely defined parameters adjusted to properties of symmetric nuclear matter at saturation.;52 Conclusions-Specific
+43;
+We classify the weakly interacting fixed points of general gauge theories coupled to matter and explain how the competition between gauge and matter fluctuations gives rise to a rich spectrum of high- and low-energy fixed points.;2 Problem
+The pivotal role played by Yukawa couplings is emphasised.;42 Results-Reference
+Necessary and sufficient conditions for asymptotic safety of gauge theories are also derived, in conjunction with strict no go theorems.;42 Results-Reference
+Implications for phase diagrams of gauge theories and physics beyond the Standard Model are indicated.;42 Results-Reference
+44;
+We reconsider the fundamental commutation relations for non-commutative ℝ2 described in polar coordinates with non-commutativity parameter θ.;2 Problem
+Previous analysis found that the natural transition from Cartesian coordinates to the traditional polar system led to a representation of [r̂,φ̂] as an everywhere diverging series.;1 Background
+In this article we compute the Borel resummation of this series, showing that it can subsequently be extended throughout parameter space and hence provide an interpretation of this commutator.;2 Problem, 52 Conclusions-Specific
+Our analysis provides a complete solution for arbitrary r and θ that reproduces the earlier calculations at lowest order and benefits from being generally applicable to problems in a two-dimensional non-commutative space.;52 Conclusions-Specific
+We compare our results to previous literature in the (pseudo-)commuting limit, finding a surprising spatial dependence for the coordinate commutator when θ≫r2.;42 Results-Reference
+Finally, we raise some questions for future study in light of this progress.;2 Problem
+45;
+This paper examines unexplored correlations in the parameter spaces probed by recent ATLAS analyses for gluinos and squarks, addressing various shortcomings in the literature.;2 Problem
+Six 13 TeV ATLAS analyses based on 3.2 fb^{-1} of integrated luminosity are interpreted in the 19-parameter R-parity conserving phenomenological minimal supersymmetric extension to the Standard Model (pMSSM).;32 Method-Procedure
+The distinct regions covered by each search are independent of prior, and we reveal particularly striking complementarity between the 2–6 jets and Multi-b searches.;42 Results-Reference
+In the leptonic searches, we identify better sensitivity to models than those used for analysis optimisation, notably a squark–slepton–wino scenario for the SS/3L search.;42 Results-Reference
+Further, we show how collider searches for coloured states probe the structure of the pMSSM dark sector more extensively than the Monojet analysis alone, with sensitivity to parameter spaces that are challenging for direct detection experiments.;42 Results-Reference
+46;
+"Previously, in Penner (Astrophys. Space Sci. 361:124, 2016a, Astrophys. Space Sci. 361:361, 2016b), a theory of gravitational anti-screening was shown to lead naturally to the Baryonic Tully-Fisher Relationship.";1 Background
+In addition, it was shown to agree with the observed rotational curve of the Galaxy, the observed features in the rotational curves of other spiral galaxies, with observations of the Coma cluster, and with a geometrically flat universe.;1 Background
+In this paper the theory will now be applied to binary galaxies.;2 Problem
+It is shown that there is a relationship between the line-of-sight velocity difference of the pair and the individual rotational velocities of the galaxies.;42 Results-Reference
+The resulting probability function for β, defined as the ratio of the line-of-sight velocity difference to the rotational velocity of the larger galaxy of the pair, is in excellent agreement with the observations taken by multiple researchers for the case of the binaries being on radial orbits.;41 Results-Specific
+47;
+Large scale flows have been a challenging feature of cosmography ever since galaxy scaling relations came on the scene 40 years ago.;2 Problem
+The next generation of surveys will offer a serious test of the standard cosmology.;2 Problem
+48;
+This article discusses the role of geophysical fluid dynamics (GFD) in understanding the natural environment, and in particular the dynamics of atmospheres and oceans on Earth and elsewhere.;2 Problem
+GFD, as usually understood, is a branch of the geosciences that deals with fluid dynamics and that, by tradition, seeks to extract the bare essence of a phenomenon, omitting detail where possible.;1 Background
+The geosciences in general deal with complex interacting systems and in some ways resemble condensed matter physics or aspects of biology, where we seek explanations of phenomena at a higher level than simply directly calculating the interactions of all the constituent parts.;1 Background
+That is, we try to develop theories or make simple models of the behaviour of the system as a whole.;2 Problem
+However, these days in many geophysical systems of interest, we can also obtain information for how the system behaves by almost direct numerical simulation from the governing equations.;2 Problem
+The numerical model itself then explicitly predicts the emergent phenomena—the Gulf Stream, for example—something that is still usually impossible in biology or condensed matter physics.;2 Problem
+Such simulations, as manifested, for example, in complicated general circulation models, have in some ways been extremely successful and one may reasonably now ask whether understanding a complex geophysical system is necessary for predicting it.;2 Problem
+In what follows we discuss such issues and the roles that GFD has played in the past and will play in the future.;2 Problem
+49;
+This paper demonstrates an equivalence between rotating magnetized shear flows and a stressed elastic beam.;2 Problem
+This results from finding the same form of dynamical equations after an asymptotic reduction of the axis-symmetric magnetorotational instability (MRI) under the assumption of almost-critical driving.;32 Method-Procedure, 42 Results-Reference
+The analysis considers the MRI dynamics in a non-dissipative near-equilibrium regime.;32 Method-Procedure
+Both the magnetic and elastic systems reduce to a simple one-dimensional wave equation with a non-local nonlinear feedback.;42 Results-Reference
+Under transformation, the equation comprises a large number of mean-field interacting Duffing oscillators.;41 Results-Specific
+This system was the first proven example of a strange attractor in a partial differential equation.;41 Results-Specific
+Finding the same reduced equation in two natural applications suggests the model might result from other applications and could fall into a universal class based on symmetry.;51 Conclusions-Explanation
+50;
+The change in entropy, ΔS, associated with the quasi-static absorption of a particle of energy ε by a Schwarzschild black hole (ScBH) is approximately (ε/T)−s, where T is the Hawking temperature of the black hole and s is the entropy of the particle.;1 Background
+Motivated by the statistical interpretation of entropy, it is proposed here that the absorption should be suppressed, but not forbidden, when ΔS<0, which requires the absorption cross section to be sensitive to ΔS.;52 Conclusions-Specific
+A purely thermodynamic formulation of the probability for the absorption is obtained from the standard relationship between microstates and entropy.;42 Results-Reference
+If ΔS≫1 and s≪ε/T, then the probability for the particle not to be absorbed is approximately exp[−ε/T], which is identical to the probability for quantum mechanical reflection by the horizon of an ScBH.;41 Results-Specific
+The manifestation of quantum behaviours in the new probability function may intimate a fundamental physical unity between thermodynamics and quantum mechanics.;51 Conclusions-Explanation
+51;
+Responses in surface winds to solar eclipses have an almost mystical status but are difficult to detect in observations because of their transient nature.;2 Problem
+High spatial resolution (approx. 1.5 km grid) meteorological models now provide a new  technique for their investigation.;2 Problem
+Measurements from the southern UK meteorological network during the 11 August 1999 total solar eclipse are compared with a high-resolution model ignorant of the lunar shadow's influence.;32 Method-Procedure
+Differences between the model output and measurements at the eclipse time show transient eclipse zone temperature decreases of up to 3°C, which also depressed the day's maximum temperature compared with the model prediction.;41 Results-Specific
+Coherent responses in temperature, and wind speed and direction measurements are detected in the inland cloud-free region (from 51° to 52° N and −2° to 0° E).;41 Results-Specific
+"A mean regional wind speed decrease of 0.7 m s−1 during the maximum eclipse hour is apparent with a mean anticlockwise wind direction change of 17°, no such changes occurred in the model output.";41 Results-Specific
+Such regional circulation changes are consistent with Clayton's 1901 cold-cored eclipse cyclone hypothesis, which may be related to the anecdotal ‘eclipse wind’.;51 Conclusions-Explanation
+52;
+An ensemble of pure numbers of the order of 10122 is produced naturally from the fundamental parameters of modern cosmology.;1 Background
+This new large-number coincidence problem is resolved by demonstrating implicit physical connections that follow from the standard cosmological model.;2 Problem
+However, the occurrence of the new large-number coincidence combined with the known coincidence among pure numbers of the order of 1040 poses a distinct problem that is resolved with a scaling law for the cosmological constant that was originally proposed by Zel'dovich.;2 Problem, 31 Method-Specific
+53;
+A central topic in the emerging field of quantum thermodynamics is the definition of thermodynamic work in the quantum regime.;1 Background
+One widely used solution is to define work for a closed system undergoing non-equilibrium dynamics according to the two-point energy measurement scheme.;1 Background
+However, due to the invasive nature of measurement the two-point quantum work probability distribution cannot describe the statistics of energy change from the perspective of the system alone.;2 Problem
+We here introduce the quantum histories framework as a method to characterise the thermodynamic properties of the unmeasured, closed dynamics.;2 Problem
+Constructing continuous power operator trajectories allows us to derive an alternative quantum work distribution for closed quantum dynamics that fulfils energy conservation and is time-reversal symmetric.;42 Results-Reference
+This opens the possibility to compare the measured work with the unmeasured work, contrasting with the classical situation where measurement does not affect the work statistics.;52 Conclusions-Specific
+We find that the work distribution of the unmeasured dynamics leads to deviations from the classical Jarzynski equality and can have negative values highlighting distinctly non-classical features of quantum work.;52 Conclusions-Specific
+54;
+Processes that involve moving fronts of populations are prevalent in ecology and cell biology.;1 Background
+A common approach to describe these processes is a lattice-based random walk model, which can include mechanisms such as crowding, birth, death, movement and agent–agent adhesion.;1 Background
+However, these models are generally analytically intractable and it is computationally expensive to perform sufficiently many realisations of the model to obtain an estimate of average behaviour that is not dominated by random fluctuations.;2 Problem
+To avoid these issues, both mean-field (MF) and corrected mean-field (CMF) continuum descriptions of random walk models have been proposed.;1 Background
+However, both continuum descriptions are inaccurate outside of limited parameter regimes, and CMF descriptions cannot be employed to describe moving fronts.;2 Problem
+Here we present an alternative description in terms of the dynamics of groups of contiguous occupied lattice sites and contiguous vacant lattice sites.;2 Problem
+Our description provides an accurate prediction of the average random walk behaviour in all parameter regimes.;42 Results-Reference
+Critically, our description accurately predicts the persistence or extinction of the population in situations where previous continuum descriptions predict the opposite outcome.;42 Results-Reference
+Furthermore, unlike traditional MF models, our approach provides information about the spatial clustering within the population and, subsequently, the moving front.;42 Results-Reference
+55;
+The presence of contextuality in quantum theory was first highlighted by Bell, Kochen and Specker, who discovered that for quantum systems of three or more dimensions, measurements could not be viewed as deterministically revealing pre-existing properties of the system.;1 Background
+More precisely, no model can assign deterministic outcomes to the projectors of a quantum measurement in a way that depends only on the projector and not the context (the full set of projectors) in which it appeared, despite the fact that the Born rule probabilities associated with projectors are independent of the context.;1 Background
+A more general, operational definition of contextuality introduced by Spekkens, which we will term 'probabilistic contextuality', drops the assumption of determinism and allows for operations other than measurements to be considered contextual.;1 Background
+Even two-dimensional quantum mechanics can be shown to be contextual under this generalised notion.;1 Background
+Probabilistic noncontextuality represents the postulate that elements of an operational theory that cannot be distinguished from each other based on the statistics of arbitrarily many repeated experiments (they give rise to the same operational probabilities) are ontologically identical.;1 Background
+In this paper, we introduce a framework that enables us to distinguish between different noncontextuality assumptions in terms of the relationships between the ontological representations of objects in the theory given a certain relation between their operational representations.;2 Problem
+This framework can be used to motivate and define a 'possibilistic' analogue, encapsulating the idea that elements of an operational theory that cannot be unambiguously distinguished operationally can also not be unambiguously distinguished ontologically.;51 Conclusions-Explanation
+We then prove that possibilistic noncontextuality is equivalent to an alternative notion of noncontextuality proposed by Hardy.;2 Problem
+Finally, we demonstrate that these weaker noncontextuality assumptions are sufficient to prove alternative versions of known 'no-go' theorems that constrain ψ-epistemic models for quantum mechanics.;2 Problem
+56;
+The Barrett–Cavalcanti–Lal–Maroney (BCLM) argument stands as the most effective means of demonstrating the reality of the quantum state.;1 Background
+Its advantages include being derived from very few assumptions, and a robustness to experimental error.;1 Background
+Finding the best way to implement the argument experimentally is an open problem, however, and involves cleverly choosing sets of states and measurements.;2 Problem
+I show that techniques from convex optimisation theory can be leveraged to numerically search for these sets, which then form a recipe for experiments that allow for the strongest statements about the ontology of the wavefunction to be made.;2 Problem
+The optimisation approach presented is versatile, efficient and can take account of the finite errors present in any real experiment.;52 Conclusions-Specific
+I find significantly improved low-cardinality sets which are guaranteed partially optimal for a BCLM test in low Hilbert space dimension.;42 Results-Reference
+I further show that mixed states can be more optimal than pure states.;53 Conclusions-Reference
+57;
+I describe how real quantum annealers may be used to perform local (in state space) searches around specified states, rather than the global searches traditionally implemented in the quantum annealing algorithm (QAA).;2 Problem
+Such protocols will have numerous advantages over simple quantum annealing.;53 Conclusions-Reference
+By using such searches the effect of problem mis-specification can be reduced, as only energy differences between the searched states will be relevant.;52 Conclusions-Specific
+The QAA is an analogue of simulated annealing, a classical numerical technique which has now been superseded.;1 Background
+Hence, I explore two strategies to use an annealer in a way which takes advantage of modern classical optimization algorithms.;2 Problem
+Specifically, I show how sequential calls to quantum annealers can be used to construct analogues of population annealing and parallel tempering which use quantum searches as subroutines.;2 Problem
+The techniques given here can be applied not only to optimization, but also to sampling.;52 Conclusions-Specific
+I examine the feasibility of these protocols on real devices and note that implementing such protocols should require minimal if any change to the current design of the flux qubit-based annealers by D-Wave Systems Inc.;32 Method-Procedure
+I further provide proof-of-principle numerical experiments based on quantum Monte Carlo that demonstrate simple examples of the discussed techniques.;31 Method-Specific
+58;
+We propose a method for sorting electrons by orbital angular momentum (OAM).;2 Problem, 31 Method-Specific
+Several methods now exist to prepare electron wavefunctions in OAM states, but no technique has been developed for efficient, parallel measurement of pure and mixed electron OAM states.;2 Problem
+The proposed technique draws inspiration from the recent demonstration of the sorting of OAM through modal transformation.;31 Method-Specific
+We show that the same transformation can be performed on electrons with electrostatic optical elements.;42 Results-Reference
+Specifically, we show that a charged needle and an array of electrodes perform the transformation and phase correction necessary to sort OAM states.;41 Results-Specific
+This device may enable the analysis of the spatial mode distribution of inelastically scattered electrons.;52 Conclusions-Specific
+59;
+The properties of nonlinear dynamics and chaos are shown to be fundamental to optimal communication signals subject to two practical and realistic design requirements: (i) operation in a noisy environment and (ii) simple hardware implementation.;42 Results-Reference
+Starting with a simple electronic circuit, a linear filter receiver is presumed, and the matched optimal communication waveform that maximizes the receiver signal-to-noise performance is derived.;42 Results-Reference
+A return map using samples from this optimal waveform is conjugate to a shift, thereby implying the waveform is chaotic. ;42 Results-Reference
+The optimal communication waveform for a second simple receiver is similarly derived, and it is found to be an exact solution to a physically realizable chaotic oscillator.;42 Results-Reference
+Thus, a practical consequence of chaos in these waveforms is the potential for simple and efficient signal generation using chaotic oscillators.;52 Conclusions-Specific
+A conjecture is made that the optimal communication waveform for any stable infinite impulse response filter is similarly chaotic.;52 Conclusions-Specific
+60;
+Solitons in the Skyrme–Faddeev model on Embedded Image are shown to undergo buckling transitions as the circumference of the S1 is varied.;42 Results-Reference
+These results support a recent conjecture that solitons in this field theory are well-described by a much simpler model of elastic rods.;52 Conclusions-Specific
+61;
+Photonic crystal waveguides are known to support C-points—point-like polarization singularities with local chirality.;1 Background
+Such points can couple with dipole-like emitters to produce highly directional emission, from which spin-photon entanglers can be built.;1 Background
+Much is made of the promise of using slow-light modes to enhance this light–matter coupling.;1 Background
+Here we explore the transition from travelling to standing waves for two different photonic crystal waveguide designs.;2 Problem
+We find that time-reversal symmetry and the reciprocal nature of light places constraints on using C-points in the slow-light regime.;42 Results-Reference
+We observe two distinctly different mechanisms through which this condition is satisfied in the two waveguides.;42 Results-Reference
+In the waveguide designs, we consider a modest group velocity of vg≈c/10 is found to be the optimum for slow-light coupling to the C-points.;41 Results-Specific
+62;
+The theory of the one-dimensional (1D) hydrogen atom was initiated by a 1952 paper but, after more than 60 years, it remains a topic of debate and controversy.;2 Problem
+The aim here is a critique of the current status of the theory and its relation to relevant experiments.;2 Problem
+A 1959 solution of the Schrödinger equation by the use of a cut-off at x=a to remove the singularity at the origin in the 1/|x| form of the potential is clarified and a mistaken approximation is identified.;42 Results-Reference
+The singular atom is not found in the real world but the theory with cut-off has been applied successfully to a range of four practical three-dimensional systems confined towards one dimension, particularly their observed large increases in ground state binding energy.;1 Background
+The true 1D atom is in principle restored when the short distance a tends to zero but it is sometimes claimed that the solutions obtained by the limiting procedure differ from those obtained by solution of the basic Schrödinger equation without any cut-off in the potential.;1 Background
+The treatment of the singularity by a limiting procedure for applications to practical systems is endorsed.;42 Results-Reference
+63;
+It is 100 years since Minkowski and Abraham first gave rival expressions for the momentum of light in a material medium. ;1 Background
+At the single-photon level, these correspond, respectively, either to multiplying or dividing the free-space value (Embedded Image) by the refractive index (n).;1 Background
+The debate that this work started has continued till the present day, punctuated by the occasional publication of ‘decisive’ experimental demonstrations supporting one or other of these values.;2 Problem
+We review the compelling arguments made in support of the Minkowski and Abraham forms and are led to the conclusion that both momenta are correct.;2 Problem
+We explain why two distinct momenta are needed to describe light in a medium and why each appears as the natural, and experimentally observed, momentum in appropriate situations.;2 Problem
+64;
+In-plane (lateral) and out-of-plane (transverse) shifts in the direction of arbitrarily polarized electromagnetic waves in a denser medium, reflected totally or partially at an interface with a rarer medium, are calculated exactly, in terms of the deviation of the Poynting vector from radial.;42 Results-Reference
+The shifts are analogous to the Goos–Hänchen and Fedorov–Imbert shifts for beams.;42 Results-Reference
+There is a transverse shift even for unreflected dipole radiation if the polarization is not linear.;41 Results-Specific
+With reflection, there is a transverse shift for linear polarization, provided this is not pure transverse electric or transverse magnetic.;41 Results-Specific
+The contributions from the geometrical ray, the lateral ray that interferes strongly with it, and the large peak at the Brewster angle (for transverse magnetic polarization), are calculated asymptotically far from the geometrical image.;32 Method-Procedure
+At the critical angle, the lowest order asymptotics is inadequate and a more sophisticated treatment is devised, reproducing the exact shifts accurately.;42 Results-Reference
+65;
+After discussing several issues in a future redefinition of the kilogram, this paper considers the lessons that one might have learned from the analogous redefinitions of the metre and the second.;2 Problem
+The progress of length metrology was  slow and steady, from seven digits reproducibility with the 1889 X-shaped metre prototype, to nine digits with Kr lamps, to 11 digits with the 1983 redefinition of the metre using the speed of light.;1 Background
+With laser cooling, the Cs clock improved to 15, now 16, digits (and so also astronomical distance measurements could improve).;1 Background
+Laser-cooled ions, and now atoms captured and cooled in an optical lattice, enable accuracy capability of three different optical frequency references to exceed 17 digits, i.e. better than time itself.;1 Background
+The optical comb and related techniques vastly simplify frequency comparisons.;1 Background
+Such progress stimulates a new satellite experiment, the STAR Mission (Space–Time Asymmetry Research).;1 Background
+The goal is to test at the 1E–18 level frequency shifts owing to spatial anisotropy, position, gravitational potential and boost.;2 Problem
+The onboard optical clock will use stabilization to a molecular transition in I2 or HCCH or CO2.;32 Method-Procedure
+The length etalons will be multiply redundant, with stability at the thermo-mechanical mirror motion limit.;32 Method-Procedure
+For a ULE glass etalon spacer (1987), I measure length creep approximately −1.5E–12/d, i.e. below 1E–14 over the 500 s satellite spin period.;41 Results-Specific
+66;
+In the event of a single, low-yield nuclear detonation in a major urban area, rapidly providing adequate shelter to affected populations could save 10 000–100 000 individuals from a fatal exposure to fallout radiation.;1 Background
+However, poorly sheltered individuals may remain at risk.;2 Problem
+Current guidance and prior studies are not consistent as to the timing and conditions under which poorly sheltered individuals should leave their shelters to evacuate or obtain better shelter.;2 Problem
+This study proposes methods to determine the optimal shelter time based on information potentially available following a nuclear detonation.;2 Problem
+For the case in which individuals move to an adequate shelter that can be reached within 15 min, individuals should stay in a poor-quality shelter for at most 30 min after the detonation.;52 Conclusions-Specific
+If adequate shelter is available nearby (within 5 min), then poorly sheltered individuals should immediately proceed to the better shelter.;52 Conclusions-Specific
+67;
+We study the interaction of the charge states of a superconducting double dot, comprising two superconducting islands coupled by a Josephson junction, with microwaves between 2 and 55 GHz.;2 Problem
+We observe resonant transitions between even-parity charge states at relatively low frequencies and breaking of Cooper pairs under higher-frequency irradiation, allowing our device to act as a click detector for microwave photons.;42 Results-Reference
+By applying a magnetic field and tuning the pair-breaking energy, we perform spectroscopy on the environment in our cryostat and determine the temperature of a nonequilibrium photon bath.;32 Method-Procedure
+Finally, we exploit the band structure of our device to break Cooper pairs dependent on the symmetry of the initial Cooper pair state.;32 Method-Procedure
+68;
+Since the 1935 work of Landau–Lifshitz and of Kittel in 1946 all ferromagnetic, ferroelectric, and ferroelastic domains have been thought to be straight-sided with domain widths proportional to the square root of the sample thickness.;1 Background
+We show in the present work that this is not true.;2 Problem
+We also discover period doubling domains predicted by Metaxas et al (2008 Phys. Rev. Lett. 99 217208) and modeled by Wang and Zhao (2015 Sci. Rep. 5 8887).;42 Results-Reference
+We examine non-equilibrium ferroic domain structures in perovskite oxides with respect to folding, wrinkling, and relaxation and suggest that structures are kinetically limited and in the viscous flow regime predicted by Metaxas et al in 2008 but never observed experimentally.;2 Problem
+Comparisons are made with liquid crystals and hydrodynamic instabilities, including chevrons, and fractional power-law relaxation.;32 Method-Procedure
+As Shin et al (2016 Soft Matter 12 3502) recently emphasized: 'An understanding of how these folds initiate, propagate, and interact with each other is still lacking'.;1 Background
+Inside each ferroelastic domain are ferroelectric 90° nano-domains with 10 nm widths and periodicity in agreement with the 10 nm theoretical minima predicted by Feigl et al (2014 Nat. Commun. 5 4677).;1 Background
+Evidence is presented for domain-width period doubling, which is common in polymer films but unknown in ferroic domains.;42 Results-Reference
+A discussion of the folding-to-period doubling phase transition model of Wang and Zhao is included.;42 Results-Reference
+69;
+Electron energy loss spectroscopy (EELS) is a powerful tool for understanding the chemical structure of materials down to the atomic level, but challenges remain in accurately and quantitatively modelling the response.;1 Background, 2 Problem
+We compare comprehensive theoretical density functional theory (DFT) calculations of 1s core-level EEL K-edge spectra of pure, B-doped and N-doped graphene with and without a core-hole to previously published atomic-resolution experimental electron microscopy data.;2 Problem, 32 Method-Procedure
+The ground state approximation is found in this specific system to perform consistently better than the frozen core-hole approximation.;42 Results-Reference
+The impact of including or excluding a core-hole on the resultant theoretical band structures, densities of states, electron densities and EEL spectra were all thoroughly examined and compared.;42 Results-Reference
+It is concluded that the frozen core-hole approximation exaggerates the effects of the core-hole in graphene and should be discarded in favour of the ground state approximation.;52 Conclusions-Specific
+These results are interpreted as an indicator of the overriding need for theorists to embrace many-body effects in the pursuit of accuracy in theoretical spectroscopy instead of a system-tailored approach whose approximations are selected empirically.;52 Conclusions-Specific
+70;
+The defect in diamond formed by a vacancy surrounded by three nearest-neighbor nitrogen atoms and one carbon atom, ${{\text{N}}_{3}}\text{V}$, is found in the vast majority of natural diamonds.;1 Background
+Despite ${{\text{N}}_{3}}{{\text{V}}^{0}}$ being the earliest electron paramagnetic resonance spectrum observed in diamond, to date no satisfactory simulation of the spectrum for an arbitrary magnetic field direction has been produced due to its complexity.;2 Problem
+In this work, ${{\text{N}}_{3}}{{\text{V}}^{0}}$ is identified in ${{}^{15}}\text{N}$ -doped synthetic diamond following irradiation and annealing.;2 Problem
+The ${{}^{15}}{{\text{N}}_{3}}{{\text{V}}^{0}}$ spin Hamiltonian parameters are directly determined and used to refine the parameters for ${{}^{14}}{{\text{N}}_{3}}{{\text{V}}^{0}}$, enabling the latter to be accurately simulated and fitted for an arbitrary magnetic field direction.;32 Method-Procedure
+Study of ${{}^{15}}{{\text{N}}_{3}}{{\text{V}}^{0}}$ under excitation with green light indicates charge transfer between ${{\text{N}}_{3}}\text{V}$ and ${{\text{N}}_{\text{s}}}$.;42 Results-Reference
+It is argued that this charge transfer is facilitated by direct ionization of ${{\text{N}}_{3}}{{\text{V}}^{-}}$, an as-yet unobserved charge state of ${{\text{N}}_{3}}\text{V}$.;42 Results-Reference
+71;
+The method of neutron diffraction with isomorphic substitution was used to measure the structure of the rare-earth chalcogenide glasses ${{\left({{R}_{2}}{{X}_{3}}\right)}_{0.07}}$ (Ga2 X 3)0.33(GeX 2)0.60 with $R=\text{La}$ or Ce and $X=\text{S}$ or Se.;31 Method-Specific
+X-ray diffraction was also used to measure the structure of the sulphide glass.;31 Method-Specific
+The results are consistent with networks that are built from GeX 4 and GaX 4 tetrahedra, and give R–S and R–Se coordination numbers of 8.0(2) and 8.5(4), respectively.;41 Results-Specific
+The minimum nearest-neighbour R–R distance associated with rare-earth clustering is discussed.;2 Problem
+72;
+We discuss the static configuration of a smectic A liquid crystal subject to an edge dislocation under the assumption that the director and layer normal fields (n and a, respectively) defining the smectic arrangement are not, in general, equivalent.;2 Problem
+After constructing the free energy for the smectic, we obtain exact solutions to the equilibrium equations which result from its minimisation at quadratic order in the variables which describe the distortion, and hence a complete description of the smectic configuration across the domain of the sample.;32 Method-Procedure, 42 Results-Reference
+We also examine the effect of relaxing the constraint $n \equiv a$ for different values of the constants which characterise the response of the material to distortions, and compare these results with the 'classical' case considered by previous authors, in which equivalence of n and a is enforced.;2 Problem, 42 Results-Reference
+73;
+We demonstrate a method for probing interaction effects in a thermal beam of strontium atoms using simultaneous measurements of Rydberg EIT and spontaneously created ions or electrons.;2 Problem, 31 Method-Specific
+We present a Doppler-averaged optical Bloch equation model that reproduces the optical signals and allows us to connect the optical coherences and the populations.;31 Method-Specific
+We use this to determine that the spontaneous ionization process in our system occurs due to collisions between Rydberg and ground state atoms in the EIT regime.;32 Method-Procedure
+We measure the cross section of this process to be $0.6\pm 0.2\,\,{\sigma }_{\mathrm{geo}}$, where ${\sigma }_{\mathrm{geo}}$ is the geometrical cross section of the Rydberg atom.;41 Results-Specific
+This result adds complementary insight to a range of recent studies of interacting thermal Rydberg ensembles.;52 Conclusions-Specific
+74;
+We present a protocol for rotation measurement via matter-wave Sagnac interferometry using trapped ions.;2 Problem, 31 Method-Specific
+The ion trap based interferometer encloses a large area in a compact apparatus through repeated round-trips in a Sagnac geometry.;32 Method-Procedure
+We show how a uniform magnetic field can be used to close the interferometer over a large dynamic range in rotation speed and measurement bandwidth without contrast loss.;2 Problem
+Since this technique does not require the ions to be confined in the Lamb–Dicke regime, Doppler laser cooling should be sufficient to reach a sensitivity of ${ \mathcal S }=1.4\times {10}^{-6}\,{\rm{rad}}\,{{\rm{s}}}^{-1}\,{{\rm{H}}{\rm{z}}}^{-1/2}$.;41 Results-Specific
+75;
+The Coulomb approximation (CA) has long been regarded as a useful tool for rapid estimates of line strengths, absorption oscillator strengths, and spontaneous transition probabilities of the lighter multi-electron atoms and ions, in situations where large quantities of atomic data are required for the analysis of spectroscopic measurements from a variety of plasma sources, in particular interesting stellar objects (e. g. white dwarf stars) and magnetically confined fusion plasmas.;1 Background
+This applies especially in cases where the plasma is spatially inhomogeneous, and produces several ionisation stages of the same impurity element, emitting copious radiation in bound–bound transitions from cascade processes following charge-exchange recombination.;1 Background
+While more advanced theoretical methods are routinely used by the specialist, the CA provides a very convenient method of checking atomic data chosen by the experimentalist from extensive compilations through the internet, or by the use of machine codes provided by others.;1 Background
+The origins, advantages and shortcomings of the method are described and discussed, as well as convenient modifications thereof, which may readily be implemented for these purposes.;2 Problem
+Particular attention is paid to the choice of electron coupling of states in which the optical electron has a large orbital angular momentum $({\ell }\geqslant 3).$ ;42 Results-Reference
+The text is illustrated by numerous examples of application to spectra of practical interest from astrophysical and laboratory plasmas.;42 Results-Reference
+76;
+Radiative charge exchange collisions between a carbon atom ${\rm{C}}({}^{3}P)$ and a helium ion ${\mathrm{He}}^{+}({}^{2}S)$, both in their ground state, are investigated theoretically.;2 Problem
+Detailed quantum chemistry calculations are carried out to obtain potential energy curves and transition dipole matrix elements for doublet and quartet molecular states of the HeC+ cation.;42 Results-Reference
+Radiative charge transfer cross sections and rate coefficients are calculated and are found at thermal and lower energies to be large compared to those for direct charge transfer.;42 Results-Reference
+The present results might be applicable to modelling the complex interplay of $[{\rm{C}}\,{\rm{II}}$ (or ${{\rm{C}}}^{+}$), ${\rm{C}}$, and $\mathrm{CO}$ at the boundaries of interstellar photon dominated regions and in x-ray dominated regions, where the abundance of ${\mathrm{He}}^{+}$ affects the abundance of $\mathrm{CO}$.;52 Conclusions-Specific
+77;
+We describe methods using frequency combs and optical resonators for recording two-dimensional (2D) ultrafast spectroscopy signals with high sensitivity.;2 Problem, 31 Method-Specific
+By coupling multiple frequency combs to higher-order modes of one or more optical cavities, background-free, cavity-enhanced 2D spectroscopy signals are naturally generated via phase cycling.;32 Method-Procedure, 42 Results-Reference
+As in cavity-enhanced ultrafast transient absorption spectroscopy, the signal to noise is enhanced by a factor proportional to the cavity finesse squared, so even using cavities of modest finesse, a very high sensitivity is expected, enabling ultrafast 2D spectroscopy experiments in dilute molecular beams.;41 Results-Specific, 52 Conclusions-Specific
+78;
+As part of the quest to uncover universal features of quantum dynamics, we study catastrophes that form in simple many-particle wave functions following a quench, focusing on two-mode systems that include the two-site Bose–Hubbard model, and under some circumstances optomechanical systems and the Dicke model.;2 Problem
+When the wave function is plotted in Fock space certain characteristic shapes, that we identify as cusp catastrophes, appear under generic conditions.;42 Results-Reference
+In the vicinity of a cusp the wave function takes on a universal structure described by the Pearcey function and obeys scaling relations which depend on the total number of particles N.;42 Results-Reference
+In the thermodynamic limit ($N\to \infty $) the cusp becomes singular, but at finite N it is decorated by an interference pattern.;42 Results-Reference
+This pattern contains an intricate network of vortex–antivortex pairs, initiating a theory of topological structures in Fock space.;42 Results-Reference
+In the case where the quench is a δ-kick the problem can be solved analytically and we obtain scaling exponents for the size and position of the cusp, as well as those for the amplitude and characteristic length scales of its interference pattern.;42 Results-Reference
+Finally, we use these scalings to describe the wave function in the critical regime of a ${{\mathbb{Z}}}_{2}$ symmetry-breaking dynamical phase transition.;42 Results-Reference
+79;
+We analyze the temporal response of the fluorescence light that is emitted from a dense gas of cold atoms driven by a laser.;2 Problem
+When the average interatomic distance is comparable to the wavelength of the photons scattered by the atoms, the system exhibits strong dipolar interactions and collective dissipation.;42 Results-Reference
+We solve the exact dynamics of small systems with different geometries and show how these collective features are manifest in the scattered light properties such as the photon emission rate, the power spectrum and the second-order correlation function.;2 Problem
+By calculating these quantities beyond the weak (linear) driving limit, we make progress in understanding the signatures of collective behavior in these many-body systems.;52 Conclusions-Specific
+Furthermore, we shed light on the role of disorder and averaging on the resonance fluorescence, of direct relevance for recent experimental efforts that aim at the exploration of many-body effects in dipole–dipole interacting gases of atoms.;52 Conclusions-Specific
+80;
+The differential event rate in weakly interacting massive particle (WIMP) direct detection experiments depends on the local dark matter density and velocity distribution.;1 Background
+Accurate modelling of the local dark matter distribution is therefore required to obtain reliable constraints on the WIMP particle physics properties.;2 Problem
+Data analyses typically use a simple standard halo model which might not be a good approximation to the real Milky Way (MW) halo.;2 Problem
+We review observational determinations of the local dark matter density, circular speed and escape speed and also studies of the local dark matter distribution in simulated MW-like galaxies.;2 Problem
+We discuss the effects of the uncertainties in these quantities on the energy spectrum and its time and direction dependence.;2 Problem
+Finally, we conclude with an overview of various methods for handling these astrophysical uncertainties.;2 Problem
+81;
+A two-component (soft + hard) model (TCM) of hadron production in yields and spectra derived from the charge-multiplicity dependence of 200 GeV p–p collisions at the relativistic heavy ion collider is extended to describe p–p spectrum data from the large hadron collider (LHC) up to 13 TeV.;2 Problem
+The LHC data include spectrum ratios that provide only partial information on the TCM.;2 Problem
+The LHC ratio method is applied to well-understood 200 GeV spectrum data to derive an algebraic link between spectrum ratios and the full TCM.;31 Method-Specific
+Some aspects of the form of the hard component on transverse momentum are found to be n ch dependent.;42 Results-Reference
+LHC spectrum ratios are then analyzed to obtain n ch and collision-energy (over three orders of magnitude) dependence of isolated soft and hard TCM spectrum components.;32 Method-Procedure
+The energy dependence of the spectrum soft component is a new result suggesting a relation to Gribov diffusion.;42 Results-Reference
+The spectrum hard component varies simply and smoothly with n ch suggesting bias of the underlying jet spectrum and linearly with QCD parameter $\mathrm{log}(s/{s}_{0})$, its properties consistent with minimum-bias reconstructed-jet spectrum measurements.;42 Results-Reference
+82;
+γ-process nucleosynthesis that occurs during an explosion of a type II supernova can be modeled via post-processing network calculations that require a model of the stellar environment and the rates for all the nuclear reactions involved in the process.;1 Background
+The nuclear input for these calculations relies on reaction rates obtained from statistical models.;2 Problem
+In this work, the sensitivity of the γ-process nucleosynthesis to the α optical model potential used in statistical model was investigated.;2 Problem
+Network calculations were performed for two sets of reaction rates, the current version of Reaclib and with rates for α-induced reactions and their inverse replaced with those calculated using Talys.;32 Method-Procedure, 31 Method-Specific
+Significant changes in the final abundance pattern were observed and a list of reactions that need to be measured in order to discriminate between the two nucleosynthesis scenarios is provided.;42 Results-Reference
+83;
+In this article, recent studies so far conducted with post accelerated beams at the ISOLDE facility in the area of nuclear astrophysics are reviewed.;2 Problem
+Two experiments in particular are highlighted, that each feature novelty and innovation.;42 Results-Reference
+Three future experiments are also briefly presented.;42 Results-Reference
+Collectively, these works advance our understanding of big bang nucleosynthesis, quiescent and explosive burning in novae and x-ray bursts, and core-collapse supernovae, both in terms of the underlying explosion mechanism and gamma-ray satellite observable radioisotopes.;52 Conclusions-Specific
+84;
+The bulk of the rare earth elements are believed to be synthesized in the rapid neutron capture process or r process of nucleosynthesis.;1 Background
+The solar r-process residuals show a small peak in the rare earths around $A\sim 160$, which is proposed to be formed dynamically during the end phase of the r process by a pileup of material.;1 Background
+This abundance feature is of particular importance as it is sensitive to both the nuclear physics inputs and the astrophysical conditions of the main r process.;2 Problem
+We explore the formation of the rare earth peak from the perspective of an inverse problem, using Monte Carlo studies of nuclear masses to investigate the unknown nuclear properties required to best match rare earth abundance sector of the solar isotopic residuals.;2 Problem, 31 Method-Specific
+When nuclear masses are changed, we recalculate the relevant β-decay properties and neutron capture rates in the rare earth region.;32 Method-Procedure
+The feedback provided by this observational constraint allows for the reverse engineering of nuclear properties far from stability where no experimental information exists.;52 Conclusions-Specific
+We investigate a range of astrophysical conditions with this method and show how these lead to different predictions in the nuclear properties influential to the formation of the rare earth peak.;2 Problem
+We conclude that targeted experimental campaigns in this region will help to resolve the type of conditions responsible for the production of the rare earth nuclei, and will provide new insights into the longstanding problem of the astrophysical site(s) of the r process.;52 Conclusions-Specific
+85;
+Thermal quantum time-correlation functions are of fundamental importance in quantum dynamics, allowing experimentally measurable properties such as reaction rates, diffusion constants and vibrational spectra to be computed from first principles.;1 Background
+Since the exact quantum solution scales exponentially with system size, there has been considerable effort in formulating reliable linear-scaling methods involving exact quantum statistics and approximate quantum dynamics modelled with classical-like trajectories.;1 Background
+Here, we review recent progress in the field with the development of methods including centroid molecular dynamics, ring polymer molecular dynamics (RPMD) and thermostatted RPMD (TRPMD).;2 Problem
+We show how these methods have recently been obtained from ‘Matsubara dynamics’, a form of semiclassical dynamics which conserves the quantum Boltzmann distribution.;2 Problem
+We also apply the Matsubara formalism to reaction rate theory, rederiving t → 0+ quantum transition-state theory (QTST) and showing that Matsubara-TST, like RPMD-TST, is equivalent to QTST.;32 Method-Procedure, 42 Results-Reference
+We end by surveying areas for future progress.;53 Conclusions-Reference
+86;
+We describe a simple method of incorporating the finite mass of the nucleus directly into atomic variational Monte Carlo calculations.;2 Problem, 31 Method-Specific
+To test this algorithm we computed the energy and 20 other properties of 4He.;32 Method-Procedure
+We then compared these values with those obtained from our earlier infinite nuclear mass algorithm.;32 Method-Procedure
+All of our expectation values are in excellent agreement with previous results on this system.;42 Results-Reference
+87;
+Materials that change shape are attractive candidates to replace traditional actuators for applications with power or size restrictions.;1 Background
+In this work, we design a polymeric bilayer that changes shape in response to both heat and water by the incorporation of a water-responsive hydrophilic polymer with a heat-responsive liquid crystal elastomer.;2 Problem
+The distinct shape changes based on stimulus are controlled by the molecular order, and consequently the anisotropic modulus, of a liquid crystal elastomer.;32 Method-Procedure
+In response to water, the hydrophilic polymer layer expands, bending the bilayer along the path dictated by the anisotropic modulus of the liquid crystal elastomer layer, which is approximately 5 times higher along the molecular orientation than in perpendicular directions.;41 Results-Specific
+We demonstrate that by varying the direction of this stiffer axis in LCE films, helical pitch of the swollen bilayer can be controlled from 0.1 to 20 mm.;41 Results-Specific
+By spatially patterning the stiffer axis with a resolution of 900 μm2, we demonstrate bilayers that fold and bend based on the pattern within the LCE.;42 Results-Reference
+In response to heat, the liquid crystal elastomer contracts along the direction of molecular order, and when this actuation is constrained by the hydrophilic polymer, this contraction results in a 3D shape that is distinct from the shape seen in water.;42 Results-Reference
+Furthermore, by using the vitrification of the dry hydrophilic polymer this 3D shape can be retained in the bilayer after cooling.;42 Results-Reference
+By utilizing sequential exposure to heat and water, we can drive the initially flat bilayer to reversibly shift between 3D shapes.;51 Conclusions-Explanation
+88;
+A simple, versatile approach for the roughening of polymer microparticles surfaces via a deformation technique in the presence of an inorganic matrix is presented here.;2 Problem, 31 Method-Specific
+The process consists of straightforward steps: (1) preparation of a bicomposite colloidal sol, that is polymer particles and inorganic particles, dispersed in a liquid, (2) drying of the mixture onto a suitable hard substrate, (3) heating the dried film above the glass transition temperature of the polymer, and (4) re-dispersion and chemical etching of the inorganic medium.;32 Method-Procedure
+The primary driver is capillary imbibition of the polymer melt into the inorganic colloidal template.;32 Method-Procedure
+In addition, 2D particle tracking experiments of dispersed rough particles in water were performed to probe the diffusional behaviour of the roughened objects in comparison with their smooth precursors.;32 Method-Procedure
+We show that, despite large scale roughness (up to 10% asperity size with respect to particle diameter), Stokes law is obeyed and the particle motion can be modelled simply with the Stokes–Einstein–Sutherland relation.;42 Results-Reference, 52 Conclusions-Specific
+89;
+Thin-film bijels have many potential energy and environmental applications.;1 Background
+In this work, the metastable bijel morphology space in thin-film confinement is explored with a Cahn–Hilliard/Brownian-Dynamics computational model.;2 Problem
+The key parameters varied are the bijel liquid phase blend ratio and the bijel film thickness.;32 Method-Procedure
+Simulations reveal a broad spectrum of structurally unique morphologies that have yet to be observed in experiments and which could have interesting applications in membrane science and other domains.;42 Results-Reference
+Extensive analyses of surface-to-volume ratios, interfacial particle attachment statistics, and topological interfacial curvatures within the bijels are presented for a complete characterization of the morphological structure.;42 Results-Reference
+90;
+Despite active research, many fundamental aspects of block copolymer ordering remain unresolved.;2 Problem
+We studied the thickness-dependence of block copolymer grain coarsening kinetics, and find that thinner films order more rapidly than thicker films.;2 Problem, 41 Results-Specific
+Bilayer films, or monolayers with partial layers of islands, order more slowly than monolayers because of the greater amount of material that must rearrange in a coordinated fashion.;51 Conclusions-Explanation
+Sub-monolayer films order much more rapidly than monolayers, exhibiting considerably smaller activation energies, as well as larger exponents for the time-growth power-law.;42 Results-Reference
+Using molecular dynamics simulations, we directly study the motion of defects in these film regimes.;31 Method-Specific
+We attribute the enhanced grain growth in sub-monolayers to the film boundaries, where defects can be spontaneously eliminated.;42 Results-Reference
+The boundaries thus act as efficient sinks for morphological defects, pointing towards methods for engineering rapid ordering of self-assembling thin films.;52 Conclusions-Specific
+91;
+Device efficiency in key organic electronic devices such as organic photovoltaics, field transistors, and light emitting diodes has long been known to be closely tied to the conformation of the conjugated polymer chains which make up the active layers.;1 Background
+Our previous results show that light exposure can have a profound effect on the structure and assembly of these optoelectronic materials in solution.;2 Problem
+In order to advance our understanding of the role which solvent quality plays in this phenomenon, we have further studied the modulation of these illumination dependent structural changes on the key benchmark conjugated polymers P3HT and MEH-PPV as a function of solvent quality over a wide range of polymer solubilities.;2 Problem
+Analysis of this data indicates that use of poorer conjugated polymer solvents ultimately results in larger absolute alterations to polymer conformation, denoting the crucial role which solution thermodynamics plays in this generic effect.;42 Results-Reference, 52 Conclusions-Specific
+This discovery opens the door to controlling final device morphology through careful manipulation of solvent composition during solution based device casting techniques, moving our efforts closer to the development of a powerful, non-destructive, and tunable method for light-driven control of polymer conformation in novel light-responsive organic materials.;52 Conclusions-Specific
+92;
+We study the three-dimensional, incompressible, non-hydrostatic Boussinesq fluid equations, which are applicable to the dynamics of the oceans and atmosphere.;2 Problem
+These equations describe the interplay between velocity and buoyancy in a rotating frame.;1 Background
+A hierarchy of dynamical variables is introduced whose members ${{ \Omega }_{m}}(t)$ ($1\leqslant m<\infty $) are made up from the respective sum of the L 2m -norms of vorticity and the density gradient.;32 Method-Procedure
+Each ${{ \Omega }_{m}}(t)$ has a lower bound in terms of the inverse Rossby number, Ro −1, that turns out to be crucial to the argument.;32 Method-Procedure
+For convenience, the ${{ \Omega }_{m}}$ are also scaled into a new set of variables D m (t).;32 Method-Procedure
+By assuming the existence and uniqueness of solutions, conditional upper bounds are found on the D m (t) in terms of Ro −1 and the Reynolds number Re.;42 Results-Reference
+These upper bounds vary across bands in the $\left\{{{D}_{1}},\,{{D}_{m}}\right\}$ phase plane.;41 Results-Specific
+The boundaries of these bands depend subtly upon Ro −1, Re, and the inverse Froude number Fr −1.;41 Results-Specific
+For example, solutions in the lower band conditionally live in an absorbing ball in which the maximum value of ${{ \Omega }_{1}}$ deviates from Re 3/4 as a function of $R{{o}^{-1}},\,Re$ and Fr −1.;41 Results-Specific
+93;
+If a nonlinear function F(S) depends on a function S(x) that is represented by a factorially divergent asymptotic power series in a small parameter x, each late coefficient of the power series for F(S(x)) can be represented explicitly as an asymptotic series whose terms involve balanced combinations of the late and early coefficients of the series for S(x).;1 Background
+The formula for the late terms was first described by R B Dingle but not published by him.;1 Background
+Numerics for a variety of functions F(S) demonstrate this 'self-resurgence' and the accuracy of the representation.;42 Results-Reference
+94;
+We prove results that enable the efficient and natural realization of a large class of robust heteroclinic networks in coupled identical cell systems.;2 Problem
+We also propose some general conjectures that relate a natural and large class of robust heteroclinic networks that occur in networks modelled by equations of Lotka–Volterra type, and certain networks of symmetric systems, to robust heteroclinic networks in coupled cell networks.;2 Problem
+95;
+Real-world networks in technology, engineering and biology often exhibit dynamics that cannot be adequately reproduced using network models given by smooth dynamical systems and a fixed network topology.;2 Problem
+Asynchronous networks give a theoretical and conceptual framework for the study of network dynamics where nodes can evolve independently of one another, be constrained, stop, and later restart, and where the interaction between different components of the network may depend on time, state, and stochastic effects.;1 Background
+This framework is sufficiently general to encompass a wide range of applications ranging from engineering to neuroscience.;2 Problem
+Typically, dynamics is piecewise smooth and there are relationships with Filippov systems.;1 Background
+In this paper, we give examples of asynchronous networks, and describe the basic formalism and structure.;2 Problem
+In the following companion paper, we make the notion of a functional asynchronous network rigorous, discuss the phenomenon of dynamical locks, and present a foundational result on the spatiotemporal factorization of the dynamics for a large class of functional asynchronous networks.;Unknown
+96;
+Building on the first part of this paper, we develop the theory of functional asynchronous networks.;2 Problem
+We show that a large class of functional asynchronous networks can be (uniquely) represented as feedforward networks connecting events or dynamical modules.;42 Results-Reference
+For these networks we can give a complete description of the network function in terms of the function of the events comprising the network: the modularization of dynamics theorem.;42 Results-Reference
+We give examples to illustrate the main results.;42 Results-Reference
+97;
+In this paper, we consider magnetic flows on 2-step nilmanifolds $M= \Gamma \backslash G$, where the Riemannian metric g and the magnetic field σ are left-invariant.;2 Problem
+Our first result is that when σ represents a rational cohomology class and its restriction to $\mathfrak{g}={{T}_{e}}G$ vanishes on the derived algebra, then the associated magnetic flow has zero topological entropy.;41 Results-Specific
+In particular, this is the case when σ represents a rational cohomology class and is exact.;41 Results-Specific
+Our second result is the construction of a magnetic field on a 2-step nilmanifold that has positive topological entropy for arbitrarily high energy levels.;41 Results-Specific
+98;
+The mode-locking regions of a dynamical system are subsets of parameter space within which there exists an attracting periodic solution.;1 Background
+For piecewise-linear continuous maps, these regions have a distinctive chain structure with points of zero width called shrinking points.;1 Background
+In this paper a local analysis about an arbitrary shrinking point is performed.;2 Problem
+This is achieved by studying the symbolic itineraries of periodic solutions in nearby mode-locking regions and performing an asymptotic analysis on one-dimensional centre manifolds in order to build a comprehensive theoretical framework for the local dynamics.;32 Method-Procedure
+The main results are universal quantitative descriptions for the shape of nearby mode-locking regions, the location of nearby shrinking points, and the key properties of these shrinking points.;42 Results-Reference
+The results are applied to the three-dimensional border-collision normal form, a model of an oscillator subject to dry friction, and a model of a DC/DC power converter.;32 Method-Procedure
+99;
+Fully nonlocal two-projector norm-conserving pseudopotentials are shown to be compatible with a systematic approach to the optimization of convergence with the size of the plane-wave basis.;42 Results-Reference
+A reformulation of the optimization is developed, including the ability to apply it to positive-energy atomic scattering states and to enforce greater continuity in the pseudopotential.;42 Results-Reference
+The generalization of norm conservation to multiple projectors is reviewed and recast for the present purposes.;42 Results-Reference
+Comparisons among the results of all-electron and one- and two-projector norm-conserving pseudopotential calculations of lattice constants and bulk moduli are made for a group of solids chosen to represent a variety of types of bonding and a sampling of the periodic table.;42 Results-Reference
+100;
+Persistent currents in Bose condensates with a scalar order parameter are stabilized by the topology of the order parameter manifold.;1 Background
+In condensates with multicomponent order parameters it is topologically possible for supercurrents to “unwind” without leaving the manifold.;2 Problem
+We study the energetics of this process in the case of ferromagnetic condensates using a long wavelength energy functional that includes both the superfluid and spin stiffnesses.;2 Problem, 32 Method-Procedure
+Exploiting analogies to an elastic rod and rigid body motion, we show that the current carrying state in a 1D ring geometry transitions between a spin helix in the energy minima and a solitonlike configuration at the maxima.;32 Method-Procedure, 41 Results-Specific
+The relevance to recent experiments in ultracold atoms is briefly discussed.;42 Results-Reference

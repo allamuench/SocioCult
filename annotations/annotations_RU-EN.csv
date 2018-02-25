@@ -1,0 +1,679 @@
+1;
+Various models for transition between electron and nuclear subsystems are compared in the case of electron attachment to the SF6 molecule.;2 Problem
+Experimental data, including the cross section of electron attachment to this molecule as a function of the electron energy and vibrational temperature, the rate constants of this process in swarm experiments, and the rates of the chemionization process involving Rydberg atoms and the SF6 molecule, are collected and treated.;42 Results-Reference
+Based on the data and on the resonant character of electron capture into an autodetachment ion state in accordance with the Breit-Wigner formula, we find that intersection of the molecule and negative ion electron terms proceeds above the potential well bottom of the molecule with the barrier height 0.05-0.1 eV, and the transition between these electron terms has both the tunnel and above-barrier character.;41 Results-Specific
+The limit of small electron energies \varepsilon for the electron attachment cross section at room vibrational temperature takes place at \varepsilon \ll 2 meV, while in the range 2 meV\ll \varepsilon \ll 80 meV, the cross section is inversely proportional to \varepsilon.;41 Results-Specific
+In considering the attachment process as a result of the interaction between the electron and vibrational degrees of freedom, we find the coupling factor f between them to be f=aT at low vibrational temperatures T with a \approx 3\cdot 10^{-4} K-1.;41 Results-Specific
+The coupling factor is independent of the temperature at T>400 K.;41 Results-Specific
+2;
+Many interesting nonlinear effects are based on the strong interaction of motional degrees of freedom of atoms with an optical cavity field.;1 Background
+Among them is the spatial self-organization of atoms in a pattern where the atoms group in either odd or even sites of the cavity-induced optical potential.;1 Background
+An experimental observation of this effect can be simplified by using, along with the original cavity-induced feedback, an additional electronic feedback based on the detection of light leaking the cavity and the control of the optical potential for the atoms.;52 Conclusions-Specific
+Following our previous study, we show that this approach is more efficient from the laser power perspective than the original scheme without the electronic feedback.;2 Problem
+3;
+We present the results of a systematic study of Knudsen's flow of Rb atoms in cylindrical capillary cells coated with a polydimethylsiloxane (PDMS) compound.;2 Problem
+The purpose of the investigation is to determine the characterization of the coating in terms of the sticking probability and sticking time of Rb on the two types of coating of high and medium viscosities.;2 Problem
+We report the measurement of the sticking probability of an Rb atom to the coating equal to 4.3\cdot10^{-5}, which corresponds to the number of bounces 2.3\cdot10^4 at room temperature.;41 Results-Specific
+These parameters are the same for the two kinds of PDMS used.;41 Results-Specific
+We find that at room temperature, the respective sticking times for high-viscosity and medium-viscosity PDMS are 22\pm3 \mus and 49\pm6 \mus.;41 Results-Specific
+These sticking times are about million times larger than the sticking time derived from the surface Rb atom adsorption energy and temperature of the coating.;41 Results-Specific
+A tentative explanation of this surprising result is proposed based on the bulk diffusion of the atoms that collide with the surface and penetrate inside the coating.;42 Results-Reference
+The results can be important in many resonance cell experiments, such as the efficient magneto-optical trapping of rare elements or radioactive isotopes and in experiments on the light-induced drift effect.;51 Conclusions-Explanation
+4;
+The wave function of a moderately cold atom in a stationary near-resonant standing light wave delocalizes very fast due to wave packet splitting.;2 Problem
+However, we show that frequency modulation of the field can suppress packet splitting for some atoms whose specific velocities are in a narrow range.;2 Problem
+These atoms remain localized in a small space for a long time.;42 Results-Reference
+We demonstrate and explain this effect numerically and analytically.;32 Method-Procedure
+We also demonstrate that the modulated field can not only trap but also cool the atoms.;42 Results-Reference
+We perform a numerical experiment with a large atomic ensemble having wide initial velocity and energy distributions.;32 Method-Procedure
+During the experiment, most of atoms leave the wave while the trapped atoms have a narrow energy distribution.;42 Results-Reference
+5;
+We investigate the Jordan-Wigner fermion clusters with a stationary distributed quantum pairwise discord.;2 Problem
+Such clusters appear after the Jordan-Wigner transformation of a spin chain governed by the nearest-neighbor XY Hamiltonian with the particular initial state having one polarized node.;1 Background
+We show that the quantum discord stationarity in such systems is not destroyed by the ''parasitic'' polarization of at least two types.;42 Results-Reference
+The first type appears because the initial state with a single polarized node is hardly realizable experimentally, and therefore the low polarization of neighboring nodes must be taken into account.;41 Results-Specific
+The second is the unavoidable additional noise polarization of all nodes.;41 Results-Specific
+Although the stationarity may not be destroyed by perturbations of the above two types, the parasitic polarizations deform the pairwise discord distribution and may destroy clusters of correlated fermions with equal pairwise discords.;41 Results-Specific
+Such deformations are studied in this paper.;2 Problem
+6;
+We show that the lepton bag model considered in our previous paper BurGrBag, generating the external gravitational and electromagnetic fields of the Kerr-Newman (KN) solution, is supersymmetric and represents a BPS-saturated soliton interpolating between the internal vacuum state and the external KN solution.;42 Results-Reference
+We obtain Bogomolnyi equations for this phase transition and show that the Bogomolnyi bound determines all important features of this bag model, including its stable shape.;42 Results-Reference
+In particular, for the stationary KN solution, the BPS bound provides stability of the ellipsoidal form of the bag and the formation of the ring-string structure at its border, while for the periodic electromagnetic excitations of the KN solution, the BPS bound controls the deformation of the surface of the bag, reproducing the known flexibility of bag models.;41 Results-Specific
+7;
+We try to find grounds for the standard nucleon QCD sum rules, based on a more detailed description of the QCD vacuum.;2 Problem
+We calculate the polarization operator of the nucleon current in the instanton medium.;32 Method-Procedure
+The medium (QCD vacuum) is assumed to be a composition of the small-size instantons and some long-wave gluon fluctuations.;Unknown
+We solve the corresponding QCD sum rule equations and demonstrate that there is a solution with the value of the nucleon mass close to the physical one if the fraction of the small-size instantons contribution is w_s \approx 2/3.;41 Results-Specific
+8;
+The Kerr-Newman (KN) black hole (BH) solution exhibits the external gravitational and electromagnetic field corresponding to that of the Dirac electron.;1 Background
+For the large spin/mass ratio, a\gg m, the BH loses horizons and obtains a naked singular ring creating two-sheeted topology.;1 Background
+This space is regularized by the Higgs mechanism of symmetry breaking, leading to an extended particle that has a regular spinning core compatible with the external KN solution.;1 Background
+We show that this core has much in common with the known MIT and SLAC bag models, but has the important advantage of being in accordance with the external gravitational and electromagnetic fields of the KN solution.;42 Results-Reference
+A peculiar two-sheeted structure of Kerr's gravity provides a framework for the implementation of the Higgs mechanism of symmetry breaking in configuration space in accordance with the concept of the electroweak sector of the Standard Model.;41 Results-Specific
+Similar to other bag models, the KN bag is flexible and pliant to deformations.;42 Results-Reference
+For parameters of a spinning electron, the bag takes the shape of a thin rotating disk of the Compton radius, with a ring-string structure and a quark-like singular pole formed at the sharp edge of this disk, indicating that the considered lepton bag forms a single bag-string-quark system.;42 Results-Reference
+9;
+Drag of electrons of a one-dimensional ballistic nanowire by a nearby one-dimensional beam of ions is considered.;42 Results-Reference
+We assume that the ion beam is represented by an ensemble of heavy ions of the same velocity V.;32 Method-Procedure
+The ratio of the drag current to the primary current carried by the ion beam is calculated.;32 Method-Procedure
+The drag current turns out to be a nonmonotonic function of velocity V.;41 Results-Specific
+It has a sharp maximum for V near vnF/2, where n is the number of the uppermost electron (miniband channel) taking part in conductance and vnF is the corresponding Fermi velocity.;41 Results-Specific
+This means that the phenomenon of ion beam drag can be used for investigation of the electron spectra of ballistic nanostructures.;52 Conclusions-Specific
+We note that whereas observation of the Coulomb drag between two parallel quantum wires may be in general complicated by phenomena such as tunneling and phonon drag, the Coulomb drag of electrons of a one-dimensional ballistic nanowire by an ion beam is free from such spurious effects.;52 Conclusions-Specific
+10;
+Processes are considered for conversion into a fractal structure of a hot metal micron-size particle that is located in a buffer gas or a gas flow and is heated by an external electric or electromagnetic source or by a plasma.;2 Problem
+The parameter of this heating is the particle temperature, which is the same in all of the particle volume because of its small size and high conductivity.;1 Background
+Three processes determine the particle heat balance: particle radiation, evaporation of metal atoms from the particle surface, and heat transport to the surrounding gas due to its thermal conductivity.;1 Background
+The particle heat balance is analyzed based on these processes, which are analogous to those for bulk metals with the small particle size and its high temperature taken into account.;32 Method-Procedure
+Outside the particle, where the gas temperature is lower than on its surface, the formed metal vapor in a buffer gas flow is converted into clusters.;42 Results-Reference
+Clusters grow as a result of coagulation, until they become liquid, and then clusters form fractal aggregates if they are removed form the gas flow.;41 Results-Specific
+Subsequently, association of fractal aggregates join into a fractal structure.;41 Results-Specific
+The rate of this process increases in middle electric fields, and the formed fractal structure has features of aerogels and fractal fibers.;42 Results-Reference
+As a result of a chain of the above processes, a porous metal film may be manufactured for use as a filter or catalyst for gas flows.;52 Conclusions-Specific
+11;
+We describe the interaction of a Rayleigh surface acoustic wave (SAW) traveling on the semiconductor substrate with the excitonic gas in a double quantum well located on the substrate surface.;2 Problem
+We study the SAW attenuation and its velocity renormalization due to the coupling to excitons.;2 Problem
+Both the deformation potential and piezoelectric mechanisms of the SAW-exciton interaction are considered.;42 Results-Reference
+We focus on the frequency and excitonic density dependences of the SAW absorption coefficient and velocity renormalization at temperatures both above and well below the critical temperature of Bose-Einstein condensation of the excitonic gas.;2 Problem
+We demonstrate that the SAW attenuation and velocity renormalization are strongly different below and above the critical temperature.;42 Results-Reference
+12;
+A new approach to the diffusion-limited reaction kinetics for particles migrating by random walks on discrete lattice sites and reacting when two particles occupy the same site is extended to a more general case of a large reaction radius and applied to the problem of the recombination rate of point defects in cubic lattices.;2 Problem
+Numerical calculations correctly reproduce the analytic expressions in the limit cases considered in previous work and in the general case represent a step-wise dependence of the reaction rate on the recombination radius.;42 Results-Reference
+13;
+The self-organization and magnetic properties of small iron and cobalt nanostructures embedded into the first layer of a Cu(100) surface are investigated using the self-learning kinetic Monte Carlo method and density functional theory.;2 Problem, 31 Method-Specific
+The similarities and differences between the Fe/Cu(100) and the Co/Cu(100) are underlined.;42 Results-Reference
+The time evolution of magnetic properties of a copper monolayer with embedded magnetic atoms at 380 K is discussed.;42 Results-Reference
+14;
+A new compound CuNaB3 O_{6}\cdot0.842 H2 O was grown for the first time.;41 Results-Specific
+Its crystal structure, magnetic susceptibility, and magnetic resonance properties are presented.;42 Results-Reference
+It was proposed that CuNaB3 O_{6}\cdot0.842 H2 O is a spin-Peierls magnet with the transition temperature T_{SP}\sim 128 K and a ladder spin structure.;41 Results-Specific
+The possibility of a structure phase transition at TSP is predicted.;52 Conclusions-Specific
+15;
+The recent increase in the number of studies of RFe11-xMx compounds is related to their promising application as permanent magnets.;1 Background
+However, the insufficiently high value of the Curie temperature TC of these compounds is a barrier to their widespread use.;2 Problem
+The increase in the Curie temperature of these compounds is achieved by doping with the light nonmetallic atoms such as hydrogen, nitrogen, and carbon.;32 Method-Procedure
+In this paper, it is shown numerically that this doping leads to drastic changes of the electronic band dispersions in a wide energy region around the Fermi level.;42 Results-Reference
+This in turn changes values of the magnetic moments of ions and Heisenberg exchange interaction parameters.;42 Results-Reference
+The values of ab initio calculated magnetic moments and direct exchange interaction parameters allow to calculate the Curie temperatures for both parent and nitrogen-doped compounds within the mean-field approach to the Heisenberg model in the sample of YFe11Mo, a typical representative of the R(Fe,M)12L class.;42 Results-Reference
+Theoretical values of TC obtained for YFe11Mo and YFe11MoN (514 K and 723 K respectively) are consistent with experimental ones (472 K and 664 K) with an accuracy of 10%.;41 Results-Specific
+Also, the calculated increase in TC upon nitrogenization (about 200 K) is in good agreement with the experimental data.;41 Results-Specific
+16;
+We derive a Ginzburg-Landau (GL) expansion in the disordered attractive Hubbard model within the combined Nozieres-Schmitt-Rink and DMFT+Σ approximation.;2 Problem
+Restricting ourselves to the homogeneous expansion, we analyze the disorder dependence of GL expansion coefficients for a wide range of attractive potentials U, from the weak BCS coupling region to the strong-coupling limit, where superconductivity is described by Bose-Einstein condensation (BEC) of preformed Cooper pairs.;32 Method-Procedure
+We show that for the a semi-elliptic ''bare'' density of states of the conduction band, the disorder influence on the GL coefficients A and B before quadratic and quartic terms of the order parameter, as well as on the specific heat discontinuity at the superconducting transition, is of a universal nature at any strength of the attractive interaction and is related only to the general widening of the conduction band by disorder.;42 Results-Reference
+In general, disorder growth increases the values of the coefficients A and B, leading either to a suppression of the specific heat discontinuity (in the weak-coupling limit), or to its significant growth (in the strong-coupling region).;42 Results-Reference
+However, this behavior actually confirms the validity of the generalized Anderson theorem, because the disorder dependence of the superconducting critical temperature Tc is also controlled only by disorder widening of the conduction band (density of states).;51 Conclusions-Explanation
+17;
+The electronic structure of Gd-doped MgO is investigated using the LSDA+U local spin density approximation (with U-correction) method and compared to the MgO structure.;2 Problem, 31 Method-Specific
+The total density of states obtained accounting for the correlation effects in the 4f shell of gadolinium is found to be formed by the oxygen 2p states at the valence band and the 4f gadolinium occupied states, while the conduction band is represented by a mixture of empty electronic states.;42 Results-Reference
+Magnetic properties of the calculated Gd-doped MgO are found to be formed solely by the Gd-4f-magnetic moment of about 7 μB, in good agreement with recent experimental results suggesting a ferromagnetic coupling of the local magnetic moments induced by Gd.;41 Results-Specific
+18;
+We discuss the most prominent and intensively studied S=1 pseudospin formalism for the extended boson Hubbard model (EBHM) with the on-site Hilbert space truncated to the three lowest occupation states n=0, 1, 2.;2 Problem
+The EBHM Hamiltonian is a paradigmatic model for the highly topical field of ultracold gases in optical lattices.;1 Background
+The generalized non-Heisenberg effective pseudospin Hamiltonian does provide a deep link with a boson system and a physically clear description of ''the myriad of phases'', from uniform Mott insulating phases and density waves to two types of superfluids and supersolids.;42 Results-Reference
+We argue that the 2D pseudospin system is prone to a topological phase separation and focus on several types of unconventional skyrmion-like topological structures in 2D boson systems, which have not been analyzed until now.;52 Conclusions-Specific
+The structures are characterized by a complicated interplay of insulating and two superfluid phases with a single-boson and two-boson condensation, respectively.;42 Results-Reference
+19;
+We explore a combined effect of hexagonal warping and a finite effective mass on both the tunneling density of electronic surface states and the structure of Landau levels of 3D topological insulators.;2 Problem
+We find the increasing warping to transform the square-root van Hove singularity into a logarithmic one.;32 Method-Procedure
+For moderate warping, an additional logarithmic singularity and a jump in the tunneling density of surface states appear.;42 Results-Reference
+By combining the perturbation theory and the WKB approximation, we calculate the Landau levels in the presence of hexagonal warping.;32 Method-Procedure
+We predict that due to the degeneracy removal, the evolution of Landau levels in the magnetic field is drastically modified.;52 Conclusions-Specific
+20;
+Using the generalized DMFT+Σ approach,  we study the influence of disorder on single-particle properties of the normal phase and the superconducting transition temperature in the attractive Hubbard model.;2 Problem, 31 Method-Specific
+A wide range of attractive potentials U is studied, from the weak coupling region, where both the instability of the normal phase and superconductivity are well described by the BCS model, to the strong-coupling region, where the superconducting transition is due to Bose-Einstein condensation BEC) of compact Cooper pairs, formed at temperatures much higher than the superconducting transition temperature.;32 Method-Procedure
+We study two typical models of the conduction band with semi-elliptic and flat densities of states, respectively appropriate for three-dimensional and two-dimensional systems.;2 Problem
+For the semi-elliptic density of states, the disorder influence on all single-particle properties (e.g., density of states) is universal for an arbitrary strength of electronic correlations and disorder and is due to only the general disorder widening of the conduction band.;42 Results-Reference
+In the case of a flat density of states, universality is absent in the general case, but still the disorder influence is mainly due to band widening, and the universal behavior is restored for large enough disorder.;42 Results-Reference
+Using the combination of DMFT+Σ and Nozieres-Schmitt-Rink approximations, we study the disorder influence on the superconducting transition temperature Tc for a range of characteristic values of U and disorder, including the BCS-BEC crossover region and the limit of strong-coupling.;31 Method-Specific
+Disorder can either suppress Tc (in the weak-coupling region) or significantly increase Tc (in the strong-coupling region).;42 Results-Reference
+However, in all cases, the generalized Anderson theorem is valid and all changes of the superconducting critical temperature are essentially due to only the general disorder widening of the conduction band.;51 Conclusions-Explanation
+21;
+We consider formulations of the functional renormalization-group (fRG) flow for correlated electronic systems with the dynamical mean-field theory as a starting point.;2 Problem
+We classify the corresponding renormalization-group schemes into those neglecting one-particle irreducible six-point vertices with respect to the local Green's functions) and neglecting one-particle reducible six-point vertices.;32 Method-Procedure
+The former class is represented by the recently introduced DMF2RG approach 31, but also by the scale-dependent generalization of the one-particle irreducible representation (with respect to local Green's functions, 1PI-LGF) of the generating functional 20.;42 Results-Reference
+The second class is represented by the fRG flow within the dual fermion approach 16,32.;42 Results-Reference
+We compare formulations of the fRG approach in each of these cases and suggest their further application to study 2D systems within the Hubbard model.;32 Method-Procedure
+22;
+The localized opical modes in spiral photonic liquid crystals are theoretically studied for the certainty at the example of chiral liquid crystals (CLCs) for the case of CLC with an anisotropic local absorption.;2 Problem
+The chosen here model (absence of dielectric interfaces in the studied structures) allows one to get rid off the polarization mixing at the surfaces of the CLC layer and the defect structure (DMS) and to reduce the corresponding equations to the equations for the light of diffracting in the CLC polarization only.;42 Results-Reference
+The dispersion equations determining connection of the EM and DM frequencies with the CLC layer parameters (anisotropy of local absorption, CLC order parameter) and other parameters of the DMS are obtained.;42 Results-Reference
+Analytic expressions for the transmission and reflection coefficients of CLC layer and DMS for the case of CLC with an anisotropic local absorption are presented and analyzed.;42 Results-Reference
+It is shown that the CLC layers with locally anisotropic absorption reduce the EM and DM lifetimes (and increase the lasing threshold) by the way different from the case of CLC with an isotropic local absorption.;42 Results-Reference
+Due to the Borrmann effect revealing of which is different at the opposite stop-band edges in the case of CLC layers with an anisotropic local absorption the EM life-times for the EM frequencies at the opposite stop-bands edges may be significanately different.;51 Conclusions-Explanation
+The options of experimental observations of the theoretically revealed phenomena are briefly discussed.;53 Conclusions-Reference
+23;
+An analytic approach to the theory of the optical defect modes in photonic liquid crystals in the case of an active defect layer is developed.;42 Results-Reference
+The analytic study is facilitated by the choice of the problem parameters related to the dielectric properties of the studied structures.;42 Results-Reference
+The chosen models allow eliminating polarization mixing at the external surfaces of the studied structures.;42 Results-Reference
+The dispersion equations determining the relation of the defect mode (DM) frequency to the dielectric characteristics of an isotropic, birefringent and absorbing amplifying) defect layer and its thickness are obtained.;42 Results-Reference
+Analytic expressions for the transmission and reflection coefficients of the defect mode structure (DMS) photonic liquid crystal-active defect layer-photonic liquid crystal) are presented and analyzed.;42 Results-Reference
+The effect of anomalously strong light absorption at the defect mode frequency for an absorbing defect layer is discussed.;42 Results-Reference
+It is shown that in a distributed feedback lasing at the DMS with an amplifying defect layer, adjusting the lasing frequency to the DM frequency results in a significant decrease in the lasing threshold and the threshold gain decreases as the defect layer thickness increases.;42 Results-Reference
+It is found that generally speaking the layer birefringence and dielectric jumps at the interfaces of the defect layer and photonic liquid crystal reduce the DM lifetime in comparison with the DMS with an isotropic defect layer without dielectric jumps at the interfaces.;42 Results-Reference
+Correspondingly, generally speaking, the effect of anomalously strong light absorption at the defect mode frequency and the decrease in the lasing threshold are not so pronounced as in the case of the DMS with an isotropic defect layer without dielectric jumps at the interfaces.;42 Results-Reference
+The case of a DMS with a low defect layer birefringence and sufficiently large dielectric jumps are studied in detail.;42 Results-Reference
+The options of effectively influencing the DM parameters by changing the defect layer dielectric properties, and the birefringence in particular, are discussed.;53 Conclusions-Reference
+24;
+The dynamics of a bubble in a dielectric liquid under the influence of a uniform external electric field are considered.;42 Results-Reference
+It is shown that in the situation where the boundary motion is determined only by electrostatic forces, the special regime of fluid motion can be realized for which the velocity and electric field potentials are linearly related.;42 Results-Reference
+In the two-dimensional case, the corresponding equations are reduced to an equation similar in structure to the well-known Laplacian growth equation, which, in turn, can be reduced to a finite number of ordinary differential equations.;42 Results-Reference
+This allows us to obtain exact solutions for asymmetric bubble deformations resulting in the formation of a finite-time singularity (cusp).;42 Results-Reference
+25;
+We briefly review the generalized dynamic mean-field theory DMFT+Σ applied to both repulsive and attractive disordered Hubbard models.;2 Problem
+We examine the general problem of metal-insulator transition and the phase diagram in the repulsive case, as well as the BCS-BEC crossover region of the attractive model, demonstrating a certain universality of single-electron properties under disordering in both models.;2 Problem
+We also discuss and compare the results for the density of states and dynamic conductivity in the repulsive and attractive cases and the generalized Anderson theorem behavior of the superconducting critical temperature in the disordered attractive case.;2 Problem
+A brief discussion of the behavior of Ginzburg-Landau coefficients under disordering in the BCS-BEC crossover region is also presented.;2 Problem
+26;
+We theoretically study nonradiative and radiative energy transfer between two localized quantum emitters, a donor (initially excited) and an acceptor (receiving the excitation).;2 Problem
+The rates of nonradiative and radiative processes are calculated depending on the spatial and spectral separation between the donor and acceptor states and for different donor and acceptor lifetimes for typical parameters of semiconductor quantum dots.;32 Method-Procedure
+We find that the donor lifetime can be significantly modified only due to the nonradiative Förster energy transfer process at donor-acceptor separations of approximately 10 nm - depending on the acceptor radiative lifetime) and for the energy detuning not larger than 1-2 meV.;41 Results-Specific
+The efficiency of the nonradiative Förster energy transfer process under these conditions is close to unity and decreases rapidly with an increase in the donor-acceptor distance or energy detuning.;42 Results-Reference
+At large donor-acceptor separations greater than 40 nm, the radiative corrections to the donor lifetime are comparable with nonradiative ones but are relatively weak.;41 Results-Specific
+27;
+We study holographic thermalization of a strongly coupled theory inspired by two colliding shock waves in a vacuum confining background.;2 Problem
+Holographic thermalization means a black hole formation, in fact, a trapped surface formation.;1 Background
+As the vacuum confining background, we considered the well-know bottom-up AdS/QCD model that provides the Cornell potential and reproduces the QCD β-function.;32 Method-Procedure
+We perturb the vacuum background by colliding domain shock waves that are assumed to be holographically dual to heavy ions collisions.;32 Method-Procedure
+Our main physical assumption is that we can make a restriction on the time of trapped surface formation, which results in a natural limitation on the size of the domain where the trapped surface is produced.;32 Method-Procedure
+This limits the intermediate domain where the main part of the entropy is produced.;32 Method-Procedure
+In this domain, we can use an intermediate vacuum background as an approximation to the full confining background.;32 Method-Procedure
+We find that the dependence of the multiplicity on energy for the intermediate background has an asymptotic expansion whose first term depends on energy as E1/3, which is very similar to the experimental dependence of particle multiplicities on the colliding ion energy obtained from the RHIC and LHC.;42 Results-Reference
+However, this first term, at the energies where the approximation of the confining metric by the intermediate background works, does not saturate the exact answer, and we have to take the nonleading terms into account.;42 Results-Reference
+28;
+We study the creation of high-energy SM particles in the Starobinsky model of dark energy (a variant of F(R)-gravity) inside the regions contracting due to the Jeans instability.;2 Problem
+In this modification of gravity, the additional degree of freedom - a scalaron - behaves as a particle with the mass depending on matter density.;1 Background
+Therefore, when the mass changes, light scalarons could be created at a nonadiabatic stage.;42 Results-Reference
+Later, the scalaron mass grows and can reach large values, even the value 1013 GeV, favored by early time inflation.;41 Results-Specific
+Heavy scalarons decay contributing to the cosmic ray flux.;41 Results-Specific
+We analytically calculate the number density of created particles for the exponential (Jeans) contraction and find it negligibly small for the phenomenologically viable and cosmologically interesting range of model parameters.;32 Method-Procedure
+We expect similar results for a generic model of F(R)-gravity mimicking the cosmological constant.;52 Conclusions-Specific
+29;
+Hidden symmetry in dissipationless terms of arbitrary hydrodynamics equations is recognized.;42 Results-Reference
+We demonstrate that all fluxes are generated by a single function and derive conventional Euler equations using the proposed formalisms.;42 Results-Reference
+30;
+The double Higgs production in the models with isospin-triplet scalars is studied.;2 Problem
+It is shown that in the see-saw type-II model, the mode with an intermediate heavy scalar, pp→ H+X→ 2h+X, may have the cross section that is comparable with that in the Standard Model.;42 Results-Reference
+In the Georgi-Machacek model, this cross section could be much larger than in the Standard Model because the vacuum expectation value of the triplet can be large.;42 Results-Reference
+31;
+The equation of state is investigated for a thin superconducting film in a longitudinal magnetic film and with strong spin-orbit interaction at the critical point.;2 Problem
+As a first step, the state with the maximal value of the magnetic field for a given value of spin-orbit interaction at T = 0 is chosen.;32 Method-Procedure
+This state is investigated in the low-temperature region.;32 Method-Procedure
+The temperature contribution to the equation of state is weakly singular.;42 Results-Reference
+32;
+We experimentally investigate spin-polarized electron transport between a permalloy ferromagnet and the edge of a two-dimensional electron system with band inversion, realized in a narrow, 8 nm wide, HgTe quantum well.;2 Problem, 32 Method-Procedure
+In a zero magnetic field, we observe strong asymmetry of the edge potential distribution with respect to the ferromagnetic ground lead.;42 Results-Reference
+This result indicates that the helical edge channel, specific for the structures with band inversion even at the conductive bulk, is strongly coupled to the ferromagnetic side contact, possibly due to the effects of proximity magnetization.;51 Conclusions-Explanation
+This allows selective and spin-sensitive contacting of helical edge states.;52 Conclusions-Specific
+33;
+We report the results of theoretical investigations of the tunneling current noise spectra through a single-level impurity both in the presence and in the absence of electron-phonon interaction based on the nonequilibrium Green's functions formalism.;2 Problem
+We show that due to the quantum nature of tunneling, the Fano factor is dramatically different from the Poisson limit both in the presence and in the absence of inelastic processes.;42 Results-Reference
+The results are demonstrated to be sensitive to the tunneling contact parameters.;42 Results-Reference
+34;
+Based on a special variant of the plaquette expansion, an operator is constructed whose eigenvalues give the low-energy singlet spectrum of a spin-1/2 Heisenberg antiferromagnet on a square lattice with nearest-heighbor and frustrating next-nearest-neighbor exchange couplings J1 and J2.;32 Method-Procedure
+It is well known that a nonmagnetic phase arises in this model for 0.4\lesssim J_2/J_1\lesssim 0.6, sandwiched by two Néel ordered phases.;1 Background
+In agreement with previous results, we observe a first-order quantum phase transition (QPT) at J_2\approx 0.64J_1 from the nonmagnetic phase to the Néel one.;41 Results-Specific
+A large gap (\gtrsim 0.4J_1) is found in the singlet spectrum for J2<0.64J1, which excludes a gapless spin-liquid state for 0.4\lesssim J_2/J_1\lesssim 0.6 and the deconfined quantum criticality scenario for the QPT to another Néel phase.;41 Results-Specific
+We observe a first-order QPT at J_2\approx 0.55J_1, presumably between two nonmagnetic phases.;41 Results-Specific
+35;
+The dynamics of Dirac-Weyl spin-polarized wavepackets driven by a periodic electric field is considered for the electrons in a mesoscopic quantum dot formed at the edge of the two-dimensional HgTe/CdTe topological insulator with Dirac-Weyl massless energy spectra, where the motion of carriers is less sensitive to disorder and impurity potentials.;2 Problem
+It is observed that the interplay of strongly coupled spin and charge degrees of freedom creates the regimes of irregular dynamics in both coordinate and spin channels.;42 Results-Reference
+The border between the regular and irregular regimes determined by the strength and frequency of the driving field is found analytically within the quasiclassical approach by means of the Ince-Strutt diagram for the Mathieu equation, and is supported by full quantum mechanical simulations of the driven dynamics.;42 Results-Reference
+The investigation of quasienergy spectrum by Floquet approach reveals the presence of non-Poissonian level statistics, which indicates the possibility of chaotic quantum dynamics and corresponds to the areas of parameters for irregular regimes within the quasiclassical approach.;42 Results-Reference
+We find that the influence of weak disorder leads to partial suppression of the dynamical chaos.;42 Results-Reference
+Our findings are of interest both for progress in the fundamental field of quantum chaotic dynamics and for further experimental and technological applications of spin-dependent phenomena in nanostructures based on topological insulators.;52 Conclusions-Specific
+36;
+We study an excitation of surface plasmons (SPs) due to the scattering of light by a dipole nanoparticle located near a flat air-metal interface.;2 Problem
+It is well known that such a scattering can reveal asymmetric behavior of excited SPs with respect to the plane of incidence of light.;1 Background
+This asymmetric SP excitation, which takes place at the incidence of elliptically polarized light, is often associated with the so-called photonic spin Hall effect caused by the interplay between rotating polarization of a nanoparticle and the intrinsic field angular momentum of the SP.;1 Background
+We show that this photonic spin Hall effect can be applied for the SP excitation control, which allows managing the SP directivity pattern and amplitude.;52 Conclusions-Specific
+The possibilities of SP control can also be extended using nanoparticles with anisotropic polarizability.;52 Conclusions-Specific
+We believe that manipulations with SPs at a nanometer scale may find some applications in modern nanoplasmonics.;52 Conclusions-Specific
+37;
+We consider excitations that exist, in addition to phonons, in the ideal Bose gas at zero temperature.;2 Problem
+These excitations are vortex rings whose energy spectrum is similar to the roton one in liquid helium.;42 Results-Reference
+38;
+We consider electromagnetic nonlinear normal modes in cylindrical cavity resonators filled with a nonlinear nondispersive medium.;2 Problem
+The key feature of the analysis is that exact analytic solutions of the nonlinear field equations are employed to study the mode properties in detail.;32 Method-Procedure
+Based on such a nonperturbative approach, we rigorously prove that the total energy of free nonlinear oscillations in a distributive conservative system, such as that considered in our work, can exactly coincide with the sum of energies of the normal modes of the system.;42 Results-Reference
+This fact implies that the energy orthogonality property, which has so far been known to hold only for linear oscillations and fields, can also be observed in a nonlinear oscillatory system.;52 Conclusions-Specific
+39;
+The statistical theory of diffusion in concentrated BCC and FCC alloys with arbitrary pairwise interatomic interactions based on the master equation approach is developed.;42 Results-Reference
+Vacancy-atom correlations are described using both the second-shell-jump and the nearest-neighbor-jump approximations which are shown to be usually sufficiently accurate.;32 Method-Procedure
+General expressions for Onsager coefficients in terms of microscopic interatomic interactions and some statistical averages are given.;42 Results-Reference
+Both the analytical kinetic mean-field and the Monte Carlo methods for finding these averages are described.;42 Results-Reference
+The theory developed is used to describe sharp concentration dependences of diffusion coefficients in several iron-based alloy systems.;32 Method-Procedure
+For the BCC alloys FeCu, FeMn, and FeNi, we predict the notable increase of the iron self-diffusion coefficient with solute concentration c, up to several times, even though values of c possible for these alloys do not exceed some percent.;42 Results-Reference
+For the BCC alloys FeCr at high temperatures T\gtrsim 1400 K, we show that the very strong and peculiar concentration dependences of both tracer and chemical diffusion coefficients observed in these alloys can be naturally explained by the theory, without invoking exotic models discussed earlier.;42 Results-Reference
+40;
+The effect of surface states of silicon nanocrystals embedded in silicon dioxide on the photoluminescent properties of the nanocrystals is reported.;42 Results-Reference
+We have investigated the time-resolved and stationary photoluminescence of silicon nanocrystals in the matrix of silicon dioxide in the visible and infrared spectral ranges at 77 and 300 K.;32 Method-Procedure
+The structures containing silicon nanocrystals were prepared by the high-temperature annealing of multilayer SiOx/SiO2 films.;32 Method-Procedure
+The understanding of the experimental results on photoluminescence is underlain by a model of autolocalized states arising on surface Si-Si dimers.;32 Method-Procedure
+The emission of autocatalized excitons is found for the first time, and the energy level of the autolocalized states is determined.;42 Results-Reference
+The effect of these states on the mechanism of the excitation and the photoluminescence properties of nanocrystals is discussed for a wide range of their dimensions.;42 Results-Reference
+It is reliably shown that the cause of the known blue boundary of photoluminescence of silicon nanocrystals in the silicon dioxide matrix is the capture of free excitons on autolocalized surface states.;42 Results-Reference
+41;
+Viewing shungite as loosely packed fractal nets of graphene-based (reduced graphene oxide, rGO) quantum dots GQDs), we consider photoluminescence of the latter as a convincing proof of the structural concept as well as of the GQD attribution to individual rGO fragments.;2 Problem
+We study emission from shungite GQDs for colloidal dispersions in water, carbon tetrachloride, and toluene at both room and low temperatures.;32 Method-Procedure
+As expected, the photoluminescence of the GQD aqueous dispersions is quite similar to that of synthetic GQDs of the rGO origin.;42 Results-Reference
+The morphological study of shungite dispersions shows a steady trend of GQDs to form fractals and to drastically change the colloid fractal structure caused by the solvent exchange.;42 Results-Reference
+Spectral study reveals a dual character of the emitting centers: individual GQDs are responsible for the spectra position while the fractal structure of GQD colloids provides high broadening of the spectra due to structural inhomogeneity, thus causing a peculiar dependence of the photoluminescence spectra on the excitation wavelength.;42 Results-Reference
+For the first time, photoluminescence spectra of individual GQDs were observed in frozen toluene dispersions, which paves the way for a theoretical treatment of the GQD photonics.;52 Conclusions-Specific
+42;
+New composite materials (SrFe12O19)x(CaCu3Ti4O12)1-x (x=0, 0.05, 1) have been synthesized.;41 Results-Specific
+Their magnetic properties are studied in the temperature range 5-300 K using the magnetic resonance and magnetometry methods.;31 Method-Specific, 42 Results-Reference
+It is found that strontium hexaferrite micro inclusions in the (SrFe12O19)0.05(CaCu3Ti4O12)0.95 composite ``magnetize'' CaCu3Ti4O12 at temperatures from 300 to 200 K, forming a ferrimagnetic particle near the SrFe12O19 ``core''.;41 Results-Specific
+The magnetic resonance line below 200 K splits into two lines corresponding to SrFe12O19 and CaCu3Ti4O12.;41 Results-Specific
+The core effect decoration is manifested in the increase in the Curie-Weiss temperature from 25 K in CaCu3Ti4O12 without the doping ceramics to 80 K in the composite with 5% of SrFe12O19.;41 Results-Specific
+43;
+We report a study of magnetic, electrical, and thermodynamic properties of a single crystal of the magnetic compound Cr0.26NbS1.74 at ambient and high pressures.;2 Problem
+Results of the measurements of magnetization as a function of temperature reveal the existence of a ferromagnetic phase transition in Cr0.26NbS1.74.;42 Results-Reference
+The effective number of Bohr magnetons per Cr atom in the paramagnetic phase of Cr0.26NbS1.74 is \mu _{eff}\approx 4.6\mu _B, which matches the literature data for Cr1/3NbS2.;41 Results-Specific
+Similarly, the effective number of Bohr magnetons per Cr atom in the saturation fields is rather close in both substances and corresponds to the number of magnetons in the Cr+3 ion.;42 Results-Reference
+In contrast to the stoichiometric compound, Cr0.26NbS1.74 does not show a metamagnetic transition, that indicates the lack of a magnetic soliton.;42 Results-Reference
+A high-pressure phase diagram of the compound reveals the quantum phase transition at T=0 and P\approx 4.2 GPa and the triple point situated at T\approx 20 K and P\approx 4.2 GPa.;41 Results-Specific
+44;
+Gapless phases in ground states of low-dimensional quantum spin systems are rather ubiquitous.;1 Background
+Their peculiarity is a remarkable sensitivity to external perturbations due to permanent criticality of such phases manifested by a slow (power-low) decay of pair correlations and the divergence of the corresponding susceptibility.;1 Background
+A strong influence of various defects on the properties of the system in such a phase can then be expected.;2 Problem
+Here, we consider the influence of vacancies on the thermodynamics of the simplest quantum model with a gapless phase, the isotropic spin-1/2 XX chain.;2 Problem
+The existence of the exact solution of this model gives a unique opportunity to describe in detail the dramatic effect of dilution on the gapless phase - the appearance of an infinite series of quantum phase transitions resulting from level crossing under the variation of a longitudinal magnetic field.;2 Problem
+We calculate the jumps in the field dependences of the ground-state longitudinal magnetization, susceptibility, entropy, and specific heat appearing at these transitions and show that they result in a highly nonlinear temperature dependence of these parameters at low T.;32 Method-Procedure, 41 Results-Specific
+Also, the effect of enhancement of the magnetization and longitudinal correlations in the dilute chain is established.;42 Results-Reference
+The changes of the pair spin correlators under dilution are also analyzed.;42 Results-Reference
+The universality of the mechanism of the quantum transition generation suggests that similar effects of dilution can also be expected in gapless phases of other low-dimensional quantum spin systems.;52 Conclusions-Specific
+45;
+We study the normal (nonsuperconducting) phase of the attractive Hubbard model within the dynamical mean field theory (DMFT) using the numerical renormalization group (NRG) as an impurity solver.;2 Problem, 31 Method-Specific
+A wide range of attractive potentials U is considered, from the weak-coupling limit, where superconducting instability is well described by the BCS approximation, to the strong-coupling region, where the superconducting transition is described by Bose condensation of compact Cooper pairs, which are formed at temperatures much exceeding the superconducting transition temperature.;32 Method-Procedure
+We calculate the density of states, the spectral density, and the optical conductivity in the normal phase for this wide range of U, including the disorder effects.;42 Results-Reference
+We also present the results on superconducting instability of the normal state dependence on the attraction strength U and the degree of disorder.;42 Results-Reference
+The disorder influence on the critical temperature Tc is rather weak, suggesting in fact the validity of Anderson's theorem, with the account of the general widening of the conduction band due to disorder.;52 Conclusions-Specific
+46;
+The earlier-suggested master equation approach is used to develop the statistical theory of steady-state diffusion in concentrated substitution alloys considering FCC alloys with the nearest-neighbor pairwise interactions as an example.;2 Problem, 31 Method-Specific
+General expressions for the Onsager coefficients in terms of microscopic interatomic interactions and some statistical averages are presented.;42 Results-Reference
+We discuss methods of calculations of these averages using various statistical approximations and various approximations for description of vacancy correlations, with the full taking into account the vacancy-solute interactions.;42 Results-Reference
+Our simplest statistical approximation, called the ``kinetic mean-field approximation'' (KMFA), corresponds to using the mean-field approximation for statistical averages and the pair-cluster approximation (PCA) for calculations of thermodynamic parameters, for dilute alloys, the KMFA is exact.;31 Method-Specific
+To describe vacancy correlation effects at any concentrations, we develop both the nearest-neighbor-jump approximation and the second-shell-jump approximation.;31 Method-Specific
+We also describe methods to take into account fluctuations in statistical averages using the PCA, and to describe non-pairwise vacancy-solute correlations using the triple vacancy-solute correlation model.;31 Method-Specific
+For each of approximations and methods developed, we derive expressions for the Onsager coefficients at any composition of an alloy.;42 Results-Reference
+For binary alloys, we also present expressions for the diffusion coefficients.;42 Results-Reference
+The results obtained can provide a basis for microscopic calculations of diffusion coefficients at any composition of an alloy.;52 Conclusions-Specific
+47;
+Highly anisotropic ``nematically ordered'' aerogel induces global uniaxial anisotropy in superfluid 3 He.;2 Problem
+The anisotropy lowers symmetry of 3 He in the aerogel from spherical to axial.;2 Problem
+As a result, instead of one transition temperature in a state with an orbital moment l=1 there are two, corresponding to projections lz=0 and l_z=\pm1.;41 Results-Specific
+This splitting has a pronounced effect on the phase diagram of superfluid 3 He and on the structures of the appearing phases.;42 Results-Reference
+Possible phase diagrams, obtained phenomenologically on the basis of Landau expansion of the thermodynamic potential in the vicinity of the transition temperature are presented here.;32 Method-Procedure, 42 Results-Reference
+The order parameters corresponding to each phase and their temperature dependences are found.;42 Results-Reference
+48;
+We report the results on the measurements of the work function of single-walled carbon nanotubes encapsulated by AgI (AgI@SWCNT), AgCl (AgCl@SWCNT), and CuBr (CuBr@SWCNT) by the local Kelvin probe technique.;31 Method-Specific, 42 Results-Reference
+We found the values of the work function of tubes encapsulated with AgI and AgCl (Φ (AgI@SWCNT)=5.08\pm 0.02, Φ (AgCl@SWCNT)= 5.10 \pm 0.02 eV) to exceed substantially that of pristine carbon nanotubes, and the value of the work function of carbon nanotubes encapsulated with CuBr is Φ (CuBr@SWCNT)= 4.89 \pm 0.03 (eV).;41 Results-Specific
+The measurements are carried out using different kinds of microscope probes including multi-walled carbon nanotube tips.;32 Method-Procedure
+49;
+The angular dependence of Raman scattering selection rules for optical phonons in short-period (001) GaAs/AlAs superlattices is calculated and studied experimentally.;42 Results-Reference
+Experiments are performed using a micro-Raman setup, in the scattering geometry with the wave vectors of the incident and scattered light lying in the plane of superlattices (so-called in-plane geometry).;31 Method-Specific
+Phonon frequencies are calculated using the Born model taking the Coulomb interaction into account in the rigid-ion approximation.;31 Method-Specific
+Raman scattering spectra are calculated in the framework of the deformation potential and electro-optical mechanisms.;32 Method-Procedure
+Calculations show an angular dependence of the selection rules for optical phonons with different directions of the wave vectors.;42 Results-Reference
+Drastic differences in the selection rules are found for experimental and calculated spectra.;42 Results-Reference
+Presumably, these differences are due to the Fröhlich mechanism in Raman scattering for short-period superlattices.;51 Conclusions-Explanation
+50;
+In a system of N interacting single-level quantum dots (QDs) we study relaxation dynamics and current-voltage characteristics determined by symmetry properties of the QD arrangement.;2 Problem
+Different numbers of dots, initial charge configurations, and various coupling regimes to reservoirs are considered.;42 Results-Reference
+We reveal that effective charge trapping occurs for particular regimes of coupling to the reservoir when more than two dots form a ring structure with the CN spatial symmetry.;42 Results-Reference
+We reveal that the effective charge trapping caused by the CN spatial symmetry of N coupled QDs depends on the number of dots and the way of coupling to the reservoirs.;42 Results-Reference
+We demonstrate that the charge trapping effect is directly connected with the formation of dark states, which are not coupled to reservoirs due to the system spatial symmetry CN.;42 Results-Reference
+We also reveal the symmetry blockade of the tunneling current caused by the presence of dark states.;42 Results-Reference
+51;
+The theory of Raman scattering in half-metals by optical phonons interacting with conduction electrons is developed.;2 Problem
+We evaluate the effect of electron-phonon interactions at ferromagnetic ordering in terms of the Boltzmann equation for carriers.;2 Problem
+The chemical potential is found to decrease as the temperature decreases.;42 Results-Reference
+Both the linewidth and frequency shift exhibit a dependence on temperature.;42 Results-Reference
+52;
+Magnetohydrodynamic equations for a heavy fluid over an arbitrary surface are studied in the shallow water approximation.;2 Problem
+While solutions to the shallow water equations for a neutral fluid are well known, shallow water magnetohydrodynamic (SMHD) equations over a nonflat boundary have an additional dependence on the magnetic field, and the number of equations in the magnetic case exceeds that in the neutral case.;2 Problem
+As a consequence, the number of Riemann invariants defining SMHD equations is also greater.;2 Problem
+The classical simple wave solutions do not exist for hyperbolic SMHD equations over an arbitrary surface due to the appearance of a source term.;2 Problem
+In this paper, we suggest a more general definition of simple wave solutions that reduce to the classical ones in the case of zero source term.;2 Problem
+We show that simple wave solutions exist only for underlying surfaces that are slopes of constant inclination.;42 Results-Reference
+All self-similar discontinuous and continuous solutions are found.;42 Results-Reference
+Exact explicit solutions of the initial discontinuity decay problem over a slope are found.;42 Results-Reference
+It is shown that the initial discontinuity decay solution is represented by one of four possible wave configurations.;42 Results-Reference
+For each configuration, the necessary and sufficient conditions for its realization are found.;42 Results-Reference
+The change of dependent and independent variables transforming the initial equations over a slope to those over a flat plane is found.;42 Results-Reference
+53;
+General principles are discussed for a gas discharge plasma involving excited atoms where electron-atom collision processes dominate.;2 Problem
+It is shown that an optimal kinetic model of this plasma at not large electric field strengths may be based on the rate constants of quenching excited atom states by electron impact.;42 Results-Reference
+The self-consistent character of atom excitation in gas discharge plasma is important and results in the tail of the energy distribution function of electrons being affected by the excitation process, which in turn influences the excitation rate.;52 Conclusions-Specific
+These principles are applied to an argon gas discharge plasma where excitation and ionization processes have a stepwise character and proceed via formation of argon atom states with the electron shell 3p54s.;32 Method-Procedure
+54;
+Using the imaginary time method, a new formulation of Coulomb corrections to the amplitude of nonlinear ionization of atoms is given.;31 Method-Specific, 42 Results-Reference
+The Coulomb corrections to the photoelectron action and trajectory are presented in the form independent of the integration path in the imaginary time plane.;42 Results-Reference
+The obtained representation corrects the previously known results and shows that the subdivision of photoelectron motion into the sub-barrier and after-barrier parts is conditional and does not influence observables.;52 Conclusions-Specific
+The new correction is particularly relevant in the multiphoton regime of ionization.;52 Conclusions-Specific
+55;
+Elementary processes capable of producing neutrons in a thunderstorm atmosphere are analyzed.;42 Results-Reference
+The efficiency of nuclear fusion 2 H(2 H,n)3 He, photonuclear reactions (γ,Xn), electrodisintegration reactions nm A(e-,n)n-1m A, and reactions e-(p+,n) ue opposite to the β-decay is evaluated.;42 Results-Reference
+It is shown that an unrealistically strong electric field is required for the nuclear fusion to be responsible for the neutron production in the lightning channel.;42 Results-Reference
+The generation of neutrons in a thunderstorm atmosphere is connected with photonuclear (γ,Xn) and, at a much lower degree, electrodisintegration reactions, the relativistic runaway electron avalanches being primary parent processes.;51 Conclusions-Explanation
+56;
+We derive a model of localized edge states in a finite-width strip for the two-dimensional electron gas formed in the hybrid system of a bismuth monolayer deposited on the silicon interface and described by the nearly free electron model with giant spin-orbit splitting.;2 Problem
+The edge states have the energy dispersion in the bulk energy gap with a Dirac-like linear dependence on the quasimomentum and the spin polarization coupled to the direction of propagation, demonstrating the properties of a topological insulator.;42 Results-Reference
+The topological stability of edge states is confirmed by the calculations of the Z2 invariant taken from the structure of the Pfaffian for the time reversal operator for the filled bulk bands in the surface Brillouin zone, which is shown to have a stable number of zeros with the variations of material parameters.;42 Results-Reference
+The proposed properties of the edge states may support future advances in experimental and technological applications of this new material in nanoelectronics and spintronics.;52 Conclusions-Specific
+57;
+The time dependence of correlations between the photons emitted from a microcavity with an embedded quantum dot under incoherent pumping is studied theoretically.;2 Problem
+Analytic expressions for the second-order correlation function g(2)(t) are presented in strong and weak coupling regimes.;42 Results-Reference
+The qualitative difference between the incoherent and coherent pumping schemes in the strong coupling case is revealed: under incoherent pumping, the correlation function demonstrates pronounced Rabi oscillations, but in the resonant pumping case, these oscillations are suppressed.;42 Results-Reference
+At high incoherent pumping, the correlations decay monoexponentially.;42 Results-Reference
+The decay time nonmonotonically depends on the pumping value and has a maximum corresponding to the self-quenching transition.;42 Results-Reference
+58;
+We study experimentally and theoretically the effect of Eu doping and partial oxygen isotope substitution on the transport and magnetic characteristics and spin-state transitions in Pr1-y Euy)0.7 Ca0.3 CoO3 cobaltites.;2 Problem
+The Eu doping level y is chosen in the range of the phase diagram near the crossover between the ferromagnetic and spin-state transitions (0.10 < y < 0.20).;32 Method-Procedure
+We prepared a series of samples with different degrees of enrichment by the heavy oxygen isotope 18 O, namely, with 90 %, 67 %, 43 %, 17 %, and 0 % of 18O.;32 Method-Procedure
+Based on the measurements of the ac magnetic susceptibility χ(T) and electrical resistivity ρ(T), we analyze the evolution of the sample properties with the change of the Eu and 18 O content.;32 Method-Procedure
+It is demonstrated that the effect of increasing the 18 O content on the system is similar to that of increasing the Eu content.;42 Results-Reference
+The band structure calculations of the energy gap between t2g and eg bands including the renormalization of this gap due to the electron-phonon interaction reveals the physical mechanisms underlying this similarity.;32 Method-Procedure, 42 Results-Reference
+59;
+We investigate the time evolution of filling numbers of localized electrons in the system of two coupled single-level quantum dots (QDs) connected with the continuous-spectrum states in the presence of Coulomb interaction.;2 Problem
+We considered correlation functions of all orders for electrons in the QDs by decoupling higher-order correlations between localized and band electrons in the reservoir.;32 Method-Procedure
+We analyze different initial charge configurations and consider Coulomb correlations between localized electrons both within the dots and between the different dots.;32 Method-Procedure
+We reveal the presence of a dynamical charge trapping effect in the first QD in the situation where both dots are occupied at the initial instant.;42 Results-Reference
+We also find an analytic solution for the time-dependent filling numbers of the localized electrons for a particular configuration of the dots.;42 Results-Reference
+60;
+We reanalyze archival EAS-MSU data in order to search for events with an anomalously low content of muons with energies Eμ.;2 Problem
+We confirm the first evidence for a nonzero flux of primary cosmic gamma rays at energies E\sim 10^{17} eV.;41 Results-Specific
+The estimated fraction of primary gamma rays in the flux of cosmic particles with energies E \gtrsim 5.4 \cdot 10^{16} eV is \epsilon_{\gamma}=\left(0.43^{+0.12}_{-0.11} \right) %, which corresponds to the intensity I_{\gamma}=\left(1.2^{+0.4}_{-0.3} \right)\cdot 10^{-16} {\rm cm}^{-2}\cdot{\rm s}^{-1}\cdot{\rm sr}^{-1}.;41 Results-Specific
+The study of arrival directions does not favor any particular mechanism of the origin of the photon-like events.;52 Conclusions-Specific
+61;
+We present a detailed LDA^\prime+DMFT investigation of the doping dependence of correlation effects in the novel K1-x Fe2-y Se2 superconductor.;2 Problem
+Calculations are performed at four different hole doping levels, starting from a hypothetical stoichiometric composition with the total number of electrons equal to 29 per unit cell through 28 and 27.2 electrons toward the case of 26.52, which corresponds to the chemical composition K0.76 Fe1.72 Se2 studied in recent ARPES experiments.;32 Method-Procedure
+In the general case, the increase in hole doping leads to quasiparticle bands in a wide energy window \pm2 eV around the Fermi level becoming more broadened by lifetime effects, while correlation-induced compression of Fe-3d LDA^\prime bandwidths stays almost the same, of the order of 1.3 for all hole concentrations.;41 Results-Specific
+However, close to the Fermi level, the situation is more complicated.;42 Results-Reference
+In the energy interval from -1.0 eV to 0.4 eV, the bare Fe-3d LDA^\prime bands are compressed by significantly larger renormalization factors up to 5 with increased hole doping, while the value of Coulomb interaction remains the same.;41 Results-Specific
+This fact manifests the increase in correlation effects with hole doping in the K1-x Fe2-y Se2 system.;42 Results-Reference
+Moreover, in contrast to typical pnictides, K1-x Fe2-y Se2 does not have well-defined quasiparticle bands on the Fermi levels, but has a ``pseudogap''-like dark region instead.;42 Results-Reference
+We also find that with the growth of hole doping Fe-3d orbitals of various symmetries are affected by correlations differently in different parts of the Brillouin zone.;42 Results-Reference
+To illustrate this, we determine the quasiparticle mass renormalization factors and energy shifts that transform the bare Fe-3d LDA^\prime bands of various symmetries into LDA^\prime+DMFT quasiparticle bands.;32 Method-Procedure
+These renormalization factors effectively mimic more complicated energy-dependent self-energy effects and can be used to analyze the available ARPES data.;52 Conclusions-Specific
+62;
+The influence of e-h scattering on the conductivity and magnetotransport of 2D semimetallic HgTe is studied both theoretically and experimentally.;2 Problem, 32 Method-Procedure
+The presence of e-h scattering leads to the friction between electrons and holes resulting in a large temperature-dependent contribution to the transport coefficients.;42 Results-Reference
+The coefficient of friction between electrons and holes is determined.;42 Results-Reference
+The comparison of experimental data with the theory shows that the interaction between electrons and holes based on the long-range Coulomb potential strongly underestimates the e-h friction.;42 Results-Reference
+The experimental results are in agreement with the model of strong short-range e-h interaction.;42 Results-Reference
+63;
+The influence of vacancies and interstitial atoms on magnetism in Pu is considered in the framework of the density functional theory.;2 Problem
+The crystal structure relaxation arising due to different types of defects is calculated using the molecular dynamics method with a modified embedded atom model.;31 Method-Specific, 42 Results-Reference
+The local density approximation with explicit inclusion of Coulomb and spin-orbit interactions is applied in matrix invariant form to describe correlation effects in Pu with these types of defects.;31 Method-Specific, 42 Results-Reference
+The calculations show that both vacancies and interstitials give rise to local moments in the f-shell of Pu in good agreement with experimental data for aged Pu.;42 Results-Reference
+Magnetism appears due to the destruction of a delicate balance between spin-orbit and exchange interactions.;51 Conclusions-Explanation
+64;
+The mechanisms and structural elements of instability whose evolution results in the occurrence of the collapse are studied in the scope of the rotating shallow water model with a horizontally nonuniform density.;2 Problem
+The diagram stability based on the integral collapse criterion is suggested to explain system behavior in the space of constants of motion.;42 Results-Reference
+Analysis of the instability shows that two collapse scenarios are possible.;42 Results-Reference
+One scenario implies anisotropic collapse during which the contact area of a collapsing drop-like fragment with the bottom contracts into a rotating segment.;42 Results-Reference
+The other implies isotropic contraction of the area into a point.;42 Results-Reference
+65;
+Friction of elastic bodies is connected with the passing through the metastable states that arise at the contact of surfaces rubbing against each other.;1 Background
+Three models are considered that give rise to the metastable states.;2 Problem
+Friction forces and their dependence on the pressure are calculated.;42 Results-Reference
+In Appendix A, the contact problem of elasticity theory is solved with adhesion taken into account.;42 Results-Reference
+66;
+We theoretically study the vortex matter structure in low-dimensional systems with superconducting order induced by proximity to a bulk superconductor.;2 Problem
+We analyze the effects of microscopic coupling mechanisms between the two systems and the effects of possible mismatch in the band structures of these materials on the energy spectrum of vortex-core electrons.;2 Problem
+The unusual structure of vortex cores is discussed in the context of recent tunneling microscopy/spectroscopy experiments.;42 Results-Reference
+67;
+We revise the problem of the density of states in disordered superconductors.;2 Problem
+Randomness of local sample characteristics translates to the quenched spatial inhomogeneity of the spectral gap, smearing the BCS coherence peak.;2 Problem
+We show that various microscopic models of potential and magnetic disorder can be reduced to a universal phenomenological random order parameter model, whereas the details of the microscopic description are encoded in the correlation function of the order parameter fluctuations.;42 Results-Reference
+The resulting form of the density of states is generally described by two parameters: the width Γ measuring the broadening of the BCS peak and the energy scale Γtail that controls the exponential decay of the density of subgap states.;1 Background
+We refine the existing instanton approaches for determination of Γtail and show that they appear as limiting cases of a unified theory of optimal fluctuations in a nonlinear system.;42 Results-Reference
+The application to various types of disorder is discussed.;53 Conclusions-Reference
+68;
+Under two-photon 523.5 nm interband picosecond laser excitation, we measured the kinetics of induced absorption in PbWO4, ZnWO4, and PbMoO4 crystals with 532 to 633 nm continuous probe radiation.;32 Method-Procedure
+We obtained real-time information about the dynamics of the generation, relaxation, and accumulations of electronic excitations over a wide time range (from picoseconds to hundreds of seconds) and the 77-300 K temperature range.;42 Results-Reference
+For the studied crystals, exponential temperature-independent growth of the induced absorption (IA) with 60 ns rise time reflects the dynamics of the generation of electronic excitation.;42 Results-Reference
+The kinetics of the IA exponential growth with temperature-dependent 3.5-11μs time constants reflect the dynamics of energy migration between neighboring tungstate (molibdate) ions to traps for the studied crystals.;41 Results-Specific
+The multiexponential relaxation absorption kinetics strongly depend on temperature, and the relaxation decay time of induced absorption increased from tens to hundreds of ms to seconds under crystal cooling from 300 K to 77 K.;41 Results-Specific
+We found that the increase in the laser pump repetition rate (0-10 Hz) leads to the accumulation of electronic excitations.;41 Results-Specific
+Control of the repetition rate and the number of excitations allowed us to change the relaxation time of the induced absorption by more than two orders of magnitude.;41 Results-Specific
+Due to accumulation of excitations at 77 K, the absorption relaxation time can exceed 100 s for PbWO4 and PbMoO4 crystals.;41 Results-Specific
+In the initially transparent crystals, two-photon interband absorption (2PA) leads to crystals opacity at the 523 and 633 nm wavelengths.;41 Results-Specific
+(An inverse optical transmission of the crystals exceeds 50-55 at a 50-100 GW/cm2 pump intensity.) ;41 Results-Specific
+Measured at \sim 1 mW probe radiation of 532 and 633 nm wavelengths, the induced absorption values are comparable with those obtained under two-photon absorption at \sim 5 kW pump power.;41 Results-Specific
+An optical 2PA shutter for the visible spectral range is proposed with a variable shutting time from hundreds of microseconds to tens of seconds.;42 Results-Reference
+69;
+We discuss the potential of the neutron Lloyd's mirror interferometer in a search for new interactions at small scales.;2 Problem
+We consider three hypothetical interactions that may be tested using the interferometer.;2 Problem
+The chameleon scalar field proposed to solve the enigma of accelerating expansion of the Universe produces interaction between particles and matter.;1 Background
+The axion-like spin-dependent coupling between a neutron and nuclei or/and electrons may result in a P- and T-noninvariant interaction with matter.;1 Background
+Hypothetical non-Newtonian gravitational interactions mediates an additional short-range potential between neutrons and bulk matter.;1 Background
+These interactions between the neutron and the mirror of a Lloyd-type neutron interferometer cause a phase shift of neutron waves.;1 Background
+We estimate the sensitivity and systematic effects of possible experiments.;2 Problem
+70;
+We discuss the recently proposed LDA^\prime+DMFT approach providing a consistent parameter-free treatment of the so-called double counting problem arising within the LDA+DMFT hybrid computational method for realistic strongly correlated materials.;2 Problem
+In this approach, the local exchange-correlation portion of the electron-electron interaction is excluded from self-consistent LDA calculations for strongly correlated electronic shells, e.g., d-states of transition metal compounds.;32 Method-Procedure
+Then, the corresponding double-counting term in the LDA^\prime+DMFT Hamiltonian is consistently set in the local Hartree (fully localized limit, FLL) form of the Hubbard model interaction term.;32 Method-Procedure
+We present the results of extensive LDA^\prime+DMFT calculations of densities of states, spectral densities, and optical conductivity for most typical representatives of two wide classes of strongly correlated systems in the paramagnetic phase: charge transfer insulators MnO, CoO, and NiO) and strongly correlated metals SrVO3 and Sr2 RuO4).;42 Results-Reference
+It is shown that for NiO and CoO systems, the LDA^\prime+DMFT approach qualitatively improves the conventional LDA+DMFT results with the FLL type of double counting, where CoO and NiO were obtained to be metals.;42 Results-Reference
+Our calculations also include transition-metal 4s-states located near the Fermi level, missed in previous LDA+DMFT studies of these monooxides.;42 Results-Reference
+General agreement with optical and the X-ray experiments is obtained.;42 Results-Reference
+For strongly correlated metals, the LDA^\prime+DMFT results agree well with the earlier LDA+DMFT calculations and existing experiments.;42 Results-Reference
+However, in general, LDA^\prime+DMFT results give better quantitative agreement with experimental data for band gap sizes and oxygen-state positions compared to the conventional LDA+DMFT method.;52 Conclusions-Specific
+71;
+The afterglow of a dusty plasma of rf discharge in argon is simulated by Particles In Cells-Monte Carlo Collisions (PIC-MCC) method.;31 Method-Specific
+The experimental observation that heavy dust contamination of plasma leads to an anomalous increase in the electron density at the beginning of afterglow is explained by release of electrons from the dust surface.;51 Conclusions-Explanation
+Under the assumption that the floating potential of particles is in equilibrium with plasma conditions, the fast cooling of electrons in afterglow plasma due to a rapid escape of hot electrons from the volume leads to a decrease in the magnitude of the floating potential and hence to a loss of charge by dust.;51 Conclusions-Explanation
+The intensive desorption of electrons from nanoparticles is the origin of anomalous behavior of the electron density.;51 Conclusions-Explanation
+At the next stage of afterglow, when the electrons become cool, the plasma decay is defined by ambipolar diffusion.;51 Conclusions-Explanation
+The effect of metastable argon atoms is also considered.;42 Results-Reference
+Additional ionization due to metastable atom collisions affects the electron temperature but does not change the behavior of the electron density qualitatively.;52 Conclusions-Specific
+72;
+The previously developed ab initio model and the kinetic Monte Carlo method (KMCM) are used to simulate precipitation in a number of iron-copper alloys with different copper concentrations x and temperatures T.;2 Problem, 31 Method-Specific
+The same simulations are also made using an improved version of the previously suggested stochastic statistical method (SSM).;31 Method-Specific
+The results obtained enable us to make a number of general conclusions about the dependences of the decomposition kinetics in Fe-Cu alloys on x and T.;42 Results-Reference
+We also show that the SSM usually describes the precipitation kinetics in good agreement with the KMCM, and using the SSM in conjunction with the KMCM allows extending the KMC simulations to the longer evolution times.;42 Results-Reference
+The results of simulations seem to agree with available experimental data for Fe-Cu alloys within statistical errors of simulations and the scatter of experimental results.;42 Results-Reference
+Comparison of simulation results with experiments for some multicomponent Fe-Cu-based alloys allows making certain conclusions about the influence of alloying elements in these alloys on the precipitation kinetics at different stages of evolution.;53 Conclusions-Reference
+73;
+The rate constants are evaluated for excitation of helium atoms in metastable states by electron impact if ionized helium is located in an external electric field and is supported by it, such that a typical electron energy is small compared to the atom excitation energy.;2 Problem, 32 Method-Procedure
+Under these conditions, atom excitation is determined both by the electron traveling in the space of electron energies toward the excitation threshold and by the subsequent atom excitation, which is a self-consistent process because it leads to a sharp decrease in the energy distribution function of electrons, which in turn determines the excitation rate.;32 Method-Procedure, 42 Results-Reference
+The excitation rate constant is calculated for the regimes of low and high electron densities, and in the last case, it is small compared to the equilibrium rate constant where the Maxwell distribution function is realized including its tail.;32 Method-Procedure, 42 Results-Reference
+Quenching of metastable atom states by electron impact results in excitation of higher excited states, rather than transition to the ground electron state for the electric field strengths under consideration.;32 Method-Procedure, 42 Results-Reference
+Therefore, at restricted electron number densities, the rate of emission of resonant photons of the wavelength 58 nm, which results from the transition from the 21P state of the helium atom to the ground state, is close to the excitation rate of metastable atom states.;42 Results-Reference
+The efficiency of atom excitation in ionized helium, i.e., the part of energy of an electric field injected in ionized helium that is spent on atom excitation, is evaluated.;42 Results-Reference
+The results exhibit the importance of electron kinetics for an ionized gas located in an electric field.;53 Conclusions-Reference
+74;
+We search for the long-term variability of the gamma-ray sky in the energy range E>1 GeV with 168 weeks of the gamma-ray telescope Fermi-LAT data.;2 Problem, 32 Method-Procedure
+We perform a full sky blind search for regions with variable flux looking for deviations from uniformity.;32 Method-Procedure
+We bin the sky into 12288 pixels using the HEALPIX package and use the Kolmogorov-Smirnov test to compare weekly photon counts in each pixel with the constant flux hypothesis.;31 Method-Specific, 32 Method-Procedure
+The weekly exposure of Fermi-LAT for each pixel is calculated with the Fermi-LAT tools.;32 Method-Procedure
+We consider flux variations in a pixel significant if the statistical probability of uniformity is less than 4• 10-6, which corresponds to 0.05 false detections in the whole set.;32 Method-Procedure
+We identified 117 variable sources, 27 of which have not been reported variable before.;42 Results-Reference
+The sources with previously unidentified variability contain 25 active galactic nuclei (AGN) belonging to the blazar class (11 BL Lacs and 14 FSRQs), one AGN of an uncertain type, and one pulsar PSR J0633+1746 (Geminga).;41 Results-Specific
+75;
+At T=0 and a sufficiently large field, the nearest-neighbor antiferromagnetic Ising chain undergoes a first-order spin-flop transition into the ferromagnetic phase.;2 Problem
+We consider its smearing under the random-bond disorder such that all independent random bonds are antiferromagnetic (AF).;2 Problem
+It is shown that the ground-state thermodynamics of this random AF chain can be described exactly for an arbitrary distribution P(J) of AF bonds.;42 Results-Reference
+Moreover, the site magnetizations of finite chains can be found analytically in this model.;42 Results-Reference
+We consider a continuous P(J) that is zero above some -J1 and behaves near it as (-J1-J)λ, λ>-1.;32 Method-Procedure
+In this case, the ferromagnetic phase emerges continuously in a field H>Hc= 2J1.;41 Results-Specific
+At 0>λ>-1, it has the usual second-order anomalies near Hc with the critical indices obeying the scaling relation and depending on λ.;41 Results-Specific
+At λ>0, higher-order transitions occur (third, fourth, etc.), marked by a divergence of the corresponding nonlinear susceptibilities.;41 Results-Specific
+In the chains with an even number of spins, the intermediate ``bow-tie'' phase with linearly modulated AF order exists between the AF and ferromagnetic phases at J1c.;41 Results-Specific
+Its origin can be traced to the infinite correlation length of the degenerate AF phase from which it emerges.;51 Conclusions-Explanation
+This implies the existence of similar inhomogeneous phases with size- and form-dependent order in a number of other systems with infinite correlation length.;52 Conclusions-Specific
+The possibility to observe the signs of the ``bow-tie'' phase in low-T neutron diffraction experiments is discussed.;53 Conclusions-Reference
+76;
+Phase behavior of DODAB aqueous solution, prepared without sonication, was studied by adiabatic scanning calorimetry.;31 Method-Specific
+Measurements revealed four phase transitions with the temperatures 35.2, 39.6, 44.6, and 52.4 at heating and one transition at the temperature 40.4 at cooling.;41 Results-Specific
+The first three transitions at heating occur in unilamellar vesicles.;42 Results-Reference
+The first and third transitions correspond to the subgel-gel and gel-liquid phase transitions, corresponding enthalpy jumps are equal to 33 and 49 kJ/mol.;41 Results-Specific
+The second transition appears after some aging and is similar to gel-ripple phase transition in a DPPC solution, with the enthalpy jump under the transition exceeding 7.4 kJ/mol.;41 Results-Specific
+The transition occurs in unilamellar vesicles.;41 Results-Specific
+The transition at the temperature 52.4 occurs in another subsystem of the solution, which we believe to be multilamellar vesicles.;41 Results-Specific
+The enthalpy jump at this transition is equal to 97 kJ/mol, and data analysis suggests that this is a subgel-liquid transition.;41 Results-Specific
+The phase transition at cooling is the liquid-gel transition in unilamellar vesicles.;41 Results-Specific
+During the measurements, a slow evolution of the solution occurs, consisting in a change of concentrations of unilamellar and multilamellar vesicles.;41 Results-Specific
+This transformation mainly occurs at low temperatures.;41 Results-Specific
+77;
+The optical conductivity of graphene, bilayer graphene, and graphite in quantizing magnetic fields is studied.;2 Problem
+Both dynamical conductivities, longitudinal and Hall's, are evaluated analytically.;32 Method-Procedure, 42 Results-Reference
+The conductivity peaks are explained in terms of electron transitions.;41 Results-Specific, 51 Conclusions-Explanation
+Correspondences between the transition frequencies and the magneto-optical features are established using the theoretical results.;32 Method-Procedure
+We show that trigonal warping can be considered within the perturbation theory for strong magnetic fields larger than 1 T.;42 Results-Reference
+The semiclassical approach is applied for weak fields when the Fermi energy is much larger than the cyclotron frequency.;32 Method-Procedure
+The main optical transitions obey the selection rule with Δ n=1 for the Landau number n, but the Δ n=2 transitions due to the trigonal warping are also possible.;41 Results-Specific
+The Faraday/Kerr rotation and light transmission/reflection in quantizing magnetic fields are calculated.;42 Results-Reference
+Parameters of the Slonczewski-Weiss-McClure model are used in the fit taking the previous de Haas-van Alphen measurements into account and correcting some of them in the case of strong magnetic fields.;32 Method-Procedure
+78;
+Basic equations of diffusional kinetics in alloys are statistically derived using the master equation approach.;31 Method-Specific, 42 Results-Reference
+To describe diffusional transformations in substitution alloys, we derive the ``quasi-equilibrium'' kinetic equation that generalizes its earlier versions by taking possible ``interaction renormalization'' effects into account.;32 Method-Procedure
+For the interstitial alloys Me-X, we derive an explicit expression for the diffusivity D of an interstitial atom X.;42 Results-Reference
+This expression notably differs from those used in previous phenomenological treatments.;41 Results-Specific
+This microscopic expression for D is applied to describe the diffusion of carbon in austenite based on some simple models of carbon-carbon interaction.;32 Method-Procedure
+The results obtained enable us to make certain conclusions about the real form of these interactions and about the scale of the ``transition state entropy'' for diffusion of carbon in austenite.;53 Conclusions-Reference
+79;
+The dc voltage observed at low temperatures in a 2D electron sample in the absence of noticeable external excitations [1] is accounted by the Schottky contact rectification of the noise generated in the measuring circuit.;32 Method-Procedure, 51 Conclusions-Explanation
+The rectified voltage is shown to depend on the asymmetry of the contact pair.;42 Results-Reference
+The dependence of the rectified voltage on the noise amplitude first follows the trivial quadratic law, then exhibits a nearly linear behavior, and finally, levels off.;41 Results-Specific
+80;
+We suggest a qualitative explanation of oscillations in electron capture decays of hydrogen-like 140 Pr and 142 Pm ions observed recently in an ion experimental storage ring (ESR) of Gesellschaft für Schwerionenforschung (GSI) mbH, Darmstadt, Germany.;2 Problem
+This explanation is based on the electron multiphoton Rabi oscillations between two Zeeman states of the hyperfine ground level with the total angular momentum F=1/2.;51 Conclusions-Explanation
+The Zeeman splitting is produced by a constant magnetic field in the ESR.;32 Method-Procedure
+Transitions between these states are produced by the second, sufficiently strong alternating magnetic field that approximates realistic fields in the GSI ESR.;32 Method-Procedure
+The Zeeman splitting amounts to only about 10-5 eV.;41 Results-Specific
+This allows explaining the observed quantum beats with the period 7 s.;51 Conclusions-Explanation
+81;
+We demonstrate that the tunneling current flowing through a system with Coulomb correlations leads to a charge redistribution between the different localized states.;42 Results-Reference
+A simple model consisting of two electron levels is analyzed by means of the Heisenberg equations of motion taking correlations of electron filling numbers in localized states into account exactly in all orders.;31 Method-Specific
+We consider various relations between the Coulomb interaction and localized electron energies.;32 Method-Procedure
+Sudden jumps of the electron density at each level in a certain range of the applied bias are found.;42 Results-Reference
+We find that for some parameter range, inverse occupation in the two-level system appears due to Coulomb correlations.;42 Results-Reference
+It is also shown that Coulomb correlations lead to the appearance of negative tunneling conductivity at a certain relation between the values of tunneling rates from the two electron levels.;42 Results-Reference
+82;
+The mesoscopic relaxation of small Pd islands on Pd(100) and PdH(100) surfaces is investigated on the atomic scale by performing molecular statics calculations.;2 Problem, 32 Method-Procedure
+A strong strain and stress inhomogeneity in islands and topmost layers of the substrate is revealed.;42 Results-Reference
+An unusual size dependence of the shape of islands is discovered.;42 Results-Reference
+83;
+An expansion of the nearly free-electron model constructed by Frantzeskakis, Pons, and Grioni [1] describing quantum states at the Bi/Si(111) interface with the giant spin-orbit coupling is developed and applied for the band structure and spin polarization calculation, as well as for the linear response analysis of the charge current and induced spin caused by a dc field and by electromagnetic radiation.;2 Problem
+It is found that the large spin-orbit coupling in this system may allow resolving the spin-dependent properties even at room temperature and at a realistic collision rate.;42 Results-Reference
+The geometry of the atomic lattice combined with spin-orbit coupling leads to an anisotropic response for both the current and spin components related to the orientation of the external field.;42 Results-Reference
+The in-plane dc electric field produces only the in-plane components of spin in the sample, while both the in-plane and out-of-plane spin components can be excited by normally propagating electromagnetic wave with different polarizations.;42 Results-Reference
+84;
+The new approach to the diffusion-limited reaction rate theory, recently proposed by the author, is further developed on the base of a similar approach to Brownian coagulation.;2 Problem
+The traditional diffusion approach to calculation of the reaction rate is critically analyzed.;53 Conclusions-Reference
+In particular, it is shown that the traditional approach is applicable only in the special case of reactions with a large reaction radius, \overline{r}_A\ll R_{AB}\ll\overline{r}_B (where \overline{r}_A and \overline{r}_B are the mean inter-particle distances), and becomes inappropriate in calculating the reaction rate in the case of a relatively small reaction radius, R_{AB}\ll\overline{r}_A,\overline{r}_B.;41 Results-Specific
+In the latter case, most important for chemical reactions, particle collisions occur not in the diffusion regime but mainly in the kinetic regime characterized by homogeneous (random) spatial distribution of particles on the length scale of the mean inter-particle distance.;41 Results-Specific
+The calculated reaction rate for a small reaction radius in three dimensions formally (and fortuitously) coincides with the expression derived in the traditional approach for reactions with a large reaction radius, but notably deviates at large times from the traditional result in the planar two-dimensional geometry.;41 Results-Specific
+In application to reactions on discrete lattice sites, new relations for the reaction rate constants are derived for both three-dimensional and two-dimensional lattices.;42 Results-Reference
+85;
+We theoretically study the electronic structure (spectral functions and Fermi surfaces) of incommensurate pseudogap and charge density wave (CDW) and commensurate CDW phases of quasi-two-dimensional diselenides 2H-TaSe2 and 2H-NbSe2.;2 Problem, 32 Method-Procedure
+The incommensurate pseudogap regime is described within the scenario based on short-range-order CDW fluctuations, considered within the static Gaussian random field model.;42 Results-Reference
+In contrast, e.g., to high-Tc cuprates, layered dichalcogenides have several different CDW scattering vectors and an electronic spectrum with two bands at the Fermi level.;42 Results-Reference
+For this, we present a theoretical background for the description of multiple scattering processes within a multiple-band electronic spectrum.;32 Method-Procedure
+Theoretical spectral functions and Fermi surfaces thus obtained are compared with recent ARPES experimental data, demonstrating rather good qualitative agreement.;32 Method-Procedure, 42 Results-Reference
+86;
+Even tiny lepton flavor violation (LFV) due to some New Physics is able to alter the conditions inside a collapsing supernova core and probably to facilitate the explosion.;1 Background
+LFV emerges naturally in a see-saw type-II model of neutrino mass generation.;1 Background
+Experimentally, the LFV beyond the Standard Model is constrained by rare lepton decay searches.;1 Background
+In particular, strong bounds are imposed on the \mu\rightarrow eee branching ratio and on the μ-e conversion in muonic gold.;1 Background
+Currently, the \mu\rightarrow e \gamma is under investigation in the MEG experiment that aims at a dramatic increase in sensitivity in the next three years.;2 Problem
+We seek a see-saw type-II LFV pattern that fits all the experimental constraints, leads to {\rm Br}(\mu\rightarrow e \gamma)\gtrsim {\rm Br}(\mu\rightarrow eee), and ensures a rate of LFV processes in supernova high enough to modify the supernova physics.;2 Problem
+These requirements are sufficient to eliminate almost all freedom in the model.;2 Problem
+In particular, they lead to the prediction 0.4 \cdot 10^{-12} \lesssim {\rm Br}(\mu\rightarrow e \gamma) \lesssim 6 \cdot 10^{-12}, which will be testable by MEG in the nearest future.;41 Results-Specific
+The considered scenario also constrains the neutrino mass-mixing pattern and provides lower and upper bounds on τ-lepton LFV decays.;42 Results-Reference
+We also briefly discuss a model with a single bilepton in which the \mu\rightarrow eee decay is absent at the tree level.;42 Results-Reference
+87;
+We study the method of generation of states that approximate superpositions of large-amplitude coherent states (SCSs) with high fidelity in free-traveling fields.;2 Problem
+Our approach is based on the representation of an arbitrary single-mode pure state, and SCSs in particular, in terms of displaced number states with an arbitrary displacement amplitude.;32 Method-Procedure
+The proposed optical scheme is based on alternation of photon additions and displacement operators (in the general case, N photon additions and N-1 displacements are required) with a seed coherent state to generate both even and odd displaced squeezed SCSs regardless of the parity of the used photon additions.;42 Results-Reference
+It is shown that the optical scheme studied is sensitive to the seed coherent state if the other parameters are unchanged.;42 Results-Reference
+Output states can approximate either even squeezed SCS or odd SCS shifted relative to each other by some value.;42 Results-Reference
+This allows constructing a local rotation operator, in particular, the Hadamard gate, which is a mainframe element for quantum computation with coherent states.;42 Results-Reference
+We also show that three-photon additions with two intermediate displacement operators are sufficient to generate even displaced squeezed SCS with the amplitude 1.7 and fidelity more than 0.99.;42 Results-Reference
+The effects deteriorating the quality of output states are considered.;42 Results-Reference
+88;
+We suggest a new method of calculation of the equilibrium correlation functions of an arbitrary order for the interacting Fermi-gas model in the framework of the static fluctuation approximation method.;2 Problem
+This method based only on a single and controllable approximation allows obtaining the so-called far-distance equations.;32 Method-Procedure, 42 Results-Reference
+These equations connecting the quantum states of a Fermi particle with variables of the local field operator contain all necessary information related to the calculation of the desired correlation functions and basic thermodynamic parameters of the many-body system.;42 Results-Reference
+The basic expressions for the mean energy and heat capacity for the electron gas at low temperatures in the high-density limit were obtained.;42 Results-Reference
+All expressions are given in the units of rs, where rs determines the ratio of a mean distance between electrons to the Bohr radius a0.;32 Method-Procedure
+In these expressions, we calculate terms of the respective order rs and r2s.;42 Results-Reference
+It is also shown that the static fluctuation approximation allows finding the terms related to higher orders of the decomposition with respect to the parameter rs.;42 Results-Reference
+89;
+Different regimes of the Fermi-Pasta-Ulam (FPU) recurrence are simulated numerically for fully nonlinear ``one-dimensional'' potential water waves in a finite-depth flume between two vertical walls.;32 Method-Procedure
+In such systems, the FPU recurrence is closely related to the dynamics of coherent structures approximately corresponding to solitons of the integrable Boussinesq system.;1 Background
+A simplest periodic solution of the Boussinesq model, describing a single soliton between the walls, is presented in analytic form in terms of the elliptic Jacobi functions.;42 Results-Reference
+In the numerical experiments, it is observed that depending on the number of solitons in the flume and their parameters, the FPU recurrence can occur in a simple or complicated manner, or be practically absent.;42 Results-Reference
+For comparison, the nonlinear dynamics of potential water waves over nonuniform beds is simulated, with initial states taken in the form of several pairs of colliding solitons.;32 Method-Procedure
+With a mild-slope bed profile, a typical phenomenon in the course of evolution is the appearance of relatively high (rogue) waves, while for random, relatively short-correlated bed profiles it is either the appearance of tall waves or the formation of sharp crests at moderate-height waves.;42 Results-Reference
+90;
+We present a generalization of Borisov's construction of the chiral de Rham complex in the case of the line-bundle-twisted chiral de Rham complex on a Calabi-Yau hypersurface in a projective space.;2 Problem
+We generalize the differential associated with a polytope Δ of the projective space \mathbb{P}^{d- 1} by allowing nonzero modes for the screening currents forming this differential.;32 Method-Procedure
+It is shown that the numbers of screening current modes define the support function of the toric divisor of a line bundle on \mathbb{P}^{d-1} that twists the chiral de Rham complex on the Calabi-Yau hypersurface.;42 Results-Reference
+91;
+The \cN=1 SQCD with SU(Nc) colors and NF flavors of light quarks is considered within the dynamical scenario that assumes that quarks can be in the two different phases only: the heavy-quark phase, where they are confined, and the phase of higgsed quarks, at the appropriate values of the Lagrangian parameters.;2 Problem, 32 Method-Procedure
+The mass spectra of this (direct) theory and its Seiberg dual are obtained and compared for quarks of small equal or unequal masses.;42 Results-Reference
+It is shown that in those regions of the parameter space where an additional small parameter exists (it is 0<b_0/N_F=(3N_c-N_F)/N_F\ll 1 at the right end of the conformal window, where the direct theory is weakly coupled in the vicinity of its IR fixed point, or its analog 0<\overline{b}_0/N_F=(2N_F-3N_c)/N_F\ll 1 for the dual theory at the left end of the conformal window), the mass spectra of the direct and dual theories are parametrically different.;41 Results-Specific
+A number of other regimes are also considered.;42 Results-Reference
+92;
+Magnetic properties of the organic conductor κ-(BETS)2 Mn[N(CN)2]3 above and below the temperature of the metal-insulator transition that occurs at T_{MI}\approx25 K are studied by 1H NMR.;2 Problem, 32 Method-Procedure
+The proton spectrum is shown to be determined by the static dipolar fields from Mn2+ localized moments, while the 1H spin-lattice relaxation is dominated by fluctuating fields from Mn2+ electrons.;42 Results-Reference
+The NMR data, both static (the spectra) and dynamic (the spin-lattice relaxation), indicate the freezing of Mn2+ moments into a short-range or an incommensurate long-range antiferromagnetic order below TMI.;42 Results-Reference
+93;
+The multiple quantum (MQ) NMR dynamics in the system of equivalent spins with the dipolar ordered initial state is considered.;42 Results-Reference
+The high symmetry of the Hamiltonian responsible for the MQ NMR dynamics (the MQ Hamiltonian) is used to develop analytic and numerical methods for the investigation of the MQ NMR dynamics in systems consisting of hundreds of spins from the ``first principles''.;32 Method-Procedure
+We obtain the dependence of the intensities of the MQ NMR coherences on their orders (profiles of the MQ NMR coherences) for systems of 200-600 spins.;42 Results-Reference
+It is shown that these profiles may be well approximated by exponential distribution functions.;42 Results-Reference
+We also compare the MQ NMR dynamics in the systems of equivalent spins having two different initial states, the dipolar ordered state and the thermal equilibrium state in a strong external magnetic field.;32 Method-Procedure
+94;
+The energy spectra and transport of electronic excitations in one-dimensional aperiodic sequences of quantum dots of Thue-Morse and double-periodic type are studied.;2 Problem
+The influence of external magnetic and electric fields on the energy spectra and transport is considered.;42 Results-Reference
+For aperiodic sequences of quantum dots, in contrast to aperiodic sequences of atoms, the influence of relatively small magnetic and electric fields is essential, but localization occurs at finite values of the perturbations.;42 Results-Reference
+The transmission coefficient is determined using the quasiclassical approximation with the Coulomb blockade taken into account.;32 Method-Procedure
+The resonance tunneling is studied.;42 Results-Reference
+95;
+Thermodynamics of a short-range model of spin ice magnets in a field is considered in the Bethe-Peierls approximation.;2 Problem, 31 Method-Specific
+The results obtained for [111], [100], and [011] fields agree reasonably well with the existing Monte Carlo simulations and some experiments.;42 Results-Reference
+In this approximation, all extremely sharp field-induced anomalies are described by analytic functions of temperature and the applied field.;32 Method-Procedure
+In spite of the absence of true phase transitions, the analysis of the entropy and specific heat reliefs over the H-T plane allows discerning ``pseudo-phases'' with a specific character of spin fluctuations and defining the lines of relatively sharp ``pseudo-transitions'' between them.;42 Results-Reference
+96;
+We analyze the magnetic kinematic dynamo in a conducting fluid where a stationary shear flow is accompanied by relatively weak random velocity fluctuations.;2 Problem
+The diffusionless and diffusion regimes are described.;42 Results-Reference
+The growth rates of the magnetic field moments are related to the statistical characteristics of the flow describing divergence of the Lagrangian trajectories.;42 Results-Reference
+The magnetic field correlation functions are examined, and their growth rates and scaling behavior are established.;42 Results-Reference
+General assertions are illustrated by the explicit solution of a model where the velocity field is short-correlated in time.;42 Results-Reference
+97;
+We investigate statistical properties of the passive scalar mixing in random (turbulent) flows assuming its diffusion to be weak.;2 Problem
+Then at advanced stages of the passive scalar decay, its unmixed residue is primarily concentrated in a narrow diffusive layer near the wall and its transport to the bulk goes through the peripheral region (laminar sublayer of the flow).;42 Results-Reference
+We conducted Lagrangian numerical simulations of the process for different space dimensions d and revealed structures responsible for the transport, which are passive scalar tongues pulled from the diffusive boundary layer to the bulk.;31 Method-Specific, 42 Results-Reference
+We investigated statistical properties of the passive scalar and of the passive scalar integrated along the wall.;42 Results-Reference
+Moments of both objects demonstrate scaling behavior outside the diffusive boundary layer.;42 Results-Reference
+We propose an analytic scheme for the passive scalar statistics, explaining the features observed numerically.;42 Results-Reference
+98;
+We investigate the photon emission from the electrosphere of a quark star.;2 Problem
+We show that at temperatures T\approx 0.1-1 MeV, the dominating mechanism is the bremsstrahlung due to bending of electron trajectories in the mean Coulomb field of the electrosphere.;41 Results-Specific
+The radiated energy for this mechanism is much larger than that for the Bethe-Heitler bremsstrahlung.;42 Results-Reference
+The energy flux from the mean field bremsstrahlung also exceeds the one from the tunnel e+e- pair creation.;42 Results-Reference
+We demonstrate that the LPM suppression of the photon emission is negligible.;42 Results-Reference
+99;
+The quantum-mechanochemical-reaction-coordinate approach has disclosed atomically matched peculiarities that accompany the deformation-failure-rupture process occurring in nanographenes.;31 Method-Specific, 42 Results-Reference
+The high stiffness of the graphene body is provided by the benzenoid unit.;32 Method-Procedure
+The anisotropy of the unit mechanical behavior in combination with different configurations of the unit packing with respect to the body C-C bond chains forms the ground for the structure-sensitive mechanism of the mechanical behavior that is drastically different for two different deformation modes.;32 Method-Procedure
+The zig-zag deformation mode is particularly manifested with the formation of one-atom chains.;42 Results-Reference
+The approach allows tracing a deformation-stimulated change in the chemical reactivity of both the nanographene body and its individual atoms.;52 Conclusions-Specific
+100;
+An analytic approach to the theory of optical defect modes in chiral liquid crystals (CLCs) is developed.;2 Problem
+The analytic study is facilitated by the choice of the problem parameters.;32 Method-Procedure
+Specifically, an isotropic layer (with the dielectric susceptibility equal to the average CLC dielectric susceptibility) sandwiched between two CLC layers is studied.;42 Results-Reference
+The chosen model allows eliminating the polarization mixing and reducing the corresponding equations to the equations for light of diffracting polarization only.;42 Results-Reference
+The dispersion equation relating the defect mode (DM) frequency to the isotropic layer thickness and an analytic expression for the field distribution in the DM structure are obtained and the corresponding dependences are plotted for some values of the DM structure parameters.;42 Results-Reference
+Analytic expressions for the transmission and reflection coefficients of the DM structure (CLC-defect layer-CLC) are presented and analyzed for nonabsorbing, absorbing, and amplifying CLCs.;42 Results-Reference
+The anomalously strong light absorption effect at the DM frequency is revealed.;42 Results-Reference
+The limit case of infinitely thick CLC layers is considered in detail.;42 Results-Reference
+It is shown that for distributed feedback lasing in a defect structure, adjusting the lasing frequency to the DM frequency results in a significant decrease in the lasing threshold.;42 Results-Reference
+The DM dispersion equations are solved numerically for typical values of the relevant parameters.;42 Results-Reference
+Our approach helps clarify the physics of the optical DMs in CLCs and completely agrees with the corresponding results of the previous numerical investigations.;52 Conclusions-Specific
