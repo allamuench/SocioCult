@@ -1,0 +1,6 @@
+Basic equations of diffusional kinetics in alloys are statistically derived using the master equation approach.
+To describe diffusional transformations in substitution alloys, we derive the ``quasi-equilibrium'' kinetic equation that generalizes its earlier versions by taking possible ``interaction renormalization'' effects into account.
+For the interstitial alloys Me-X, we derive an explicit expression for the diffusivity D of an interstitial atom X.
+This expression notably differs from those used in previous phenomenological treatments.
+This microscopic expression for D is applied to describe the diffusion of carbon in austenite based on some simple models of carbon-carbon interaction.
+The results obtained enable us to make certain conclusions about the real form of these interactions and about the scale of the ``transition state entropy'' for diffusion of carbon in austenite.

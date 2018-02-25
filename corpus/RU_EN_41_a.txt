@@ -1,0 +1,6 @@
+Viewing shungite as loosely packed fractal nets of graphene-based (reduced graphene oxide, rGO) quantum dots GQDs), we consider photoluminescence of the latter as a convincing proof of the structural concept as well as of the GQD attribution to individual rGO fragments.
+We study emission from shungite GQDs for colloidal dispersions in water, carbon tetrachloride, and toluene at both room and low temperatures.
+As expected, the photoluminescence of the GQD aqueous dispersions is quite similar to that of synthetic GQDs of the rGO origin.
+The morphological study of shungite dispersions shows a steady trend of GQDs to form fractals and to drastically change the colloid fractal structure caused by the solvent exchange.
+Spectral study reveals a dual character of the emitting centers: individual GQDs are responsible for the spectra position while the fractal structure of GQD colloids provides high broadening of the spectra due to structural inhomogeneity, thus causing a peculiar dependence of the photoluminescence spectra on the excitation wavelength.
+For the first time, photoluminescence spectra of individual GQDs were observed in frozen toluene dispersions, which paves the way for a theoretical treatment of the GQD photonics.

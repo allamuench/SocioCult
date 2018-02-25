@@ -1,0 +1,12 @@
+Under two-photon 523.5 nm interband picosecond laser excitation, we measured the kinetics of induced absorption in PbWO4, ZnWO4, and PbMoO4 crystals with 532 to 633 nm continuous probe radiation.
+We obtained real-time information about the dynamics of the generation, relaxation, and accumulations of electronic excitations over a wide time range (from picoseconds to hundreds of seconds) and the 77-300 K temperature range.
+For the studied crystals, exponential temperature-independent growth of the induced absorption (IA) with 60 ns rise time reflects the dynamics of the generation of electronic excitation.
+The kinetics of the IA exponential growth with temperature-dependent 3.5-11μs time constants reflect the dynamics of energy migration between neighboring tungstate (molibdate) ions to traps for the studied crystals.
+The multiexponential relaxation absorption kinetics strongly depend on temperature, and the relaxation decay time of induced absorption increased from tens to hundreds of ms to seconds under crystal cooling from 300 K to 77 K.
+We found that the increase in the laser pump repetition rate (0-10 Hz) leads to the accumulation of electronic excitations.
+Control of the repetition rate and the number of excitations allowed us to change the relaxation time of the induced absorption by more than two orders of magnitude.
+Due to accumulation of excitations at 77 K, the absorption relaxation time can exceed 100 s for PbWO4 and PbMoO4 crystals.
+In the initially transparent crystals, two-photon interband absorption (2PA) leads to crystals opacity at the 523 and 633 nm wavelengths.
+(An inverse optical transmission of the crystals exceeds 50-55 at a 50-100 GW/cm2 pump intensity.) 
+Measured at \sim 1 mW probe radiation of 532 and 633 nm wavelengths, the induced absorption values are comparable with those obtained under two-photon absorption at \sim 5 kW pump power.
+An optical 2PA shutter for the visible spectral range is proposed with a variable shutting time from hundreds of microseconds to tens of seconds.

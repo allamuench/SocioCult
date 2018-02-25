@@ -1,0 +1,6 @@
+Different regimes of the Fermi-Pasta-Ulam (FPU) recurrence are simulated numerically for fully nonlinear ``one-dimensional'' potential water waves in a finite-depth flume between two vertical walls.
+In such systems, the FPU recurrence is closely related to the dynamics of coherent structures approximately corresponding to solitons of the integrable Boussinesq system.
+A simplest periodic solution of the Boussinesq model, describing a single soliton between the walls, is presented in analytic form in terms of the elliptic Jacobi functions.
+In the numerical experiments, it is observed that depending on the number of solitons in the flume and their parameters, the FPU recurrence can occur in a simple or complicated manner, or be practically absent.
+For comparison, the nonlinear dynamics of potential water waves over nonuniform beds is simulated, with initial states taken in the form of several pairs of colliding solitons.
+With a mild-slope bed profile, a typical phenomenon in the course of evolution is the appearance of relatively high (rogue) waves, while for random, relatively short-correlated bed profiles it is either the appearance of tall waves or the formation of sharp crests at moderate-height waves.

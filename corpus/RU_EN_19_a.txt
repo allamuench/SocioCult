@@ -1,0 +1,5 @@
+We explore a combined effect of hexagonal warping and a finite effective mass on both the tunneling density of electronic surface states and the structure of Landau levels of 3D topological insulators.
+We find the increasing warping to transform the square-root van Hove singularity into a logarithmic one.
+For moderate warping, an additional logarithmic singularity and a jump in the tunneling density of surface states appear.
+By combining the perturbation theory and the WKB approximation, we calculate the Landau levels in the presence of hexagonal warping.
+We predict that due to the degeneracy removal, the evolution of Landau levels in the magnetic field is drastically modified.

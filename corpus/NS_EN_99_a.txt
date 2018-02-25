@@ -1,0 +1,4 @@
+Fully nonlocal two-projector norm-conserving pseudopotentials are shown to be compatible with a systematic approach to the optimization of convergence with the size of the plane-wave basis.
+A reformulation of the optimization is developed, including the ability to apply it to positive-energy atomic scattering states and to enforce greater continuity in the pseudopotential.
+The generalization of norm conservation to multiple projectors is reviewed and recast for the present purposes.
+Comparisons among the results of all-electron and one- and two-projector norm-conserving pseudopotential calculations of lattice constants and bulk moduli are made for a group of solids chosen to represent a variety of types of bonding and a sampling of the periodic table.

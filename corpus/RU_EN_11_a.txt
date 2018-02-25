@@ -1,0 +1,5 @@
+We describe the interaction of a Rayleigh surface acoustic wave (SAW) traveling on the semiconductor substrate with the excitonic gas in a double quantum well located on the substrate surface.
+We study the SAW attenuation and its velocity renormalization due to the coupling to excitons.
+Both the deformation potential and piezoelectric mechanisms of the SAW-exciton interaction are considered.
+We focus on the frequency and excitonic density dependences of the SAW absorption coefficient and velocity renormalization at temperatures both above and well below the critical temperature of Bose-Einstein condensation of the excitonic gas.
+We demonstrate that the SAW attenuation and velocity renormalization are strongly different below and above the critical temperature.

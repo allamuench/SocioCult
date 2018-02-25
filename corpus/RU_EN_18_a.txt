@@ -1,0 +1,5 @@
+We discuss the most prominent and intensively studied S=1 pseudospin formalism for the extended boson Hubbard model (EBHM) with the on-site Hilbert space truncated to the three lowest occupation states n=0, 1, 2.
+The EBHM Hamiltonian is a paradigmatic model for the highly topical field of ultracold gases in optical lattices.
+The generalized non-Heisenberg effective pseudospin Hamiltonian does provide a deep link with a boson system and a physically clear description of ''the myriad of phases'', from uniform Mott insulating phases and density waves to two types of superfluids and supersolids.
+We argue that the 2D pseudospin system is prone to a topological phase separation and focus on several types of unconventional skyrmion-like topological structures in 2D boson systems, which have not been analyzed until now.
+The structures are characterized by a complicated interplay of insulating and two superfluid phases with a single-boson and two-boson condensation, respectively.

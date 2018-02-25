@@ -1,0 +1,10 @@
+After discussing several issues in a future redefinition of the kilogram, this paper considers the lessons that one might have learned from the analogous redefinitions of the metre and the second.
+The progress of length metrology was slow and steady, from seven digits reproducibility with the 1889 X-shaped metre prototype, to nine digits with Kr lamps, to 11 digits with the 1983 redefinition of the metre using the speed of light.
+With laser cooling, the Cs clock improved to 15, now 16, digits (and so also astronomical distance measurements could improve).
+Laser-cooled ions, and now atoms captured and cooled in an optical lattice, enable accuracy capability of three different optical frequency references to exceed 17 digits, i.e. better than time itself.
+The optical comb and related techniques vastly simplify frequency comparisons.
+Such progress stimulates a new satellite experiment, the STAR Mission (Space–Time Asymmetry Research).
+The goal is to test at the 1E–18 level frequency shifts owing to spatial anisotropy, position, gravitational potential and boost.
+The onboard optical clock will use stabilization to a molecular transition in I2 or HCCH or CO2.
+The length etalons will be multiply redundant, with stability at the thermo-mechanical mirror motion limit.
+For a ULE glass etalon spacer (1987), I measure length creep approximately −1.5E–12/d, i.e. below 1E–14 over the 500 s satellite spin period.

@@ -1,0 +1,4 @@
+We try to find grounds for the standard nucleon QCD sum rules, based on a more detailed description of the QCD vacuum.
+We calculate the polarization operator of the nucleon current in the instanton medium.
+The medium (QCD vacuum) is assumed to be a composition of the small-size instantons and some long-wave gluon fluctuations.
+We solve the corresponding QCD sum rule equations and demonstrate that there is a solution with the value of the nucleon mass close to the physical one if the fraction of the small-size instantons contribution is w_s \approx 2/3.

@@ -1,0 +1,6 @@
+We report a study of magnetic, electrical, and thermodynamic properties of a single crystal of the magnetic compound Cr0.26NbS1.74 at ambient and high pressures.
+Results of the measurements of magnetization as a function of temperature reveal the existence of a ferromagnetic phase transition in Cr0.26NbS1.74.
+The effective number of Bohr magnetons per Cr atom in the paramagnetic phase of Cr0.26NbS1.74 is \mu _{eff}\approx 4.6\mu _B, which matches the literature data for Cr1/3NbS2.
+Similarly, the effective number of Bohr magnetons per Cr atom in the saturation fields is rather close in both substances and corresponds to the number of magnetons in the Cr+3 ion.
+In contrast to the stoichiometric compound, Cr0.26NbS1.74 does not show a metamagnetic transition, that indicates the lack of a magnetic soliton.
+A high-pressure phase diagram of the compound reveals the quantum phase transition at T=0 and P\approx 4.2 GPa and the triple point situated at T\approx 20 K and P\approx 4.2 GPa.

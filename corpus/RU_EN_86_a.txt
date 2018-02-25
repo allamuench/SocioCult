@@ -1,0 +1,10 @@
+Even tiny lepton flavor violation (LFV) due to some New Physics is able to alter the conditions inside a collapsing supernova core and probably to facilitate the explosion.
+LFV emerges naturally in a see-saw type-II model of neutrino mass generation.
+Experimentally, the LFV beyond the Standard Model is constrained by rare lepton decay searches.
+In particular, strong bounds are imposed on the \mu\rightarrow eee branching ratio and on the μ-e conversion in muonic gold.
+Currently, the \mu\rightarrow e \gamma is under investigation in the MEG experiment that aims at a dramatic increase in sensitivity in the next three years.
+We seek a see-saw type-II LFV pattern that fits all the experimental constraints, leads to {\rm Br}(\mu\rightarrow e \gamma)\gtrsim {\rm Br}(\mu\rightarrow eee), and ensures a rate of LFV processes in supernova high enough to modify the supernova physics.
+These requirements are sufficient to eliminate almost all freedom in the model.
+In particular, they lead to the prediction 0.4 \cdot 10^{-12} \lesssim {\rm Br}(\mu\rightarrow e \gamma) \lesssim 6 \cdot 10^{-12}, which will be testable by MEG in the nearest future.
+The considered scenario also constrains the neutrino mass-mixing pattern and provides lower and upper bounds on τ-lepton LFV decays.
+We also briefly discuss a model with a single bilepton in which the \mu\rightarrow eee decay is absent at the tree level.

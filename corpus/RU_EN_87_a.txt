@@ -1,0 +1,8 @@
+We study the method of generation of states that approximate superpositions of large-amplitude coherent states (SCSs) with high fidelity in free-traveling fields.
+Our approach is based on the representation of an arbitrary single-mode pure state, and SCSs in particular, in terms of displaced number states with an arbitrary displacement amplitude.
+The proposed optical scheme is based on alternation of photon additions and displacement operators (in the general case, N photon additions and N-1 displacements are required) with a seed coherent state to generate both even and odd displaced squeezed SCSs regardless of the parity of the used photon additions.
+It is shown that the optical scheme studied is sensitive to the seed coherent state if the other parameters are unchanged.
+Output states can approximate either even squeezed SCS or odd SCS shifted relative to each other by some value.
+This allows constructing a local rotation operator, in particular, the Hadamard gate, which is a mainframe element for quantum computation with coherent states.
+We also show that three-photon additions with two intermediate displacement operators are sufficient to generate even displaced squeezed SCS with the amplitude 1.7 and fidelity more than 0.99.
+The effects deteriorating the quality of output states are considered.

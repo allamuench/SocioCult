@@ -1,0 +1,6 @@
+We revise the problem of the density of states in disordered superconductors.
+Randomness of local sample characteristics translates to the quenched spatial inhomogeneity of the spectral gap, smearing the BCS coherence peak.
+We show that various microscopic models of potential and magnetic disorder can be reduced to a universal phenomenological random order parameter model, whereas the details of the microscopic description are encoded in the correlation function of the order parameter fluctuations.
+The resulting form of the density of states is generally described by two parameters: the width Γ measuring the broadening of the BCS peak and the energy scale Γtail that controls the exponential decay of the density of subgap states.
+We refine the existing instanton approaches for determination of Γtail and show that they appear as limiting cases of a unified theory of optimal fluctuations in a nonlinear system.
+The application to various types of disorder is discussed.

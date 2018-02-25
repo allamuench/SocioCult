@@ -1,0 +1,4 @@
+The \cN=1 SQCD with SU(Nc) colors and NF flavors of light quarks is considered within the dynamical scenario that assumes that quarks can be in the two different phases only: the heavy-quark phase, where they are confined, and the phase of higgsed quarks, at the appropriate values of the Lagrangian parameters.
+The mass spectra of this (direct) theory and its Seiberg dual are obtained and compared for quarks of small equal or unequal masses.
+It is shown that in those regions of the parameter space where an additional small parameter exists (it is 0<b_0/N_F=(3N_c-N_F)/N_F\ll 1 at the right end of the conformal window, where the direct theory is weakly coupled in the vicinity of its IR fixed point, or its analog 0<\overline{b}_0/N_F=(2N_F-3N_c)/N_F\ll 1 for the dual theory at the left end of the conformal window), the mass spectra of the direct and dual theories are parametrically different.
+A number of other regimes are also considered.

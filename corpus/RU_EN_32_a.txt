@@ -1,0 +1,4 @@
+We experimentally investigate spin-polarized electron transport between a permalloy ferromagnet and the edge of a two-dimensional electron system with band inversion, realized in a narrow, 8 nm wide, HgTe quantum well.
+In a zero magnetic field, we observe strong asymmetry of the edge potential distribution with respect to the ferromagnetic ground lead.
+This result indicates that the helical edge channel, specific for the structures with band inversion even at the conductive bulk, is strongly coupled to the ferromagnetic side contact, possibly due to the effects of proximity magnetization.
+This allows selective and spin-sensitive contacting of helical edge states.

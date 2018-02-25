@@ -1,0 +1,9 @@
+Since the 1935 work of Landau–Lifshitz and of Kittel in 1946 all ferromagnetic, ferroelectric, and ferroelastic domains have been thought to be straight-sided with domain widths proportional to the square root of the sample thickness.
+We show in the present work that this is not true.
+We also discover period doubling domains predicted by Metaxas et al (2008 Phys. Rev. Lett. 99 217208) and modeled by Wang and Zhao (2015 Sci. Rep. 5 8887).
+We examine non-equilibrium ferroic domain structures in perovskite oxides with respect to folding, wrinkling, and relaxation and suggest that structures are kinetically limited and in the viscous flow regime predicted by Metaxas et al in 2008 but never observed experimentally.
+Comparisons are made with liquid crystals and hydrodynamic instabilities, including chevrons, and fractional power-law relaxation.
+As Shin et al (2016 Soft Matter 12 3502) recently emphasized: 'An understanding of how these folds initiate, propagate, and interact with each other is still lacking'.
+Inside each ferroelastic domain are ferroelectric 90° nano-domains with 10 nm widths and periodicity in agreement with the 10 nm theoretical minima predicted by Feigl et al (2014 Nat. Commun. 5 4677).
+Evidence is presented for domain-width period doubling, which is common in polymer films but unknown in ferroic domains.
+A discussion of the folding-to-period doubling phase transition model of Wang and Zhao is included.

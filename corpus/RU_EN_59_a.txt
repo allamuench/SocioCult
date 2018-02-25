@@ -1,0 +1,5 @@
+We investigate the time evolution of filling numbers of localized electrons in the system of two coupled single-level quantum dots (QDs) connected with the continuous-spectrum states in the presence of Coulomb interaction.
+We considered correlation functions of all orders for electrons in the QDs by decoupling higher-order correlations between localized and band electrons in the reservoir.
+We analyze different initial charge configurations and consider Coulomb correlations between localized electrons both within the dots and between the different dots.
+We reveal the presence of a dynamical charge trapping effect in the first QD in the situation where both dots are occupied at the initial instant.
+We also find an analytic solution for the time-dependent filling numbers of the localized electrons for a particular configuration of the dots.

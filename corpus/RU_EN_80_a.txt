@@ -1,0 +1,6 @@
+We suggest a qualitative explanation of oscillations in electron capture decays of hydrogen-like 140 Pr and 142 Pm ions observed recently in an ion experimental storage ring (ESR) of Gesellschaft für Schwerionenforschung (GSI) mbH, Darmstadt, Germany.
+This explanation is based on the electron multiphoton Rabi oscillations between two Zeeman states of the hyperfine ground level with the total angular momentum F=1/2.
+The Zeeman splitting is produced by a constant magnetic field in the ESR.
+Transitions between these states are produced by the second, sufficiently strong alternating magnetic field that approximates realistic fields in the GSI ESR.
+The Zeeman splitting amounts to only about 10-5 eV.
+This allows explaining the observed quantum beats with the period 7 s.

@@ -1,0 +1,9 @@
+Processes that involve moving fronts of populations are prevalent in ecology and cell biology.
+A common approach to describe these processes is a lattice-based random walk model, which can include mechanisms such as crowding, birth, death, movement and agent–agent adhesion.
+However, these models are generally analytically intractable and it is computationally expensive to perform sufficiently many realisations of the model to obtain an estimate of average behaviour that is not dominated by random fluctuations.
+To avoid these issues, both mean-field (MF) and corrected mean-field (CMF) continuum descriptions of random walk models have been proposed.
+However, both continuum descriptions are inaccurate outside of limited parameter regimes, and CMF descriptions cannot be employed to describe moving fronts.
+Here we present an alternative description in terms of the dynamics of groups of contiguous occupied lattice sites and contiguous vacant lattice sites.
+Our description provides an accurate prediction of the average random walk behaviour in all parameter regimes.
+Critically, our description accurately predicts the persistence or extinction of the population in situations where previous continuum descriptions predict the opposite outcome.
+Furthermore, unlike traditional MF models, our approach provides information about the spatial clustering within the population and, subsequently, the moving front.

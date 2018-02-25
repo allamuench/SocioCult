@@ -1,0 +1,4 @@
+The method of neutron diffraction with isomorphic substitution was used to measure the structure of the rare-earth chalcogenide glasses ${{\left({{R}_{2}}{{X}_{3}}\right)}_{0.07}}$ (Ga2 X 3)0.33(GeX 2)0.60 with $R=\text{La}$ or Ce and $X=\text{S}$ or Se.
+X-ray diffraction was also used to measure the structure of the sulphide glass.
+The results are consistent with networks that are built from GeX 4 and GaX 4 tetrahedra, and give R–S and R–Se coordination numbers of 8.0(2) and 8.5(4), respectively.
+The minimum nearest-neighbour R–R distance associated with rare-earth clustering is discussed.

@@ -1,0 +1,3 @@
+We present a generalization of Borisov's construction of the chiral de Rham complex in the case of the line-bundle-twisted chiral de Rham complex on a Calabi-Yau hypersurface in a projective space.
+We generalize the differential associated with a polytope Δ of the projective space \mathbb{P}^{d- 1} by allowing nonzero modes for the screening currents forming this differential.
+It is shown that the numbers of screening current modes define the support function of the toric divisor of a line bundle on \mathbb{P}^{d-1} that twists the chiral de Rham complex on the Calabi-Yau hypersurface.

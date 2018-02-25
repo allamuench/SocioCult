@@ -1,0 +1,5 @@
+Thin films of long and short symmetric AB diblock copolymers are examined using self-consistent field theory (SCFT).
+We focus on hard confining walls with a preference for the A component, such that the lamellar domains orient parallel to the film with an even number ν of monolayers.
+For neat melts, confinement causes the lamellar period, D, to deviate from its bulk value, Db, in order to be commensurate with the film thickness, i.e., L=νD/2.
+For blends, however, the melt also has the option of macrophase separating into ν(ℓ) large and ν(s) small monolayers so as to provide a better fit, where L=ν(ℓ)D(ℓ)/2+ν(s)D(s)/2.
+In addition to performing full SCFT calculations of the entire film, we develop a semi-analytical calculation for the coexistence of thick and thin monolayers that helps explain the complicated interplay between miscibility and commensurability.

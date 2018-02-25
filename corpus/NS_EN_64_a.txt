@@ -1,0 +1,6 @@
+In-plane (lateral) and out-of-plane (transverse) shifts in the direction of arbitrarily polarized electromagnetic waves in a denser medium, reflected totally or partially at an interface with a rarer medium, are calculated exactly, in terms of the deviation of the Poynting vector from radial.
+The shifts are analogous to the Goos–Hänchen and Fedorov–Imbert shifts for beams.
+There is a transverse shift even for unreflected dipole radiation if the polarization is not linear.
+With reflection, there is a transverse shift for linear polarization, provided this is not pure transverse electric or transverse magnetic.
+The contributions from the geometrical ray, the lateral ray that interferes strongly with it, and the large peak at the Brewster angle (for transverse magnetic polarization), are calculated asymptotically far from the geometrical image.
+At the critical angle, the lowest order asymptotics is inadequate and a more sophisticated treatment is devised, reproducing the exact shifts accurately.

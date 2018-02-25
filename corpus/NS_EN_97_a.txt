@@ -1,0 +1,4 @@
+In this paper, we consider magnetic flows on 2-step nilmanifolds $M= \Gamma \backslash G$, where the Riemannian metric g and the magnetic field σ are left-invariant.
+Our first result is that when σ represents a rational cohomology class and its restriction to $\mathfrak{g}={{T}_{e}}G$ vanishes on the derived algebra, then the associated magnetic flow has zero topological entropy.
+In particular, this is the case when σ represents a rational cohomology class and is exact.
+Our second result is the construction of a magnetic field on a 2-step nilmanifold that has positive topological entropy for arbitrarily high energy levels.

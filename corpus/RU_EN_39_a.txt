@@ -1,0 +1,7 @@
+The statistical theory of diffusion in concentrated BCC and FCC alloys with arbitrary pairwise interatomic interactions based on the master equation approach is developed.
+Vacancy-atom correlations are described using both the second-shell-jump and the nearest-neighbor-jump approximations which are shown to be usually sufficiently accurate.
+General expressions for Onsager coefficients in terms of microscopic interatomic interactions and some statistical averages are given.
+Both the analytical kinetic mean-field and the Monte Carlo methods for finding these averages are described.
+The theory developed is used to describe sharp concentration dependences of diffusion coefficients in several iron-based alloy systems.
+For the BCC alloys FeCu, FeMn, and FeNi, we predict the notable increase of the iron self-diffusion coefficient with solute concentration c, up to several times, even though values of c possible for these alloys do not exceed some percent.
+For the BCC alloys FeCr at high temperatures T\gtrsim 1400 K, we show that the very strong and peculiar concentration dependences of both tracer and chemical diffusion coefficients observed in these alloys can be naturally explained by the theory, without invoking exotic models discussed earlier.

@@ -1,0 +1,4 @@
+In this paper we discuss Airy solutions of the second Painleve equation (\mbox{\rm PII}) and two related equations, the Painleve XXXIV equation (\rm P34) and the Jimbo-Miwa-Okamoto σ form of \mbox{\rm PII}\ (\mbox{\rm SII}), are discussed.
+It is shown that solutions which depend only on the Airy function Ai(z) have a completely difference structure to those which involve a linear combination of the Airy functions Ai(z) and Bi(z).
+For all three equations, the special solutions which depend only on Ai(t) are tronquee solutions, i.e. they have no poles in a sector of the complex plane.
+Further for both \rm P34\ and \mbox{\rm SII}, it is shown that amongst these tronquee solutions there is a family of solutions which have no poles on the real axis.

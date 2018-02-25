@@ -1,0 +1,8 @@
+We present the results of a systematic study of Knudsen's flow of Rb atoms in cylindrical capillary cells coated with a polydimethylsiloxane (PDMS) compound.
+The purpose of the investigation is to determine the characterization of the coating in terms of the sticking probability and sticking time of Rb on the two types of coating of high and medium viscosities.
+We report the measurement of the sticking probability of an Rb atom to the coating equal to 4.3\cdot10^{-5}, which corresponds to the number of bounces 2.3\cdot10^4 at room temperature.
+These parameters are the same for the two kinds of PDMS used.
+We find that at room temperature, the respective sticking times for high-viscosity and medium-viscosity PDMS are 22\pm3 \mus and 49\pm6 \mus.
+These sticking times are about million times larger than the sticking time derived from the surface Rb atom adsorption energy and temperature of the coating.
+A tentative explanation of this surprising result is proposed based on the bulk diffusion of the atoms that collide with the surface and penetrate inside the coating.
+The results can be important in many resonance cell experiments, such as the efficient magneto-optical trapping of rare elements or radioactive isotopes and in experiments on the light-induced drift effect.

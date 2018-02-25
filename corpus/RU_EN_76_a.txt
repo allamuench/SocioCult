@@ -1,0 +1,11 @@
+Phase behavior of DODAB aqueous solution, prepared without sonication, was studied by adiabatic scanning calorimetry.
+Measurements revealed four phase transitions with the temperatures 35.2, 39.6, 44.6, and 52.4 at heating and one transition at the temperature 40.4 at cooling.
+The first three transitions at heating occur in unilamellar vesicles.
+The first and third transitions correspond to the subgel-gel and gel-liquid phase transitions, corresponding enthalpy jumps are equal to 33 and 49 kJ/mol.
+The second transition appears after some aging and is similar to gel-ripple phase transition in a DPPC solution, with the enthalpy jump under the transition exceeding 7.4 kJ/mol.
+The transition occurs in unilamellar vesicles.
+The transition at the temperature 52.4 occurs in another subsystem of the solution, which we believe to be multilamellar vesicles.
+The enthalpy jump at this transition is equal to 97 kJ/mol, and data analysis suggests that this is a subgel-liquid transition.
+The phase transition at cooling is the liquid-gel transition in unilamellar vesicles.
+During the measurements, a slow evolution of the solution occurs, consisting in a change of concentrations of unilamellar and multilamellar vesicles.
+This transformation mainly occurs at low temperatures.

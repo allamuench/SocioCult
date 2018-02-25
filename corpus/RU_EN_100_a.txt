@@ -1,0 +1,11 @@
+An analytic approach to the theory of optical defect modes in chiral liquid crystals (CLCs) is developed.
+The analytic study is facilitated by the choice of the problem parameters.
+Specifically, an isotropic layer (with the dielectric susceptibility equal to the average CLC dielectric susceptibility) sandwiched between two CLC layers is studied.
+The chosen model allows eliminating the polarization mixing and reducing the corresponding equations to the equations for light of diffracting polarization only.
+The dispersion equation relating the defect mode (DM) frequency to the isotropic layer thickness and an analytic expression for the field distribution in the DM structure are obtained and the corresponding dependences are plotted for some values of the DM structure parameters.
+Analytic expressions for the transmission and reflection coefficients of the DM structure (CLC-defect layer-CLC) are presented and analyzed for nonabsorbing, absorbing, and amplifying CLCs.
+The anomalously strong light absorption effect at the DM frequency is revealed.
+The limit case of infinitely thick CLC layers is considered in detail.
+It is shown that for distributed feedback lasing in a defect structure, adjusting the lasing frequency to the DM frequency results in a significant decrease in the lasing threshold.
+The DM dispersion equations are solved numerically for typical values of the relevant parameters.
+Our approach helps clarify the physics of the optical DMs in CLCs and completely agrees with the corresponding results of the previous numerical investigations.

@@ -1,0 +1,4 @@
+Using the imaginary time method, a new formulation of Coulomb corrections to the amplitude of nonlinear ionization of atoms is given.
+The Coulomb corrections to the photoelectron action and trajectory are presented in the form independent of the integration path in the imaginary time plane.
+The obtained representation corrects the previously known results and shows that the subdivision of photoelectron motion into the sub-barrier and after-barrier parts is conditional and does not influence observables.
+The new correction is particularly relevant in the multiphoton regime of ionization.

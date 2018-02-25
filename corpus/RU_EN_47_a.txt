@@ -1,0 +1,6 @@
+Highly anisotropic ``nematically ordered'' aerogel induces global uniaxial anisotropy in superfluid 3 He.
+The anisotropy lowers symmetry of 3 He in the aerogel from spherical to axial.
+As a result, instead of one transition temperature in a state with an orbital moment l=1 there are two, corresponding to projections lz=0 and l_z=\pm1.
+This splitting has a pronounced effect on the phase diagram of superfluid 3 He and on the structures of the appearing phases.
+Possible phase diagrams, obtained phenomenologically on the basis of Landau expansion of the thermodynamic potential in the vicinity of the transition temperature are presented here.
+The order parameters corresponding to each phase and their temperature dependences are found.

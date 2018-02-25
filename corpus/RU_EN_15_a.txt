@@ -1,0 +1,8 @@
+The recent increase in the number of studies of RFe11-xMx compounds is related to their promising application as permanent magnets.
+However, the insufficiently high value of the Curie temperature TC of these compounds is a barrier to their widespread use.
+The increase in the Curie temperature of these compounds is achieved by doping with the light nonmetallic atoms such as hydrogen, nitrogen, and carbon.
+In this paper, it is shown numerically that this doping leads to drastic changes of the electronic band dispersions in a wide energy region around the Fermi level.
+This in turn changes values of the magnetic moments of ions and Heisenberg exchange interaction parameters.
+The values of ab initio calculated magnetic moments and direct exchange interaction parameters allow to calculate the Curie temperatures for both parent and nitrogen-doped compounds within the mean-field approach to the Heisenberg model in the sample of YFe11Mo, a typical representative of the R(Fe,M)12L class.
+Theoretical values of TC obtained for YFe11Mo and YFe11MoN (514 K and 723 K respectively) are consistent with experimental ones (472 K and 664 K) with an accuracy of 10%.
+Also, the calculated increase in TC upon nitrogenization (about 200 K) is in good agreement with the experimental data.

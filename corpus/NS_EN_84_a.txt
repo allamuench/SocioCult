@@ -1,0 +1,8 @@
+The bulk of the rare earth elements are believed to be synthesized in the rapid neutron capture process or r process of nucleosynthesis.
+The solar r-process residuals show a small peak in the rare earths around $A\sim 160$, which is proposed to be formed dynamically during the end phase of the r process by a pileup of material.
+This abundance feature is of particular importance as it is sensitive to both the nuclear physics inputs and the astrophysical conditions of the main r process.
+We explore the formation of the rare earth peak from the perspective of an inverse problem, using Monte Carlo studies of nuclear masses to investigate the unknown nuclear properties required to best match rare earth abundance sector of the solar isotopic residuals.
+When nuclear masses are changed, we recalculate the relevant β-decay properties and neutron capture rates in the rare earth region.
+The feedback provided by this observational constraint allows for the reverse engineering of nuclear properties far from stability where no experimental information exists.
+We investigate a range of astrophysical conditions with this method and show how these lead to different predictions in the nuclear properties influential to the formation of the rare earth peak.
+We conclude that targeted experimental campaigns in this region will help to resolve the type of conditions responsible for the production of the rare earth nuclei, and will provide new insights into the longstanding problem of the astrophysical site(s) of the r process.

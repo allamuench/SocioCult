@@ -1,0 +1,4 @@
+The theory of Raman scattering in half-metals by optical phonons interacting with conduction electrons is developed.
+We evaluate the effect of electron-phonon interactions at ferromagnetic ordering in terms of the Boltzmann equation for carriers.
+The chemical potential is found to decrease as the temperature decreases.
+Both the linewidth and frequency shift exhibit a dependence on temperature.

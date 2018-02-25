@@ -1,0 +1,4 @@
+Many interesting nonlinear effects are based on the strong interaction of motional degrees of freedom of atoms with an optical cavity field.
+Among them is the spatial self-organization of atoms in a pattern where the atoms group in either odd or even sites of the cavity-induced optical potential.
+An experimental observation of this effect can be simplified by using, along with the original cavity-induced feedback, an additional electronic feedback based on the detection of light leaking the cavity and the control of the optical potential for the atoms.
+Following our previous study, we show that this approach is more efficient from the laser power perspective than the original scheme without the electronic feedback.

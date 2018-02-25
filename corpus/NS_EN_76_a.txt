@@ -1,0 +1,4 @@
+Radiative charge exchange collisions between a carbon atom ${\rm{C}}({}^{3}P)$ and a helium ion ${\mathrm{He}}^{+}({}^{2}S)$, both in their ground state, are investigated theoretically.
+Detailed quantum chemistry calculations are carried out to obtain potential energy curves and transition dipole matrix elements for doublet and quartet molecular states of the HeC+ cation.
+Radiative charge transfer cross sections and rate coefficients are calculated and are found at thermal and lower energies to be large compared to those for direct charge transfer.
+The present results might be applicable to modelling the complex interplay of $[{\rm{C}}\,{\rm{II}}$ (or ${{\rm{C}}}^{+}$), ${\rm{C}}$, and $\mathrm{CO}$ at the boundaries of interstellar photon dominated regions and in x-ray dominated regions, where the abundance of ${\mathrm{He}}^{+}$ affects the abundance of $\mathrm{CO}$.

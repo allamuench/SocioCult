@@ -1,0 +1,6 @@
+We investigate statistical properties of the passive scalar mixing in random (turbulent) flows assuming its diffusion to be weak.
+Then at advanced stages of the passive scalar decay, its unmixed residue is primarily concentrated in a narrow diffusive layer near the wall and its transport to the bulk goes through the peripheral region (laminar sublayer of the flow).
+We conducted Lagrangian numerical simulations of the process for different space dimensions d and revealed structures responsible for the transport, which are passive scalar tongues pulled from the diffusive boundary layer to the bulk.
+We investigated statistical properties of the passive scalar and of the passive scalar integrated along the wall.
+Moments of both objects demonstrate scaling behavior outside the diffusive boundary layer.
+We propose an analytic scheme for the passive scalar statistics, explaining the features observed numerically.

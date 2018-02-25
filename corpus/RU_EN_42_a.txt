@@ -1,0 +1,5 @@
+New composite materials (SrFe12O19)x(CaCu3Ti4O12)1-x (x=0, 0.05, 1) have been synthesized.
+Their magnetic properties are studied in the temperature range 5-300 K using the magnetic resonance and magnetometry methods.
+It is found that strontium hexaferrite micro inclusions in the (SrFe12O19)0.05(CaCu3Ti4O12)0.95 composite ``magnetize'' CaCu3Ti4O12 at temperatures from 300 to 200 K, forming a ferrimagnetic particle near the SrFe12O19 ``core''.
+The magnetic resonance line below 200 K splits into two lines corresponding to SrFe12O19 and CaCu3Ti4O12.
+The core effect decoration is manifested in the increase in the Curie-Weiss temperature from 25 K in CaCu3Ti4O12 without the doping ceramics to 80 K in the composite with 5% of SrFe12O19.

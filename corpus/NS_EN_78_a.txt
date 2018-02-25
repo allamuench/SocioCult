@@ -1,0 +1,7 @@
+As part of the quest to uncover universal features of quantum dynamics, we study catastrophes that form in simple many-particle wave functions following a quench, focusing on two-mode systems that include the two-site Bose–Hubbard model, and under some circumstances optomechanical systems and the Dicke model.
+When the wave function is plotted in Fock space certain characteristic shapes, that we identify as cusp catastrophes, appear under generic conditions.
+In the vicinity of a cusp the wave function takes on a universal structure described by the Pearcey function and obeys scaling relations which depend on the total number of particles N.
+In the thermodynamic limit ($N\to \infty $) the cusp becomes singular, but at finite N it is decorated by an interference pattern.
+This pattern contains an intricate network of vortex–antivortex pairs, initiating a theory of topological structures in Fock space.
+In the case where the quench is a δ-kick the problem can be solved analytically and we obtain scaling exponents for the size and position of the cusp, as well as those for the amplitude and characteristic length scales of its interference pattern.
+Finally, we use these scalings to describe the wave function in the critical regime of a ${{\mathbb{Z}}}_{2}$ symmetry-breaking dynamical phase transition.

@@ -1,0 +1,5 @@
+The change in entropy, ΔS, associated with the quasi-static absorption of a particle of energy ε by a Schwarzschild black hole (ScBH) is approximately (ε/T)−s, where T is the Hawking temperature of the black hole and s is the entropy of the particle.
+Motivated by the statistical interpretation of entropy, it is proposed here that the absorption should be suppressed, but not forbidden, when ΔS<0, which requires the absorption cross section to be sensitive to ΔS.
+A purely thermodynamic formulation of the probability for the absorption is obtained from the standard relationship between microstates and entropy.
+If ΔS≫1 and s≪ε/T, then the probability for the particle not to be absorbed is approximately exp[−ε/T], which is identical to the probability for quantum mechanical reflection by the horizon of an ScBH.
+The manifestation of quantum behaviours in the new probability function may intimate a fundamental physical unity between thermodynamics and quantum mechanics.

@@ -1,0 +1,5 @@
+A simple, versatile approach for the roughening of polymer microparticles surfaces via a deformation technique in the presence of an inorganic matrix is presented here.
+The process consists of straightforward steps: (1) preparation of a bicomposite colloidal sol, that is polymer particles and inorganic particles, dispersed in a liquid, (2) drying of the mixture onto a suitable hard substrate, (3) heating the dried film above the glass transition temperature of the polymer, and (4) re-dispersion and chemical etching of the inorganic medium.
+The primary driver is capillary imbibition of the polymer melt into the inorganic colloidal template.
+In addition, 2D particle tracking experiments of dispersed rough particles in water were performed to probe the diffusional behaviour of the roughened objects in comparison with their smooth precursors.
+We show that, despite large scale roughness (up to 10% asperity size with respect to particle diameter), Stokes law is obeyed and the particle motion can be modelled simply with the Stokes–Einstein–Sutherland relation.

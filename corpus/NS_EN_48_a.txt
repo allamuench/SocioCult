@@ -1,0 +1,8 @@
+This article discusses the role of geophysical fluid dynamics (GFD) in understanding the natural environment, and in particular the dynamics of atmospheres and oceans on Earth and elsewhere.
+GFD, as usually understood, is a branch of the geosciences that deals with fluid dynamics and that, by tradition, seeks to extract the bare essence of a phenomenon, omitting detail where possible.
+The geosciences in general deal with complex interacting systems and in some ways resemble condensed matter physics or aspects of biology, where we seek explanations of phenomena at a higher level than simply directly calculating the interactions of all the constituent parts.
+That is, we try to develop theories or make simple models of the behaviour of the system as a whole.
+However, these days in many geophysical systems of interest, we can also obtain information for how the system behaves by almost direct numerical simulation from the governing equations.
+The numerical model itself then explicitly predicts the emergent phenomena—the Gulf Stream, for example—something that is still usually impossible in biology or condensed matter physics.
+Such simulations, as manifested, for example, in complicated general circulation models, have in some ways been extremely successful and one may reasonably now ask whether understanding a complex geophysical system is necessary for predicting it.
+In what follows we discuss such issues and the roles that GFD has played in the past and will play in the future.

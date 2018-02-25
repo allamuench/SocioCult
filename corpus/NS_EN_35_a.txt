@@ -1,0 +1,10 @@
+The additional information within a Hamilton–Jacobi representation of quantum mechanics is extra, in general, to the Schrödinger representation.
+This additional information specifies the microstate of ψ that is incorporated into the quantum reduced action, W.
+Non-physical solutions of the quantum stationary Hamilton–Jacobi equation for energies that are not Hamiltonian eigenvalues are examined to establish Lipschitz continuity of the quantum reduced action and conjugate momentum.
+Milne quantization renders the eigenvalue J.
+Eigenvalues J and E mutually imply each other.
+Jacobi’s theorem generates a microstate-dependent time parametrization t−τ=∂EW even where energy, E, and action variable, J, are quantized eigenvalues.
+Substantiating examples are examined in a Hamilton–Jacobi representation including the linear harmonic oscillator numerically and the square well in closed form.
+Two byproducts are developed.
+First, the monotonic behavior of W is shown to ease numerical and analytic computations.
+Second, a Hamilton–Jacobi representation, quantum trajectories, is shown to develop the standard energy quantization formulas of wave mechanics.

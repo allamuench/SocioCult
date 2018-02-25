@@ -1,0 +1,7 @@
+We search for the long-term variability of the gamma-ray sky in the energy range E>1 GeV with 168 weeks of the gamma-ray telescope Fermi-LAT data.
+We perform a full sky blind search for regions with variable flux looking for deviations from uniformity.
+We bin the sky into 12288 pixels using the HEALPIX package and use the Kolmogorov-Smirnov test to compare weekly photon counts in each pixel with the constant flux hypothesis.
+The weekly exposure of Fermi-LAT for each pixel is calculated with the Fermi-LAT tools.
+We consider flux variations in a pixel significant if the statistical probability of uniformity is less than 4• 10-6, which corresponds to 0.05 false detections in the whole set.
+We identified 117 variable sources, 27 of which have not been reported variable before.
+The sources with previously unidentified variability contain 25 active galactic nuclei (AGN) belonging to the blazar class (11 BL Lacs and 14 FSRQs), one AGN of an uncertain type, and one pulsar PSR J0633+1746 (Geminga).

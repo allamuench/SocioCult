@@ -1,0 +1,5 @@
+We consider formulations of the functional renormalization-group (fRG) flow for correlated electronic systems with the dynamical mean-field theory as a starting point.
+We classify the corresponding renormalization-group schemes into those neglecting one-particle irreducible six-point vertices with respect to the local Green's functions) and neglecting one-particle reducible six-point vertices.
+The former class is represented by the recently introduced DMF2RG approach 31, but also by the scale-dependent generalization of the one-particle irreducible representation (with respect to local Green's functions, 1PI-LGF) of the generating functional 20.
+The second class is represented by the fRG flow within the dual fermion approach 16,32.
+We compare formulations of the fRG approach in each of these cases and suggest their further application to study 2D systems within the Hubbard model.

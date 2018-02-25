@@ -1,0 +1,5 @@
+γ-process nucleosynthesis that occurs during an explosion of a type II supernova can be modeled via post-processing network calculations that require a model of the stellar environment and the rates for all the nuclear reactions involved in the process.
+The nuclear input for these calculations relies on reaction rates obtained from statistical models.
+In this work, the sensitivity of the γ-process nucleosynthesis to the α optical model potential used in statistical model was investigated.
+Network calculations were performed for two sets of reaction rates, the current version of Reaclib and with rates for α-induced reactions and their inverse replaced with those calculated using Talys.
+Significant changes in the final abundance pattern were observed and a list of reactions that need to be measured in order to discriminate between the two nucleosynthesis scenarios is provided.

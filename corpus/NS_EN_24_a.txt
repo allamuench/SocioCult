@@ -1,0 +1,4 @@
+Frauchiger and Renner have recently claimed to prove that “Single-world interpretations of quantum theory cannot be self-consistent”.
+This is contradicted by a construction due to Bell, inspired by Bohmian mechanics, which shows that any quantum system can be modelled in such a way that there is only one “world” at any time, but the predictions of quantum theory are reproduced.
+This Bell–Bohmian theory is applied to the experiment proposed by Frauchiger and Renner, and their argument is critically examined.
+It is concluded that it is their version of “standard quantum theory”, incorporating state vector collapse upon measurement, that is not self-consistent.

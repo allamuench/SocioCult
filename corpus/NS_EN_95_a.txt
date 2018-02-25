@@ -1,0 +1,6 @@
+Real-world networks in technology, engineering and biology often exhibit dynamics that cannot be adequately reproduced using network models given by smooth dynamical systems and a fixed network topology.
+Asynchronous networks give a theoretical and conceptual framework for the study of network dynamics where nodes can evolve independently of one another, be constrained, stop, and later restart, and where the interaction between different components of the network may depend on time, state, and stochastic effects.
+This framework is sufficiently general to encompass a wide range of applications ranging from engineering to neuroscience.
+Typically, dynamics is piecewise smooth and there are relationships with Filippov systems.
+In this paper, we give examples of asynchronous networks, and describe the basic formalism and structure.
+In the following companion paper, we make the notion of a functional asynchronous network rigorous, discuss the phenomenon of dynamical locks, and present a foundational result on the spatiotemporal factorization of the dynamics for a large class of functional asynchronous networks.

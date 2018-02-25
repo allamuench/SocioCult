@@ -1,0 +1,5 @@
+The influence of e-h scattering on the conductivity and magnetotransport of 2D semimetallic HgTe is studied both theoretically and experimentally.
+The presence of e-h scattering leads to the friction between electrons and holes resulting in a large temperature-dependent contribution to the transport coefficients.
+The coefficient of friction between electrons and holes is determined.
+The comparison of experimental data with the theory shows that the interaction between electrons and holes based on the long-range Coulomb potential strongly underestimates the e-h friction.
+The experimental results are in agreement with the model of strong short-range e-h interaction.

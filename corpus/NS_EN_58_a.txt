@@ -1,0 +1,6 @@
+We propose a method for sorting electrons by orbital angular momentum (OAM).
+Several methods now exist to prepare electron wavefunctions in OAM states, but no technique has been developed for efficient, parallel measurement of pure and mixed electron OAM states.
+The proposed technique draws inspiration from the recent demonstration of the sorting of OAM through modal transformation.
+We show that the same transformation can be performed on electrons with electrostatic optical elements.
+Specifically, we show that a charged needle and an array of electrodes perform the transformation and phase correction necessary to sort OAM states.
+This device may enable the analysis of the spatial mode distribution of inelastically scattered electrons.

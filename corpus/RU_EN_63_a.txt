@@ -1,0 +1,5 @@
+The influence of vacancies and interstitial atoms on magnetism in Pu is considered in the framework of the density functional theory.
+The crystal structure relaxation arising due to different types of defects is calculated using the molecular dynamics method with a modified embedded atom model.
+The local density approximation with explicit inclusion of Coulomb and spin-orbit interactions is applied in matrix invariant form to describe correlation effects in Pu with these types of defects.
+The calculations show that both vacancies and interstitials give rise to local moments in the f-shell of Pu in good agreement with experimental data for aged Pu.
+Magnetism appears due to the destruction of a delicate balance between spin-orbit and exchange interactions.

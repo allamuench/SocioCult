@@ -1,0 +1,6 @@
+The defect in diamond formed by a vacancy surrounded by three nearest-neighbor nitrogen atoms and one carbon atom, ${{\text{N}}_{3}}\text{V}$, is found in the vast majority of natural diamonds.
+Despite ${{\text{N}}_{3}}{{\text{V}}^{0}}$ being the earliest electron paramagnetic resonance spectrum observed in diamond, to date no satisfactory simulation of the spectrum for an arbitrary magnetic field direction has been produced due to its complexity.
+In this work, ${{\text{N}}_{3}}{{\text{V}}^{0}}$ is identified in ${{}^{15}}\text{N}$ -doped synthetic diamond following irradiation and annealing.
+The ${{}^{15}}{{\text{N}}_{3}}{{\text{V}}^{0}}$ spin Hamiltonian parameters are directly determined and used to refine the parameters for ${{}^{14}}{{\text{N}}_{3}}{{\text{V}}^{0}}$, enabling the latter to be accurately simulated and fitted for an arbitrary magnetic field direction.
+Study of ${{}^{15}}{{\text{N}}_{3}}{{\text{V}}^{0}}$ under excitation with green light indicates charge transfer between ${{\text{N}}_{3}}\text{V}$ and ${{\text{N}}_{\text{s}}}$.
+It is argued that this charge transfer is facilitated by direct ionization of ${{\text{N}}_{3}}{{\text{V}}^{-}}$, an as-yet unobserved charge state of ${{\text{N}}_{3}}\text{V}$.

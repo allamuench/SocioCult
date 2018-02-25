@@ -1,0 +1,7 @@
+The afterglow of a dusty plasma of rf discharge in argon is simulated by Particles In Cells-Monte Carlo Collisions (PIC-MCC) method.
+The experimental observation that heavy dust contamination of plasma leads to an anomalous increase in the electron density at the beginning of afterglow is explained by release of electrons from the dust surface.
+Under the assumption that the floating potential of particles is in equilibrium with plasma conditions, the fast cooling of electrons in afterglow plasma due to a rapid escape of hot electrons from the volume leads to a decrease in the magnitude of the floating potential and hence to a loss of charge by dust.
+The intensive desorption of electrons from nanoparticles is the origin of anomalous behavior of the electron density.
+At the next stage of afterglow, when the electrons become cool, the plasma decay is defined by ambipolar diffusion.
+The effect of metastable argon atoms is also considered.
+Additional ionization due to metastable atom collisions affects the electron temperature but does not change the behavior of the electron density qualitatively.

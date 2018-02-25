@@ -1,0 +1,5 @@
+This paper examines unexplored correlations in the parameter spaces probed by recent ATLAS analyses for gluinos and squarks, addressing various shortcomings in the literature.
+Six 13 TeV ATLAS analyses based on 3.2 fb^{-1} of integrated luminosity are interpreted in the 19-parameter R-parity conserving phenomenological minimal supersymmetric extension to the Standard Model (pMSSM).
+The distinct regions covered by each search are independent of prior, and we reveal particularly striking complementarity between the 2–6 jets and Multi-b searches.
+In the leptonic searches, we identify better sensitivity to models than those used for analysis optimisation, notably a squark–slepton–wino scenario for the SS/3L search.
+Further, we show how collider searches for coloured states probe the structure of the pMSSM dark sector more extensively than the Monojet analysis alone, with sensitivity to parameter spaces that are challenging for direct detection experiments.

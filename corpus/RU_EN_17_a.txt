@@ -1,0 +1,3 @@
+The electronic structure of Gd-doped MgO is investigated using the LSDA+U local spin density approximation (with U-correction) method and compared to the MgO structure.
+The total density of states obtained accounting for the correlation effects in the 4f shell of gadolinium is found to be formed by the oxygen 2p states at the valence band and the 4f gadolinium occupied states, while the conduction band is represented by a mixture of empty electronic states.
+Magnetic properties of the calculated Gd-doped MgO are found to be formed solely by the Gd-4f-magnetic moment of about 7 μB, in good agreement with recent experimental results suggesting a ferromagnetic coupling of the local magnetic moments induced by Gd.

@@ -1,0 +1,4 @@
+We study the interaction of the charge states of a superconducting double dot, comprising two superconducting islands coupled by a Josephson junction, with microwaves between 2 and 55 GHz.
+We observe resonant transitions between even-parity charge states at relatively low frequencies and breaking of Cooper pairs under higher-frequency irradiation, allowing our device to act as a click detector for microwave photons.
+By applying a magnetic field and tuning the pair-breaking energy, we perform spectroscopy on the environment in our cryostat and determine the temperature of a nonequilibrium photon bath.
+Finally, we exploit the band structure of our device to break Cooper pairs dependent on the symmetry of the initial Cooper pair state.

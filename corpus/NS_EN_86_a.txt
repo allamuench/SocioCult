@@ -1,0 +1,4 @@
+We describe a simple method of incorporating the finite mass of the nucleus directly into atomic variational Monte Carlo calculations.
+To test this algorithm we computed the energy and 20 other properties of 4He.
+We then compared these values with those obtained from our earlier infinite nuclear mass algorithm.
+All of our expectation values are in excellent agreement with previous results on this system.

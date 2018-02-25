@@ -1,0 +1,5 @@
+The quantum-mechanochemical-reaction-coordinate approach has disclosed atomically matched peculiarities that accompany the deformation-failure-rupture process occurring in nanographenes.
+The high stiffness of the graphene body is provided by the benzenoid unit.
+The anisotropy of the unit mechanical behavior in combination with different configurations of the unit packing with respect to the body C-C bond chains forms the ground for the structure-sensitive mechanism of the mechanical behavior that is drastically different for two different deformation modes.
+The zig-zag deformation mode is particularly manifested with the formation of one-atom chains.
+The approach allows tracing a deformation-stimulated change in the chemical reactivity of both the nanographene body and its individual atoms.

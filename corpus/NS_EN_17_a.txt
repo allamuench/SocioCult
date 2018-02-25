@@ -1,0 +1,5 @@
+We describe the Sr optical lattice clock apparatus at NPL with particular emphasis on techniques used to increase reliability and minimise the human requirement in its operation.
+Central to this is a clock-referenced transfer cavity scheme for the stabilisation of cooling and trapping lasers.
+We highlight several measures to increase the reliability of the clock with a view towards the realisation of an optical time-scale.
+The clock contributed 502 hours of data over a 25 day period (84% uptime) in a recent measurement campaign with several uninterrupted periods of more than 48 hours.
+An instability of 2×10−17 was reached after 105 s of averaging in an interleaved self-comparison of the clock.

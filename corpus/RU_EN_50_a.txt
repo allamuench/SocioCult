@@ -1,0 +1,6 @@
+In a system of N interacting single-level quantum dots (QDs) we study relaxation dynamics and current-voltage characteristics determined by symmetry properties of the QD arrangement.
+Different numbers of dots, initial charge configurations, and various coupling regimes to reservoirs are considered.
+We reveal that effective charge trapping occurs for particular regimes of coupling to the reservoir when more than two dots form a ring structure with the CN spatial symmetry.
+We reveal that the effective charge trapping caused by the CN spatial symmetry of N coupled QDs depends on the number of dots and the way of coupling to the reservoirs.
+We demonstrate that the charge trapping effect is directly connected with the formation of dark states, which are not coupled to reservoirs due to the system spatial symmetry CN.
+We also reveal the symmetry blockade of the tunneling current caused by the presence of dark states.

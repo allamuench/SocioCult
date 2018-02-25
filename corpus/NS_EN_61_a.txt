@@ -1,0 +1,7 @@
+Photonic crystal waveguides are known to support C-points—point-like polarization singularities with local chirality.
+Such points can couple with dipole-like emitters to produce highly directional emission, from which spin-photon entanglers can be built.
+Much is made of the promise of using slow-light modes to enhance this light–matter coupling.
+Here we explore the transition from travelling to standing waves for two different photonic crystal waveguide designs.
+We find that time-reversal symmetry and the reciprocal nature of light places constraints on using C-points in the slow-light regime.
+We observe two distinctly different mechanisms through which this condition is satisfied in the two waveguides.
+In the waveguide designs, we consider a modest group velocity of vg≈c/10 is found to be the optimum for slow-light coupling to the C-points.

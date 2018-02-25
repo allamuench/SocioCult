@@ -1,0 +1,5 @@
+We examine the feasibility of predicting and subsequently managing the future evolution of a Complex Adaptive System.
+Our archetypal system mimics a competitive population of mechanical, biological, informational or human objects.
+We show that short-term prediction yields corridors along which the system will, with very high probability, evolve.
+We then show how small amounts of 'population engineering' can be undertaken in order to steer the system away from any undesired regimes which have been predicted.
+Despite the system's many degrees of freedom and inherent stochasticity, this dynamical 'soft' control over future risk requires only minimal knowledge about the population's composition.

@@ -1,0 +1,3 @@
+We discuss electron scattering in a one-dimensional delta barrier potential with either time-dependent coupling constant (classical model) or a coupling constant that is linear in a boson coordinate (quantum model).
+We find an exact continued fraction solution and Fano like resonances in the transmission coefficient.
+In the quantum model, energies for perfect transmission exist below the first sideband threshold.

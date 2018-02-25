@@ -1,0 +1,9 @@
+Gapless phases in ground states of low-dimensional quantum spin systems are rather ubiquitous.
+Their peculiarity is a remarkable sensitivity to external perturbations due to permanent criticality of such phases manifested by a slow (power-low) decay of pair correlations and the divergence of the corresponding susceptibility.
+A strong influence of various defects on the properties of the system in such a phase can then be expected.
+Here, we consider the influence of vacancies on the thermodynamics of the simplest quantum model with a gapless phase, the isotropic spin-1/2 XX chain.
+The existence of the exact solution of this model gives a unique opportunity to describe in detail the dramatic effect of dilution on the gapless phase - the appearance of an infinite series of quantum phase transitions resulting from level crossing under the variation of a longitudinal magnetic field.
+We calculate the jumps in the field dependences of the ground-state longitudinal magnetization, susceptibility, entropy, and specific heat appearing at these transitions and show that they result in a highly nonlinear temperature dependence of these parameters at low T.
+Also, the effect of enhancement of the magnetization and longitudinal correlations in the dilute chain is established.
+The changes of the pair spin correlators under dilution are also analyzed.
+The universality of the mechanism of the quantum transition generation suggests that similar effects of dilution can also be expected in gapless phases of other low-dimensional quantum spin systems.

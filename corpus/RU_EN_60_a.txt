@@ -1,0 +1,4 @@
+We reanalyze archival EAS-MSU data in order to search for events with an anomalously low content of muons with energies Eμ.
+We confirm the first evidence for a nonzero flux of primary cosmic gamma rays at energies E\sim 10^{17} eV.
+The estimated fraction of primary gamma rays in the flux of cosmic particles with energies E \gtrsim 5.4 \cdot 10^{16} eV is \epsilon_{\gamma}=\left(0.43^{+0.12}_{-0.11} \right) %, which corresponds to the intensity I_{\gamma}=\left(1.2^{+0.4}_{-0.3} \right)\cdot 10^{-16} {\rm cm}^{-2}\cdot{\rm s}^{-1}\cdot{\rm sr}^{-1}.
+The study of arrival directions does not favor any particular mechanism of the origin of the photon-like events.

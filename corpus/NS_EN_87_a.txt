@@ -1,0 +1,9 @@
+Materials that change shape are attractive candidates to replace traditional actuators for applications with power or size restrictions.
+In this work, we design a polymeric bilayer that changes shape in response to both heat and water by the incorporation of a water-responsive hydrophilic polymer with a heat-responsive liquid crystal elastomer.
+The distinct shape changes based on stimulus are controlled by the molecular order, and consequently the anisotropic modulus, of a liquid crystal elastomer.
+In response to water, the hydrophilic polymer layer expands, bending the bilayer along the path dictated by the anisotropic modulus of the liquid crystal elastomer layer, which is approximately 5 times higher along the molecular orientation than in perpendicular directions.
+We demonstrate that by varying the direction of this stiffer axis in LCE films, helical pitch of the swollen bilayer can be controlled from 0.1 to 20 mm.
+By spatially patterning the stiffer axis with a resolution of 900 μm2, we demonstrate bilayers that fold and bend based on the pattern within the LCE.
+In response to heat, the liquid crystal elastomer contracts along the direction of molecular order, and when this actuation is constrained by the hydrophilic polymer, this contraction results in a 3D shape that is distinct from the shape seen in water.
+Furthermore, by using the vitrification of the dry hydrophilic polymer this 3D shape can be retained in the bilayer after cooling.
+By utilizing sequential exposure to heat and water, we can drive the initially flat bilayer to reversibly shift between 3D shapes.

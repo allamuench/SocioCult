@@ -1,0 +1,2 @@
+A new approach to the diffusion-limited reaction kinetics for particles migrating by random walks on discrete lattice sites and reacting when two particles occupy the same site is extended to a more general case of a large reaction radius and applied to the problem of the recombination rate of point defects in cubic lattices.
+Numerical calculations correctly reproduce the analytic expressions in the limit cases considered in previous work and in the general case represent a step-wise dependence of the reaction rate on the recombination radius.

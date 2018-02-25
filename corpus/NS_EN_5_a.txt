@@ -1,0 +1,10 @@
+We present the final catalogue of the 2dF QSO Redshift Survey (2QZ), based on Anglo-Australian Telescope 2dF spectroscopic observations of 44576 colour-selected (u b_J r) objects with 18.25<b_J<20.85 selected from APM scans of UK Schmidt Telescope (UKST) photographic plates.
+The 2QZ comprises 23338 QSOs, 12292 galactic stars (including 2071 white dwarfs) and 4558 compact narrow-emission-line galaxies.
+We obtained a reliable spectroscopic identification for 86 per cent of objects observed with 2dF.
+We also report on the 6dF QSO Redshift Survey (6QZ), based on UKST 6dF observations of 1564 brighter 16<b_J<18.25 sources selected from the same photographic input catalogue.
+In total, we identified 322 QSOs spectroscopically in the 6QZ.
+The completed 2QZ is, by more than a factor 50, the largest homogeneous QSO catalogue ever constructed at these faint limits (b_J<20.85) and high QSO surface densities (5 QSOs deg^-2).
+As such it represents an important resource in the study of the Universe at moderate-to-high redshifts.
+As an example of the results possible with the 2QZ, we also present our most recent analysis of the optical QSO luminosity function and its cosmological evolution with redshift.
+For a flat, Omega_m=0.3 and Omega_lam=0.7, Universe, we find that a double power law with luminosity evolution that is exponential in look-back time, t, of the form L*(z) exp(6.15t), equivalent to an e-folding time of 2Gyr, provides an acceptable fit to the redshift dependence of the QSO luminosity function over the range [0.4 < z < 2.1 and M_bJ<-22.5.
+Evolution described by a quadratic in redshift is also an acceptable fit, with L*(z)~10^(1.39z-0.29z^2).

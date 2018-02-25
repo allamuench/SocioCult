@@ -1,0 +1,6 @@
+A quantum state represents neither properties of a physical system nor anyone’s knowledge of its properties.
+The important question is not what quantum states represent but how they are used—as informational bridges.
+Knowing about some physical situations (its backing conditions), an agent may assign a quantum state to form expectations about other possible physical situations (its advice conditions).
+Quantum states are objective: only expectations based on correct state assignments are generally reliable.
+If a quantum state represents anything, it is the objective probabilistic relations between its backing conditions and its advice conditions.
+This paper offers an account of quantum states and their function as informational bridges, in quantum teleportation and elsewhere.

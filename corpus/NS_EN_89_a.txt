@@ -1,0 +1,5 @@
+Thin-film bijels have many potential energy and environmental applications.
+In this work, the metastable bijel morphology space in thin-film confinement is explored with a Cahn–Hilliard/Brownian-Dynamics computational model.
+The key parameters varied are the bijel liquid phase blend ratio and the bijel film thickness.
+Simulations reveal a broad spectrum of structurally unique morphologies that have yet to be observed in experiments and which could have interesting applications in membrane science and other domains.
+Extensive analyses of surface-to-volume ratios, interfacial particle attachment statistics, and topological interfacial curvatures within the bijels are presented for a complete characterization of the morphological structure.

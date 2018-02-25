@@ -1,0 +1,9 @@
+We study the three-dimensional, incompressible, non-hydrostatic Boussinesq fluid equations, which are applicable to the dynamics of the oceans and atmosphere.
+These equations describe the interplay between velocity and buoyancy in a rotating frame.
+A hierarchy of dynamical variables is introduced whose members ${{ \Omega }_{m}}(t)$ ($1\leqslant m<\infty $) are made up from the respective sum of the L 2m -norms of vorticity and the density gradient.
+Each ${{ \Omega }_{m}}(t)$ has a lower bound in terms of the inverse Rossby number, Ro −1, that turns out to be crucial to the argument.
+For convenience, the ${{ \Omega }_{m}}$ are also scaled into a new set of variables D m (t).
+By assuming the existence and uniqueness of solutions, conditional upper bounds are found on the D m (t) in terms of Ro −1 and the Reynolds number Re.
+These upper bounds vary across bands in the $\left\{{{D}_{1}},\,{{D}_{m}}\right\}$ phase plane.
+The boundaries of these bands depend subtly upon Ro −1, Re, and the inverse Froude number Fr −1.
+For example, solutions in the lower band conditionally live in an absorbing ball in which the maximum value of ${{ \Omega }_{1}}$ deviates from Re 3/4 as a function of $R{{o}^{-1}},\,Re$ and Fr −1.

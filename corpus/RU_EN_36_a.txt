@@ -1,0 +1,6 @@
+We study an excitation of surface plasmons (SPs) due to the scattering of light by a dipole nanoparticle located near a flat air-metal interface.
+It is well known that such a scattering can reveal asymmetric behavior of excited SPs with respect to the plane of incidence of light.
+This asymmetric SP excitation, which takes place at the incidence of elliptically polarized light, is often associated with the so-called photonic spin Hall effect caused by the interplay between rotating polarization of a nanoparticle and the intrinsic field angular momentum of the SP.
+We show that this photonic spin Hall effect can be applied for the SP excitation control, which allows managing the SP directivity pattern and amplitude.
+The possibilities of SP control can also be extended using nanoparticles with anisotropic polarizability.
+We believe that manipulations with SPs at a nanometer scale may find some applications in modern nanoplasmonics.

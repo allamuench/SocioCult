@@ -1,0 +1,6 @@
+The mode-locking regions of a dynamical system are subsets of parameter space within which there exists an attracting periodic solution.
+For piecewise-linear continuous maps, these regions have a distinctive chain structure with points of zero width called shrinking points.
+In this paper a local analysis about an arbitrary shrinking point is performed.
+This is achieved by studying the symbolic itineraries of periodic solutions in nearby mode-locking regions and performing an asymptotic analysis on one-dimensional centre manifolds in order to build a comprehensive theoretical framework for the local dynamics.
+The main results are universal quantitative descriptions for the shape of nearby mode-locking regions, the location of nearby shrinking points, and the key properties of these shrinking points.
+The results are applied to the three-dimensional border-collision normal form, a model of an oscillator subject to dry friction, and a model of a DC/DC power converter.

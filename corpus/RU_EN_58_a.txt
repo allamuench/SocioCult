@@ -1,0 +1,6 @@
+We study experimentally and theoretically the effect of Eu doping and partial oxygen isotope substitution on the transport and magnetic characteristics and spin-state transitions in Pr1-y Euy)0.7 Ca0.3 CoO3 cobaltites.
+The Eu doping level y is chosen in the range of the phase diagram near the crossover between the ferromagnetic and spin-state transitions (0.10 < y < 0.20).
+We prepared a series of samples with different degrees of enrichment by the heavy oxygen isotope 18 O, namely, with 90 %, 67 %, 43 %, 17 %, and 0 % of 18O.
+Based on the measurements of the ac magnetic susceptibility χ(T) and electrical resistivity ρ(T), we analyze the evolution of the sample properties with the change of the Eu and 18 O content.
+It is demonstrated that the effect of increasing the 18 O content on the system is similar to that of increasing the Eu content.
+The band structure calculations of the energy gap between t2g and eg bands including the renormalization of this gap due to the electron-phonon interaction reveals the physical mechanisms underlying this similarity.

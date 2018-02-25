@@ -1,0 +1,6 @@
+Thermal quantum time-correlation functions are of fundamental importance in quantum dynamics, allowing experimentally measurable properties such as reaction rates, diffusion constants and vibrational spectra to be computed from first principles.
+Since the exact quantum solution scales exponentially with system size, there has been considerable effort in formulating reliable linear-scaling methods involving exact quantum statistics and approximate quantum dynamics modelled with classical-like trajectories.
+Here, we review recent progress in the field with the development of methods including centroid molecular dynamics, ring polymer molecular dynamics (RPMD) and thermostatted RPMD (TRPMD).
+We show how these methods have recently been obtained from ‘Matsubara dynamics’, a form of semiclassical dynamics which conserves the quantum Boltzmann distribution.
+We also apply the Matsubara formalism to reaction rate theory, rederiving t → 0+ quantum transition-state theory (QTST) and showing that Matsubara-TST, like RPMD-TST, is equivalent to QTST.
+We end by surveying areas for future progress.

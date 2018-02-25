@@ -1,0 +1,3 @@
+The double Higgs production in the models with isospin-triplet scalars is studied.
+It is shown that in the see-saw type-II model, the mode with an intermediate heavy scalar, pp→ H+X→ 2h+X, may have the cross section that is comparable with that in the Standard Model.
+In the Georgi-Machacek model, this cross section could be much larger than in the Standard Model because the vacuum expectation value of the triplet can be large.

@@ -1,0 +1,4 @@
+A new compound CuNaB3 O_{6}\cdot0.842 H2 O was grown for the first time.
+Its crystal structure, magnetic susceptibility, and magnetic resonance properties are presented.
+It was proposed that CuNaB3 O_{6}\cdot0.842 H2 O is a spin-Peierls magnet with the transition temperature T_{SP}\sim 128 K and a ladder spin structure.
+The possibility of a structure phase transition at TSP is predicted.

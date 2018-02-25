@@ -1,0 +1,7 @@
+Recent experiments have shown that many species of microorganisms leave a solid surface at a fixed angle determined by steric interactions and near-field hydrodynamics
+This angle is completely independent of the incoming angle.
+For several collisions in a closed body this determines a unique type of billiard system, an aspecular billiard in which the outgoing angle is fixed for all collisions
+We analyze such a system using numerical simulation of this billiard for varying tables and outgoing angles, and also utilize the theory of one-dimensional maps and wavefront dynamics
+When applicable we cite results from and compare our system to similar billiard systems in the literature.
+We focus on examples from three broad classes: the ellipse, the Bunimovich billiards, and the Sinai billiards.
+The effect of a noisy outgoing angle is also discussed.

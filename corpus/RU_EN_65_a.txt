@@ -1,0 +1,4 @@
+Friction of elastic bodies is connected with the passing through the metastable states that arise at the contact of surfaces rubbing against each other.
+Three models are considered that give rise to the metastable states.
+Friction forces and their dependence on the pressure are calculated.
+In Appendix A, the contact problem of elasticity theory is solved with adhesion taken into account.

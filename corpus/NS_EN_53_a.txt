@@ -1,0 +1,7 @@
+A central topic in the emerging field of quantum thermodynamics is the definition of thermodynamic work in the quantum regime.
+One widely used solution is to define work for a closed system undergoing non-equilibrium dynamics according to the two-point energy measurement scheme.
+However, due to the invasive nature of measurement the two-point quantum work probability distribution cannot describe the statistics of energy change from the perspective of the system alone.
+We here introduce the quantum histories framework as a method to characterise the thermodynamic properties of the unmeasured, closed dynamics.
+Constructing continuous power operator trajectories allows us to derive an alternative quantum work distribution for closed quantum dynamics that fulfils energy conservation and is time-reversal symmetric.
+This opens the possibility to compare the measured work with the unmeasured work, contrasting with the classical situation where measurement does not affect the work statistics.
+We find that the work distribution of the unmeasured dynamics leads to deviations from the classical Jarzynski equality and can have negative values highlighting distinctly non-classical features of quantum work.

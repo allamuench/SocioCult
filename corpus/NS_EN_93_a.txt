@@ -1,0 +1,3 @@
+If a nonlinear function F(S) depends on a function S(x) that is represented by a factorially divergent asymptotic power series in a small parameter x, each late coefficient of the power series for F(S(x)) can be represented explicitly as an asymptotic series whose terms involve balanced combinations of the late and early coefficients of the series for S(x).
+The formula for the late terms was first described by R B Dingle but not published by him.
+Numerics for a variety of functions F(S) demonstrate this 'self-resurgence' and the accuracy of the representation.

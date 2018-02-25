@@ -1,0 +1,13 @@
+There are many fascinating processes in the universe which we observe in more detail thanks to increasingly sophisticated technology.
+One of the most interesting phenomena is the life cycle of stars, their birth, evolution and death.
+If the stars are massive enough, they end their lives in a core-collapse supernova explosion, one of the most violent events in the universe.
+As a result, the densest objects in the universe, neutron stars and/or black holes, are created.
+The physical basis of these events should be understood in line with observation.
+Unfortunately, available data do not provide adequate constraints for many theoretical models of dense matter.
+One of the most open areas of research is the composition of matter in the cores of neutron stars.
+Unambiguous fingerprints for the appearance and evolution of particular components, such as strange baryons and mesons, with increasing density, have not been identified.
+In particular, the hadron-quark phase transition remains a subject of intensive research.
+In this contribution we briefly survey the most promising observational and theoretical directions leading to progress in understanding high density matter in neutron stars.
+A possible way forward in modeling high-density matter is outlined, exemplified by the quark-meson-coupling model (QMC).
+This model makes connection between hadronic structure and the underlying quark make-up.
+It offers a natural explanation for the saturation of nuclear force and treats high-density matter, containing the full baryon octet, in terms of four uniquely defined parameters adjusted to properties of symmetric nuclear matter at saturation.

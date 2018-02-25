@@ -1,0 +1,4 @@
+We briefly review the generalized dynamic mean-field theory DMFT+Σ applied to both repulsive and attractive disordered Hubbard models.
+We examine the general problem of metal-insulator transition and the phase diagram in the repulsive case, as well as the BCS-BEC crossover region of the attractive model, demonstrating a certain universality of single-electron properties under disordering in both models.
+We also discuss and compare the results for the density of states and dynamic conductivity in the repulsive and attractive cases and the generalized Anderson theorem behavior of the superconducting critical temperature in the disordered attractive case.
+A brief discussion of the behavior of Ginzburg-Landau coefficients under disordering in the BCS-BEC crossover region is also presented.

@@ -1,0 +1,3 @@
+I discuss how parameters describing inflation in the very early universe may be related to primordial perturbation spectra.
+Precision observations of anisotropies in the cosmic microwave background (CMB) such as those provided by the WMAP satellite offer an unprecedented window onto the physics of the very early universe.
+To theorists exploring speculative models of physics at high energies, the CMB offers us the chance to put our ideas to the test.

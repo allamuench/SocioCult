@@ -1,0 +1,9 @@
+The optical conductivity of graphene, bilayer graphene, and graphite in quantizing magnetic fields is studied.
+Both dynamical conductivities, longitudinal and Hall's, are evaluated analytically.
+The conductivity peaks are explained in terms of electron transitions.
+Correspondences between the transition frequencies and the magneto-optical features are established using the theoretical results.
+We show that trigonal warping can be considered within the perturbation theory for strong magnetic fields larger than 1 T.
+The semiclassical approach is applied for weak fields when the Fermi energy is much larger than the cyclotron frequency.
+The main optical transitions obey the selection rule with Δ n=1 for the Landau number n, but the Δ n=2 transitions due to the trigonal warping are also possible.
+The Faraday/Kerr rotation and light transmission/reflection in quantizing magnetic fields are calculated.
+Parameters of the Slonczewski-Weiss-McClure model are used in the fit taking the previous de Haas-van Alphen measurements into account and correcting some of them in the case of strong magnetic fields.

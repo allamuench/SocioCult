@@ -1,0 +1,3 @@
+The mesoscopic relaxation of small Pd islands on Pd(100) and PdH(100) surfaces is investigated on the atomic scale by performing molecular statics calculations.
+A strong strain and stress inhomogeneity in islands and topmost layers of the substrate is revealed.
+An unusual size dependence of the shape of islands is discovered.

@@ -1,0 +1,4 @@
+We demonstrate how to produce a stable multispeed lattice Boltzmann method (LBM) for a wide range of velocity sets, many of which were previously thought to be intrinsically unstable.
+We use non-Gauss-Hermitian cubatures.
+The method operates stably for almost zero viscosity, has second-order accuracy, suppresses typical spurious oscillation (only a modest Gibbs effect is present) and introduces no artificial viscosity.
+There is almost no computational cost for this innovation.

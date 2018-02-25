@@ -1,0 +1,5 @@
+We study the normal (nonsuperconducting) phase of the attractive Hubbard model within the dynamical mean field theory (DMFT) using the numerical renormalization group (NRG) as an impurity solver.
+A wide range of attractive potentials U is considered, from the weak-coupling limit, where superconducting instability is well described by the BCS approximation, to the strong-coupling region, where the superconducting transition is described by Bose condensation of compact Cooper pairs, which are formed at temperatures much exceeding the superconducting transition temperature.
+We calculate the density of states, the spectral density, and the optical conductivity in the normal phase for this wide range of U, including the disorder effects.
+We also present the results on superconducting instability of the normal state dependence on the attraction strength U and the degree of disorder.
+The disorder influence on the critical temperature Tc is rather weak, suggesting in fact the validity of Anderson's theorem, with the account of the general widening of the conduction band due to disorder.

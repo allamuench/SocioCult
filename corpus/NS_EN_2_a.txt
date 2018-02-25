@@ -1,0 +1,10 @@
+In cold molecular clouds submillimetre emission lines are excited by the ambient radiation field.
+The pumping is dominated by the cosmic microwave background ( CMB ).
+It is usual in molecular line radiative transfer modelling to simply assume that this is the only incident radiation field.
+In this paper, a molecular line transport code and a dust radiative transfer code are used to explore the effects of the inclusion of a full interstellar radiation field ( ISRF ) on a simple test molecular cloud.
+It is found that in many galactic situations, the shape and strength of the line profiles that result are robust to variations in the ISRF and thus that in most cases, it is safe to adopt the CMB radiation field for the molecular line transport calculations.
+However, we show that in two examples, the inclusion of a plausible radiation field can have a significant effect on the the line profiles.
+Firstly, in the vicinity of an embedded massive star, there will be an enhanced far infared component to the radiation field.
+Secondly, for molecular clouds at large redshift, the CMB temperature increases and this of course also alters the radiation field.
+In both of these cases, the line profiles are weakened significantly compared to a cloud exposed to a standard radiation field.
+Therefore this effect should be accounted for when investigating prestellar cores in massive star forming regions and when searching for molecular clouds at high redshift.

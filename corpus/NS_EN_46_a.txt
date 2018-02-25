@@ -1,0 +1,5 @@
+Previously, in Penner (Astrophys. Space Sci. 361:124, 2016a; Astrophys. Space Sci. 361:361, 2016b), a theory of gravitational anti-screening was shown to lead naturally to the Baryonic Tully-Fisher Relationship.
+In addition, it was shown to agree with the observed rotational curve of the Galaxy, the observed features in the rotational curves of other spiral galaxies, with observations of the Coma cluster, and with a geometrically flat universe.
+In this paper the theory will now be applied to binary galaxies.
+It is shown that there is a relationship between the line-of-sight velocity difference of the pair and the individual rotational velocities of the galaxies.
+The resulting probability function for β, defined as the ratio of the line-of-sight velocity difference to the rotational velocity of the larger galaxy of the pair, is in excellent agreement with the observations taken by multiple researchers for the case of the binaries being on radial orbits.

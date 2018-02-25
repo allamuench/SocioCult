@@ -1,0 +1,7 @@
+The localized opical modes in spiral photonic liquid crystals are theoretically studied for the certainty at the example of chiral liquid crystals (CLCs) for the case of CLC with an anisotropic local absorption.
+The chosen here model (absence of dielectric interfaces in the studied structures) allows one to get rid off the polarization mixing at the surfaces of the CLC layer and the defect structure (DMS) and to reduce the corresponding equations to the equations for the light of diffracting in the CLC polarization only.
+The dispersion equations determining connection of the EM and DM frequencies with the CLC layer parameters (anisotropy of local absorption, CLC order parameter) and other parameters of the DMS are obtained.
+Analytic expressions for the transmission and reflection coefficients of CLC layer and DMS for the case of CLC with an anisotropic local absorption are presented and analyzed.
+It is shown that the CLC layers with locally anisotropic absorption reduce the EM and DM lifetimes (and increase the lasing threshold) by the way different from the case of CLC with an isotropic local absorption.
+Due to the Borrmann effect revealing of which is different at the opposite stop-band edges in the case of CLC layers with an anisotropic local absorption the EM life-times for the EM frequencies at the opposite stop-bands edges may be significanately different.
+The options of experimental observations of the theoretically revealed phenomena are brierfly discussed.

@@ -1,0 +1,6 @@
+Electron energy loss spectroscopy (EELS) is a powerful tool for understanding the chemical structure of materials down to the atomic level, but challenges remain in accurately and quantitatively modelling the response.
+We compare comprehensive theoretical density functional theory (DFT) calculations of 1s core-level EEL K-edge spectra of pure, B-doped and N-doped graphene with and without a core-hole to previously published atomic-resolution experimental electron microscopy data.
+The ground state approximation is found in this specific system to perform consistently better than the frozen core-hole approximation.
+The impact of including or excluding a core-hole on the resultant theoretical band structures, densities of states, electron densities and EEL spectra were all thoroughly examined and compared.
+It is concluded that the frozen core-hole approximation exaggerates the effects of the core-hole in graphene and should be discarded in favour of the ground state approximation.
+These results are interpreted as an indicator of the overriding need for theorists to embrace many-body effects in the pursuit of accuracy in theoretical spectroscopy instead of a system-tailored approach whose approximations are selected empirically.

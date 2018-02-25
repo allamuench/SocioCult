@@ -1,0 +1,4 @@
+The dynamics of a bubble in a dielectric liquid under the influence of a uniform external electric field are considered.
+It is shown that in the situation where the boundary motion is determined only by electrostatic forces, the special regime of fluid motion can be realized for which the velocity and electric field potentials are linearly related.
+In the two-dimensional case, the corresponding equations are reduced to an equation similar in structure to the well-known Laplacian growth equation, which, in turn, can be reduced to a finite number of ordinary differential equations.
+This allows us to obtain exact solutions for asymmetric bubble deformations resulting in the formation of a finite-time singularity cusp).

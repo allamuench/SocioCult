@@ -1,0 +1,9 @@
+We discuss the recently proposed LDA^\prime+DMFT approach providing a consistent parameter-free treatment of the so-called double counting problem arising within the LDA+DMFT hybrid computational method for realistic strongly correlated materials.
+In this approach, the local exchange-correlation portion of the electron-electron interaction is excluded from self-consistent LDA calculations for strongly correlated electronic shells, e.g., d-states of transition metal compounds.
+Then, the corresponding double-counting term in the LDA^\prime+DMFT Hamiltonian is consistently set in the local Hartree (fully localized limit, FLL) form of the Hubbard model interaction term.
+We present the results of extensive LDA^\prime+DMFT calculations of densities of states, spectral densities, and optical conductivity for most typical representatives of two wide classes of strongly correlated systems in the paramagnetic phase: charge transfer insulators MnO, CoO, and NiO) and strongly correlated metals SrVO3 and Sr2 RuO4).
+It is shown that for NiO and CoO systems, the LDA^\prime+DMFT approach qualitatively improves the conventional LDA+DMFT results with the FLL type of double counting, where CoO and NiO were obtained to be metals.
+Our calculations also include transition-metal 4s-states located near the Fermi level, missed in previous LDA+DMFT studies of these monooxides.
+General agreement with optical and the X-ray experiments is obtained.
+For strongly correlated metals, the LDA^\prime+DMFT results agree well with the earlier LDA+DMFT calculations and existing experiments.
+However, in general, LDA^\prime+DMFT results give better quantitative agreement with experimental data for band gap sizes and oxygen-state positions compared to the conventional LDA+DMFT method.

@@ -1,0 +1,5 @@
+The mechanisms and structural elements of instability whose evolution results in the occurrence of the collapse are studied in the scope of the rotating shallow water model with a horizontally nonuniform density.
+The diagram stability based on the integral collapse criterion is suggested to explain system behavior in the space of constants of motion.
+Analysis of the instability shows that two collapse scenarios are possible.
+One scenario implies anisotropic collapse during which the contact area of a collapsing drop-like fragment with the bottom contracts into a rotating segment.
+The other implies isotropic contraction of the area into a point.

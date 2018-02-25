@@ -1,0 +1,5 @@
+The energy spectra and transport of electronic excitations in one-dimensional aperiodic sequences of quantum dots of Thue-Morse and double-periodic type are studied.
+The influence of external magnetic and electric fields on the energy spectra and transport is considered.
+For aperiodic sequences of quantum dots, in contrast to aperiodic sequences of atoms, the influence of relatively small magnetic and electric fields is essential, but localization occurs at finite values of the perturbations.
+The transmission coefficient is determined using the quasiclassical approximation with the Coulomb blockade taken into account.
+The resonance tunneling is studied.

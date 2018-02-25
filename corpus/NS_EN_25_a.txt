@@ -1,0 +1,8 @@
+A problem in nonlinear water-wave propagation on the surface of an inviscid, stationary fluid is presented.
+The primary surface wave, suitably initiated at some radius, is taken to be a slowly evolving nonlinear cylindrical wave (governed by an appropriate Korteweg-de Vries equation) ; the depth is assumed to be varying in a purely radial direction.
+We consider a $\sech^2$ profile at an initial radius (which is, following our scalings, rather large), and we describe the evolution as it propagates radially outwards.
+This initial profile was chosen because its evolution over constant depth is understood both analytically and numerically, even though it is not an exact solitary-wave solution of the cylindrical KdV equation.
+The propagation process will introduce reflected and re-reflected components which will also be described.
+The precise nature of these reflections is fixed by the requirements of mass conservation.
+The asymptotic results presented describe the evolution of the primary wave, the development of an outward shelf and also an inward (reflected) shelf.
+These results make use of specific depth variations (which were chosen to simplify the solution of the relevant equations), and mirror those obtained for the problem of 1-D plane waves over variable depth, although the details here are more complex due to the axi-symmetry.

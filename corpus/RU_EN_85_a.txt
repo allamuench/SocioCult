@@ -1,0 +1,5 @@
+We theoretically study the electronic structure (spectral functions and Fermi surfaces) of incommensurate pseudogap and charge density wave (CDW) and commensurate CDW phases of quasi-two-dimensional diselenides 2H-TaSe2 and 2H-NbSe2.
+The incommensurate pseudogap regime is described within the scenario based on short-range-order CDW fluctuations, considered within the static Gaussian random field model.
+In contrast, e.g., to high-Tc cuprates, layered dichalcogenides have several different CDW scattering vectors and an electronic spectrum with two bands at the Fermi level.
+For this, we present a theoretical background for the description of multiple scattering processes within a multiple-band electronic spectrum.
+Theoretical spectral functions and Fermi surfaces thus obtained are compared with recent ARPES experimental data, demonstrating rather good qualitative agreement.

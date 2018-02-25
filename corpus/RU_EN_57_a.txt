@@ -1,0 +1,5 @@
+The time dependence of correlations between the photons emitted from a microcavity with an embedded quantum dot under incoherent pumping is studied theoretically.
+Analytic expressions for the second-order correlation function g(2)(t) are presented in strong and weak coupling regimes.
+The qualitative difference between the incoherent and coherent pumping schemes in the strong coupling case is revealed: under incoherent pumping, the correlation function demonstrates pronounced Rabi oscillations, but in the resonant pumping case, these oscillations are suppressed.
+At high incoherent pumping, the correlations decay monoexponentially.
+The decay time nonmonotonically depends on the pumping value and has a maximum corresponding to the self-quenching transition.

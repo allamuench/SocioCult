@@ -1,0 +1,4 @@
+Building on the first part of this paper, we develop the theory of functional asynchronous networks.
+We show that a large class of functional asynchronous networks can be (uniquely) represented as feedforward networks connecting events or dynamical modules.
+For these networks we can give a complete description of the network function in terms of the function of the events comprising the network: the modularization of dynamics theorem.
+We give examples to illustrate the main results.

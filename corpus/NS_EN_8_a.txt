@@ -1,0 +1,3 @@
+Mass outflows from Eddington-limited accreting compact objects appear to be a very widespread phenomenon.
+They may provide the soft excess observed in quasars and ULXs, and imply that such objects have a major effect on their surroundings.
+In particular they allow a simple parameter-free argument for the M_BH-sigma relation for galaxies, and offer a straightforward interpretation of the emission nebulae seen around ULXs.

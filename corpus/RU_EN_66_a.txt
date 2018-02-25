@@ -1,0 +1,3 @@
+We theoretically study the vortex matter structure in low-dimensional systems with superconducting order induced by proximity to a bulk superconductor.
+We analyze the effects of microscopic coupling mechanisms between the two systems and the effects of possible mismatch in the band structures of these materials on the energy spectrum of vortex-core electrons.
+The unusual structure of vortex cores is discussed in the context of recent tunneling microscopy/spectroscopy experiments.

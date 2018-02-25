@@ -1,0 +1,7 @@
+A two-component (soft + hard) model (TCM) of hadron production in yields and spectra derived from the charge-multiplicity dependence of 200 GeV p–p collisions at the relativistic heavy ion collider is extended to describe p–p spectrum data from the large hadron collider (LHC) up to 13 TeV.
+The LHC data include spectrum ratios that provide only partial information on the TCM.
+The LHC ratio method is applied to well-understood 200 GeV spectrum data to derive an algebraic link between spectrum ratios and the full TCM.
+Some aspects of the form of the hard component on transverse momentum are found to be n ch dependent.
+LHC spectrum ratios are then analyzed to obtain n ch and collision-energy (over three orders of magnitude) dependence of isolated soft and hard TCM spectrum components.
+The energy dependence of the spectrum soft component is a new result suggesting a relation to Gribov diffusion.
+The spectrum hard component varies simply and smoothly with n ch suggesting bias of the underlying jet spectrum and linearly with QCD parameter $\mathrm{log}(s/{s}_{0})$, its properties consistent with minimum-bias reconstructed-jet spectrum measurements.

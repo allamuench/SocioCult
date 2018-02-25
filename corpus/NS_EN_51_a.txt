@@ -1,0 +1,7 @@
+Responses in surface winds to solar eclipses have an almost mystical status but are difficult to detect in observations because of their transient nature.
+High spatial resolution (approx. 1.5 km grid) meteorological models now provide a new technique for their investigation.
+Measurements from the southern UK meteorological network during the 11 August 1999 total solar eclipse are compared with a high-resolution model ignorant of the lunar shadow's influence.
+Differences between the model output and measurements at the eclipse time show transient eclipse zone temperature decreases of up to 3°C, which also depressed the day's maximum temperature compared with the model prediction.
+Coherent responses in temperature, and wind speed and direction measurements are detected in the inland cloud-free region (from 51° to 52° N and −2° to 0° E).
+A mean regional wind speed decrease of 0.7 m s−1 during the maximum eclipse hour is apparent with a mean anticlockwise wind direction change of 17°; no such changes occurred in the model output.
+Such regional circulation changes are consistent with Clayton's 1901 cold-cored eclipse cyclone hypothesis, which may be related to the anecdotal ‘eclipse wind’.

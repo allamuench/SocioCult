@@ -1,0 +1,4 @@
+The equation of state is investigated for a thin superconducting film in a longitudinal magnetic film and with strong spin-orbit interaction at the critical point.
+As a first step, the state with the maximal value of the magnetic field for a given value of spin-orbit interaction at T = 0 is chosen.
+This state is investigagted in the low-temperature region.
+The temperature contribution to the equation of state is weakly singular.

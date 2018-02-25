@@ -1,0 +1,6 @@
+The previously developed ab initio model and the kinetic Monte Carlo method (KMCM) are used to simulate precipitation in a number of iron-copper alloys with different copper concentrations x and temperatures T.
+The same simulations are also made using an improved version of the previously suggested stochastic statistical method (SSM).
+The results obtained enable us to make a number of general conclusions about the dependences of the decomposition kinetics in Fe-Cu alloys on x and T.
+We also show that the SSM usually describes the precipitation kinetics in good agreement with the KMCM, and using the SSM in conjunction with the KMCM allows extending the KMC simulations to the longer evolution times.
+The results of simulations seem to agree with available experimental data for Fe-Cu alloys within statistical errors of simulations and the scatter of experimental results.
+Comparison of simulation results with experiments for some multicomponent Fe-Cu-based alloys allows making certain conclusions about the influence of alloying elements in these alloys on the precipitation kinetics at different stages of evolution.

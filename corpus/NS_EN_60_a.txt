@@ -1,0 +1,2 @@
+Solitons in the Skyrme–Faddeev model on Embedded Image are shown to undergo buckling transitions as the circumference of the S1 is varied.
+These results support a recent conjecture that solitons in this field theory are well-described by a much simpler model of elastic rods.

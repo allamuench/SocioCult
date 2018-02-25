@@ -1,0 +1,12 @@
+At T=0 and a sufficiently large field, the nearest-neighbor antiferromagnetic Ising chain undergoes a first-order spin-flop transition into the ferromagnetic phase.
+We consider its smearing under the random-bond disorder such that all independent random bonds are antiferromagnetic (AF).
+It is shown that the ground-state thermodynamics of this random AF chain can be described exactly for an arbitrary distribution P(J) of AF bonds.
+Moreover, the site magnetizations of finite chains can be found analytically in this model.
+We consider a continuous P(J) that is zero above some -J1 and behaves near it as (-J1-J)λ, λ>-1.
+In this case, the ferromagnetic phase emerges continuously in a field H>Hc= 2J1.
+At 0>λ>-1, it has the usual second-order anomalies near Hc with the critical indices obeying the scaling relation and depending on λ.
+At λ>0, higher-order transitions occur (third, fourth, etc.), marked by a divergence of the corresponding nonlinear susceptibilities.
+In the chains with an even number of spins, the intermediate ``bow-tie'' phase with linearly modulated AF order exists between the AF and ferromagnetic phases at J1c.
+Its origin can be traced to the infinite correlation length of the degenerate AF phase from which it emerges.
+This implies the existence of similar inhomogeneous phases with size- and form-dependent order in a number of other systems with infinite correlation length.
+The possibility to observe the signs of the ``bow-tie'' phase in low-T neutron diffraction experiments is discussed.

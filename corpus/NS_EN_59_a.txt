@@ -1,0 +1,6 @@
+The properties of nonlinear dynamics and chaos are shown to be fundamental to optimal communication signals subject to two practical and realistic design requirements: (i) operation in a noisy environment and (ii) simple hardware implementation.
+Starting with a simple electronic circuit, a linear filter receiver is presumed, and the matched optimal communication waveform that maximizes the receiver signal-to-noise performance is derived.
+A return map using samples from this optimal waveform is conjugate to a shift, thereby implying the waveform is chaotic.
+The optimal communication waveform for a second simple receiver is similarly derived, and it is found to be an exact solution to a physically realizable chaotic oscillator.
+Thus, a practical consequence of chaos in these waveforms is the potential for simple and efficient signal generation using chaotic oscillators.
+A conjecture is made that the optimal communication waveform for any stable infinite impulse response filter is similarly chaotic.

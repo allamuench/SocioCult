@@ -1,0 +1,7 @@
+The wave function of a moderately cold atom in a stationary near-resonant standing light wave delocalizes very fast due to wave packet splitting.
+However, we show that frequency modulation of the field can suppress packet splitting for some atoms whose specific velocities are in a narrow range.
+These atoms remain localized in a small space for a long time.
+We demonstrate and explain this effect numerically and analytically.
+We also demonstrate that the modulated field can not only trap but also cool the atoms.
+We perform a numerical experiment with a large atomic ensemble having wide initial velocity and energy distributions.
+During the experiment, most of atoms leave the wave while the trapped atoms have a narrow energy distribution.

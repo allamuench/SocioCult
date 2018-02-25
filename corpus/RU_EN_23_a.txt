@@ -1,0 +1,11 @@
+An analytic approach to the theory of the optical defect modes in photonic liquid crystals in the case of an active defect layer is developed.
+The analytic study is facilitated by the choice of the problem parameters related to the dielectric properties of the studied structures.
+The chosen models allow eliminating polarization mixing at the external surfaces of the studied structures.
+The dispersion equations determining the relation of the defect mode (DM) frequency to the dielectric characteristics of an isotropic, birefringent and absorbing amplifying) defect layer and its thickness are obtained.
+Analytic expressions for the transmission and reflection coefficients of the defect mode structure (DMS) photonic liquid crystal-active defect layer-photonic liquid crystal) are presented and analyzed.
+The effect of anomalously strong light absorption at the defect mode frequency for an absorbing defect layer is discussed.
+It is shown that in a distributed feedback lasing at the DMS with an amplifying defect layer, adjusting the lasing frequency to the DM frequency results in a significant decrease in the lasing threshold and the threshold gain decreases as the defect layer thickness increases.
+It is found that generally speaking the layer birefringence and dielectric jumps at the interfaces of the defect layer and photonic liquid crystal reduce the DM lifetime in comparison with the DMS with an isotropic defect layer without dielectric jumps at the interfaces.
+Correspondingly, generally speaking, the effect of anomalously strong light absorption at the defect mode frequency and the decrease in the lasing threshold are not so pronounced as in the case of the DMS with an isotropic defect layer without dielectric jumps at the interfaces.
+The case of a DMS with a low defect layer birefringence and sufficiently large dielectric jumps are studied in detail.
+The options of effectively influencing the DM parameters by changing the defect layer dielectric properties, and the birefringence in particular, are discussed.

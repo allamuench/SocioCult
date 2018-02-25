@@ -1,0 +1,9 @@
+We study holographic thermalization of a strongly coupled theory inspired by two colliding shock waves in a vacuum confining background.
+Holographic thermalization means a black hole formation, in fact, a trapped surface formation.
+As the vacuum confining background, we considered the well-know bottom-up AdS/QCD model that provides the Cornell potential and reproduces the QCD β-function.
+We perturb the vacuum background by colliding domain shock waves that are assumed to be holographically dual to heavy ions collisions.
+Our main physical assumption is that we can make a restriction on the time of trapped surface formation, which results in a natural limitation on the size of the domain where the trapped surface is produced.
+This limits the intermediate domain where the main part of the entropy is produced.
+In this domain, we can use an intermediate vacuum background as an approximation to the full confining background.
+We find that the dependence of the multiplicity on energy for the intermediate background has an asymptotic expansion whose first term depends on energy as E1/3, which is very similar to the experimental dependence of particle multiplicities on the colliding ion energy obtained from the RHIC and LHC.
+However, this first term, at the energies where the approximation of the confining metric by the intermediate background works, does not saturate the exact answer, and we have to take the nonleading terms into account.

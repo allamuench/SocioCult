@@ -1,0 +1,7 @@
+Drag of electrons of a one-dimensional ballistic nanowire by a nearby one-dimensional beam of ions is considered.
+We assume that the ion beam is represented by an ensemble of heavy ions of the same velocity V.
+The ratio of the drag current to the primary current carried by the ion beam is calculated.
+The drag current turns out to be a nonmonotonic function of velocity V.
+It has a sharp maximum for V near vnF/2, where n is the number of the uppermost electron (miniband channel) taking part in conductance and vnF is the corresponding Fermi velocity.
+This means that the phenomenon of ion beam drag can be used for investigation of the electron spectra of ballistic nanostructures.
+We note that whereas observation of the Coulomb drag between two parallel quantum wires may be in general complicated by phenomena such as tunneling and phonon drag, the Coulomb drag of electrons of a one-dimensional ballistic nanowire by an ion beam is free from such spurious effects.

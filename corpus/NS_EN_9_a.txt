@@ -1,0 +1,13 @@
+We have surveyed four globular clusters in the Fornax dwarf galaxy for RR Lyrae stars, using archival HST observations.
+We identify 197 new RR Lyrae stars in these four clusters.
+Despite the short observational baseline, we derive periods, light-curves, and photometric parameters for each.
+The Fornax clusters have exceptionally large RR Lyrae specific frequencies compared with the Galactic globular clusters.
+Furthermore, the Fornax cluster RR Lyrae stars are unusual in that their characteristics are intermediate between the two Galactic Oosterhoff groups.
+In this respect the Fornax clusters are similar to the field populations in several dwarf galaxies.
+We revise previous measurements of the HB morphology in each cluster.
+The Fornax clusters closely resemble the ''young'' Galactic halo population defined by Zinn.
+The existence of the second parameter effect among the Fornax clusters is also confirmed.
+Finally, we determine foreground reddening and distance estimates for each cluster.
+We find a mean distance modulus to Fornax of (m-M)_0 = 20.66 +/- 0.03 (random) +/- 0.15 (systematic).
+Our measurements are consistent with a line of sight depth of 8-10 kpc for this galaxy, matching its projected dimensions, and incompatible with tidal model explanations for the observed high velocity dispersions in many dSph galaxies.
+Dark matter dominance is suggested.

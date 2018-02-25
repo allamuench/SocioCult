@@ -1,0 +1,3 @@
+We develop a method of modified hyper-Ramsey spectroscopy in optical clocks, achieving complete immunity to the frequency shifts induced by the probing fields themselves.
+Using particular pulse sequences with tailored phases, frequencies, and durations, we can derive an error signal centered exactly at the unperturbed atomic resonance with a steep discriminant which is robust against variations in the probe shift.
+We experimentally investigate the scheme using the magnetically-induced 1S0−3P0 transition in 88Sr, demonstrating automatic suppression of a sizeable \num{2e-13} probe Stark shift to below \num{1e-16} even with very large errors in shift compensation.

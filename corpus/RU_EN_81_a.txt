@@ -1,0 +1,6 @@
+We demonstrate that the tunneling current flowing through a system with Coulomb correlations leads to a charge redistribution between the different localized states.
+A simple model consisting of two electron levels is analyzed by means of the Heisenberg equations of motion taking correlations of electron filling numbers in localized states into account exactly in all orders.
+We consider various relations between the Coulomb interaction and localized electron energies.
+Sudden jumps of the electron density at each level in a certain range of the applied bias are found.
+We find that for some parameter range, inverse occupation in the two-level system appears due to Coulomb correlations.
+It is also shown that Coulomb correlations lead to the appearance of negative tunneling conductivity at a certain relation between the values of tunneling rates from the two electron levels.

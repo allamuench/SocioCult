@@ -1,0 +1,4 @@
+We present a protocol for rotation measurement via matter-wave Sagnac interferometry using trapped ions.
+The ion trap based interferometer encloses a large area in a compact apparatus through repeated round-trips in a Sagnac geometry.
+We show how a uniform magnetic field can be used to close the interferometer over a large dynamic range in rotation speed and measurement bandwidth without contrast loss.
+Since this technique does not require the ions to be confined in the Lamb–Dicke regime, Doppler laser cooling should be sufficient to reach a sensitivity of ${ \mathcal S }=1.4\times {10}^{-6}\,{\rm{rad}}\,{{\rm{s}}}^{-1}\,{{\rm{H}}{\rm{z}}}^{-1/2}$.

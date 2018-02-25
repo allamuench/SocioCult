@@ -1,0 +1,7 @@
+We discuss the potential of the neutron Lloyd's mirror interferometer in a search for new interactions at small scales.
+We consider three hypothetical interactions that may be tested using the interferometer.
+The chameleon scalar field proposed to solve the enigma of accelerating expansion of the Universe produces interaction between particles and matter.
+The axion-like spin-dependent coupling between a neutron and nuclei or/and electrons may result in a P- and T-noninvariant interaction with matter.
+Hypothetical non-Newtonian gravitational interactions mediates an additional short-range potential between neutrons and bulk matter.
+These interactions between the neutron and the mirror of a Lloyd-type neutron interferometer cause a phase shift of neutron waves.
+We estimate the sensitivity and systematic effects of possible experiments.

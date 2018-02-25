@@ -1,0 +1,7 @@
+The Kerr-Newman (KN) black hole (BH) solution exhibits the external gravitational and electromagnetic field corresponding to that of the Dirac electron.
+For the large spin/mass ratio, a\gg m, the BH loses horizons and obtains a naked singular ring creating two-sheeted topology.
+This space is regularized by the Higgs mechanism of symmetry breaking, leading to an extended particle that has a regular spinning core compatible with the external KN solution.
+We show that this core has much in common with the known MIT and SLAC bag models, but has the important advantage of being in accordance with the external gravitational and electromagnetic fields of the KN solution.
+A peculiar two-sheeted structure of Kerr's gravity provides a framework for the implementation of the Higgs mechanism of symmetry breaking in configuration space in accordance with the concept of the electroweak sector of the Standard Model.
+Similar to other bag models, the KN bag is flexible and pliant to deformations.
+For parameters of a spinning electron, the bag takes the shape of a thin rotating disk of the Compton radius, with a ring-string structure and a quark-like singular pole formed at the sharp edge of this disk, indicating that the considered lepton bag forms a single bag-string-quark system.

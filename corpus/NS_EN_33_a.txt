@@ -1,0 +1,7 @@
+The focusing of spin waves in magnetic materials has a number of important advantages for directing energy and thus information.
+In contrast to earlier works, we theoretically calculate the focusing of short-wavelength spin waves.
+We show that strong focusing of large wave-vector spin waves naturally occurs about halfway out in the Brillouin zone with no need for a magnetocrystalline anisotropy, dipolar effects, or an external magnetic field.
+The fact that the wavelength is on the order of the lattice constant leads to a form of lattice-induced anisotropy in the wave propagation.
+We also explore the tunability that is achieved by the application of both an external field and a uniaxial anisotropy.
+In this case there is a rotation of the focusing pattern.
+The rotation angle can be changed by varying the field strength, demonstrating tunability.

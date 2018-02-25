@@ -1,0 +1,5 @@
+We theoretically study nonradiative and radiative energy transfer between two localized quantum emitters, a donor (initially excited) and an acceptor (receiving the excitation).
+The rates of nonradiative and radiative processes are calculated depending on the spatial and spectral separation between the donor and acceptor states and for different donor and acceptor lifetimes for typical parameters of semiconductor quantum dots.
+We find that the donor lifetime can be significantly modified only due to the nonradiative Förster energy transfer process at donor-acceptor separations of approximately 10 nm - depending on the acceptor radiative lifetime) and for the energy detuning not larger than 1-2 meV.
+The efficiency of the nonradiative Förster energy transfer process under these conditions is close to unity and decreases rapidly with an increase in the donor-acceptor distance or energy detuning.
+At large donor-acceptor separations greater than 40 nm, the radiative corrections to the donor lifetime are comparable with nonradiative ones but are relatively weak.

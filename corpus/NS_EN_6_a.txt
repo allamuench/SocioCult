@@ -1,0 +1,16 @@
+We derive absolute dimensions for two early-type main sequence detached eclipsing binaries in the young open cluster h Persei (NGC 869).
+V615 Persei has a spectral type of B7V and a period of 13.7d.
+V618 Persei is A2V and has a period of 6.4d.
+New ephemerides are calculated for both systems.
+The masses of the component stars have been derived using high-resolution spectroscopy and are 4.08+/-0.06 Msun and 3.18+/-0.05 Msun for V615 Per and 2.33+/-0.03 Msun and 1.56+/-0.02] Msun for V618 Per.
+The radii have been measured by fitting the available light curves using EBOP and are 2.29+/-0.14] Rsun and 1.90+/-0.09 Rsun for V615 Per and 1.64+/-0.07 Rsun and 1.32+/-0.07 Rsun for V618 Per.
+By comparing the observed spectra of V615 Per to synthetic spectra from model atmospheres we find that the effective temperatures of the two stars are 15000+/-500 K and 11000+/-500 K.
+The equatorial rotational velocities of the primary and secondary components of V615 Per are 28+/-5 km/s and 8+/-5 km/s, respectively.
+Both components of V618 Per rotate at 10+/-5 km/s.
+The equatorial rotational velocities for synchronous rotation are about 10 km/s for all four stars.
+The timescales for orbital circularisation for both systems, and the timescale for rotational synchronisation of V615 Per, are much greater than the age of h Per.
+Their negligible eccentricities and equatorial rotational velocities therefore support the hypothesis that they were formed by 'delayed breakup'.
+We have compared the radii of these stars to models by the Granada and the Padova groups for stars of the same masses but different compositions.
+We conclude that the metallicity of the stars is about Z=0.01.
+This appears to be the first estimate of the bulk metallicity of h Per.
+Recent photometric studies have assumed a solar metallicity so their results should be reviewed.

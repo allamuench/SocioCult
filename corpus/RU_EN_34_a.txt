@@ -1,0 +1,5 @@
+Based on a special variant of the plaquette expansion, an operator is constructed whose eigenvalues give the low-energy singlet spectrum of a spin-1/2 Heisenberg antiferromagnet on a square lattice with nearest-heighbor and frustrating next-nearest-neighbor exchange couplings J1 and J2.
+It is well known that a nonmagnetic phase arises in this model for 0.4\lesssim J_2/J_1\lesssim 0.6, sandwiched by two Néel ordered phases.
+In agreement with previous results, we observe a first-order quantum phase transition (QPT) at J_2\approx 0.64J_1 from the nonmagnetic phase to the Néel one.
+A large gap (\gtrsim 0.4J_1) is found in the singlet spectrum for J2<0.64J1, which excludes a gapless spin-liquid state for 0.4\lesssim J_2/J_1\lesssim 0.6 and the deconfined quantum criticality scenario for the QPT to another Néel phase.
+We observe a first-order QPT at J_2\approx 0.55J_1, presumably between two nonmagnetic phases.

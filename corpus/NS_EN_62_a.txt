@@ -1,0 +1,6 @@
+The theory of the one-dimensional (1D) hydrogen atom was initiated by a 1952 paper but, after more than 60 years, it remains a topic of debate and controversy.
+The aim here is a critique of the current status of the theory and its relation to relevant experiments.
+A 1959 solution of the Schrödinger equation by the use of a cut-off at x=a to remove the singularity at the origin in the 1/|x| form of the potential is clarified and a mistaken approximation is identified.
+The singular atom is not found in the real world but the theory with cut-off has been applied successfully to a range of four practical three-dimensional systems confined towards one dimension, particularly their observed large increases in ground state binding energy.
+The true 1D atom is in principle restored when the short distance a tends to zero but it is sometimes claimed that the solutions obtained by the limiting procedure differ from those obtained by solution of the basic Schrödinger equation without any cut-off in the potential.
+The treatment of the singularity by a limiting procedure for applications to practical systems is endorsed.

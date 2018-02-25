@@ -1,0 +1,6 @@
+In this paper, we examine a generalized magma equation for rational values of two parameters, m and n.
+Firstly, the similarity reductions are found using the Lie group method of infinitesimal transformations.
+The Painleve ODE test is then applied to the travelling wave reduction, and the pairs of m and n which pass the test are identified.
+These particular pairs are further subjected to the ODE test on their other symmetry reductions.
+Only two cases remain which pass the ODE test for all such symmetry reductions and these are completely integrable.
+The case when m=0, n=−1 is related to the Hirota-Satsuma equation and for m=12, n=−12, it is a real, generalized, pumped Maxwell-Bloch equation.

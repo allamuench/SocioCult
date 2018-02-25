@@ -1,0 +1,4 @@
+The hydrostatic primitive equations (HPE) form the basis of most numerical weather, climate and global ocean circulation models.
+Analytical (not statistical) methods are used to find a scaling proportional to (NuRaRe) 1/4 for the range of horizontal spatial sizes in HPE solutions, which is much broader than currently achievable computationally.
+The range of scales for the HPE is determined from an analytical bound on the time-averaged enstrophy of the horizontal circulation.
+This bound allows the formation of very small spatial scales, whose existence would excite unphysically large linear oscillation frequencies and gravity wave speeds.

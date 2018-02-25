@@ -1,0 +1,7 @@
+This paper demonstrates an equivalence between rotating magnetized shear flows and a stressed elastic beam.
+This results from finding the same form of dynamical equations after an asymptotic reduction of the axis-symmetric magnetorotational instability (MRI) under the assumption of almost-critical driving.
+The analysis considers the MRI dynamics in a non-dissipative near-equilibrium regime.
+Both the magnetic and elastic systems reduce to a simple one-dimensional wave equation with a non-local nonlinear feedback.
+Under transformation, the equation comprises a large number of mean-field interacting Duffing oscillators.
+This system was the first proven example of a strange attractor in a partial differential equation.
+Finding the same reduced equation in two natural applications suggests the model might result from other applications and could fall into a universal class based on symmetry.

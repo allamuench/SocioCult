@@ -1,0 +1,7 @@
+Despite active research, many fundamental aspects of block copolymer ordering remain unresolved.
+We studied the thickness-dependence of block copolymer grain coarsening kinetics, and find that thinner films order more rapidly than thicker films.
+Bilayer films, or monolayers with partial layers of islands, order more slowly than monolayers because of the greater amount of material that must rearrange in a coordinated fashion.
+Sub-monolayer films order much more rapidly than monolayers, exhibiting considerably smaller activation energies, as well as larger exponents for the time-growth power-law.
+Using molecular dynamics simulations, we directly study the motion of defects in these film regimes.
+We attribute the enhanced grain growth in sub-monolayers to the film boundaries, where defects can be spontaneously eliminated.
+The boundaries thus act as efficient sinks for morphological defects, pointing towards methods for engineering rapid ordering of self-assembling thin films.

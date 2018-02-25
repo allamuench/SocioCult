@@ -1,0 +1,7 @@
+The Barrett–Cavalcanti–Lal–Maroney (BCLM) argument stands as the most effective means of demonstrating the reality of the quantum state.
+Its advantages include being derived from very few assumptions, and a robustness to experimental error.
+Finding the best way to implement the argument experimentally is an open problem, however, and involves cleverly choosing sets of states and measurements.
+I show that techniques from convex optimisation theory can be leveraged to numerically search for these sets, which then form a recipe for experiments that allow for the strongest statements about the ontology of the wavefunction to be made.
+The optimisation approach presented is versatile, efficient and can take account of the finite errors present in any real experiment.
+I find significantly improved low-cardinality sets which are guaranteed partially optimal for a BCLM test in low Hilbert space dimension.
+I further show that mixed states can be more optimal than pure states.

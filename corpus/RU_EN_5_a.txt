@@ -1,0 +1,7 @@
+We investigate the Jordan-Wigner fermion clusters with a stationary distributed quantum pairwise discord.
+Such clusters appear after the Jordan-Wigner transformation of a spin chain governed by the nearest-neighbor XY Hamiltonian with the particular initial state having one polarized node.
+We show that the quantum discord stationarity in such systems is not destroyed by the ''parasitic'' polarization of at least two types.
+The first type appears because the initial state with a single polarized node is hardly realizable experimentally, and therefore the low polarization of neighboring nodes must be taken into account.
+The second is the unavoidable additional noise polarization of all nodes.
+Although the stationarity may not be destroyed by perturbations of the above two types, the parasitic polarizations deform the pairwise discord distribution and may destroy clusters of correlated fermions with equal pairwise discords.
+Such deformations are studied in this paper.

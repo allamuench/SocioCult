@@ -1,0 +1,3 @@
+We report the results of theoretical investigations of the tunneling current noise spectra through a single-level impurity both in the presence and in the absence of electron-phonon interaction based on the nonequilibrium Green's functions formalism.
+We show that due to the quantum nature of tunneling, the Fano factor is dramatically different from the Poisson limit both in the presence and in the absence of inelastic processes.
+The results are demonstrated to be sensitive to the tunneling contact parameters.

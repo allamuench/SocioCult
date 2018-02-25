@@ -1,0 +1,9 @@
+Processes are considered for conversion into a fractal structure of a hot metal micron-size particle that is located in a buffer gas or a gas flow and is heated by an external electric or electromagnetic source or by a plasma.
+The parameter of this heating is the particle temperature, which is the same in all of the particle volume because of its small size and high conductivity.
+Three processes determine the particle heat balance: particle radiation, evaporation of metal atoms from the particle surface, and heat transport to the surrounding gas due to its thermal conductivity.
+The particle heat balance is analyzed based on these processes, which are analogous to those for bulk metals with the small particle size and its high temperature taken into account.
+Outside the particle, where the gas temperature is lower than on its surface, the formed metal vapor in a buffer gas flow is converted into clusters.
+Clusters grow as a result of coagulation, until they become liquid, and then clusters form fractal aggregates if they are removed form the gas flow.
+Subsequently, association of fractal aggregates join into a fractal structure.
+The rate of this process increases in middle electric fields, and the formed fractal structure has features of aerogels and fractal fibers.
+As a result of a chain of the above processes, a porous metal film may be manufactured for use as a filter or catalyst for gas flows.

@@ -1,0 +1,6 @@
+We reconsider the fundamental commutation relations for non-commutative ℝ2 described in polar coordinates with non-commutativity parameter θ.
+Previous analysis found that the natural transition from Cartesian coordinates to the traditional polar system led to a representation of [r̂,φ̂] as an everywhere diverging series.
+In this article we compute the Borel resummation of this series, showing that it can subsequently be extended throughout parameter space and hence provide an interpretation of this commutator.
+Our analysis provides a complete solution for arbitrary r and θ that reproduces the earlier calculations at lowest order and benefits from being generally applicable to problems in a two-dimensional non-commutative space.
+We compare our results to previous literature in the (pseudo-)commuting limit, finding a surprising spatial dependence for the coordinate commutator when θ≫r2.
+Finally, we raise some questions for future study in light of this progress.

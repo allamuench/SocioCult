@@ -1,0 +1,3 @@
+The self-organization and magnetic properties of small iron and cobalt nanostructures embedded into the first layer of a Cu(100) surface are investigated using the self-learning kinetic Monte Carlo method and density functional theory.
+The similarities and differences between the Fe/Cu(100) and the Co/Cu(100) are underlined.
+The time evolution of magnetic properties of a copper monolayer with embedded magnetic atoms at 380 K is discussed.

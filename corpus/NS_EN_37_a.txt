@@ -1,0 +1,7 @@
+A Lagrangian formulation is constructed for particle interpretations of quantum mechanics, a well-known example of such an interpretation being the Bohm model.
+The advantages of such a description are that the equations for particle motion, field evolution and conservation laws can all be deduced from a single Lagrangian density expression.
+The formalism presented is Lorentz invariant.
+This paper follows on from a previous one which was limited to the single-particle case.
+The present paper treats the more general case of many particles in an entangled state.
+It is found that describing more than one particle while maintaining a relativistic description requires the specification of final boundary conditions as well as the usual initial ones, with the experimenter’s controllable choice of the final conditions thereby exerting a backwards-in-time influence.
+This retrocausality then allows an important theoretical step forward to be made, namely that it becomes possible to dispense with the usual, many-dimensional description in configuration space and instead revert to a description in space–time using separate, single-particle wavefunctions.

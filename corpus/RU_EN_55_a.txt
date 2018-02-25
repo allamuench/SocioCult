@@ -1,0 +1,4 @@
+Elementary processes capable of producing neutrons in a thunderstorm atmosphere are analyzed.
+The efficiency of nuclear fusion 2 H(2 H,n)3 He, photonuclear reactions (γ,Xn), electrodisintegration reactions nm A(e-,n)n-1m A, and reactions e-(p+,n) ue opposite to the β-decay is evaluated.
+It is shown that an unrealistically strong electric field is required for the nuclear fusion to be responsible for the neutron production in the lightning channel.
+The generation of neutrons in a thunderstorm atmosphere is connected with photonuclear (γ,Xn) and, at a much lower degree, electrodisintegration reactions, the relativistic runaway electron avalanches being primary parent processes.

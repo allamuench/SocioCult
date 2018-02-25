@@ -1,0 +1,4 @@
+General principles are discussed for a gas discharge plasma involving excited atoms where electron-atom collision processes dominate.
+It is shown that an optimal kinetic model of this plasma at not large electric field strengths may be based on the rate constants of quenching excited atom states by electron impact.
+The self-consistent character of atom excitation in gas discharge plasma is important and results in the tail of the energy distribution function of electrons being affected by the excitation process, which in turn influences the excitation rate.
+These principles are applied to an argon gas discharge plasma where excitation and ionization processes have a stepwise character and proceed via formation of argon atom states with the electron shell 3p54s.

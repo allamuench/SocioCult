@@ -1,0 +1,7 @@
+The effect of surface states of silicon nanocrystals embedded in silicon dioxide on the photoluminescent properties of the nanocrystals is reported.
+We have investigated the time-resolved and stationary photoluminescence of silicon nanocrystals in the matrix of silicon dioxide in the visible and infrared spectral ranges at 77 and 300 K.
+The structures containing silicon nanocrystals were prepared by the high-temperature annealing of multilayer SiOx/SiO2 films.
+The understanding of the experimental results on photoluminescence is underlain by a model of autolocalized states arising on surface Si-Si dimers.
+The emission of autocatalized excitons is found for the first time, and the energy level of the autolocalized states is determined.
+The effect of these states on the mechanism of the excitation and the photoluminescence properties of nanocrystals is discussed for a wide range of their dimensions.
+It is reliably shown that the cause of the known blue boundary of photoluminescence of silicon nanocrystals in the silicon dioxide matrix is the capture of free excitons on autolocalized surface states.

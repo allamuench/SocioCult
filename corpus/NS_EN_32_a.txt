@@ -1,0 +1,7 @@
+Dynamical collapse models embody the idea of a physical collapse of the wave function in a mathematically well-defined way
+They involve modifications to the standard rules of quantum theory in order to describe collapse as a physical process
+This appears to introduce a time reversal asymmetry into the dynamics since the state at any given time depends on collapses in the past but not in the future
+Here we challenge this conclusion by demonstrating that, subject to specified model constraints, collapse models can be given a structurally time symmetric formulation in which the collapse events are the primitive objects of the theory
+Three different examples of time asymmetries associated with collapse models are then examined and in each case it is shown that the same dynamical rule determining the collapse events works in both the forward and backward in time directions
+Any physically observed time asymmetries that arise in such models are due to the asymmetric imposition of initial or final time boundary conditions, rather than from an inherent asymmetry in the dynamical law
+This is the standard explanation of time asymmetric behaviour resulting from time symmetric laws.

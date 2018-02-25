@@ -1,0 +1,5 @@
+In very anisotropic layered superconductors (e.g. Bi2Sr2CaCu2Ox) a tilted magnetic field can penetrate as two co-existing lattices of vortices parallel and perpendicular to the layers.
+At low out-of-plane fields the perpendicular vortices form a set of isolated vortex chains, which have recently been observed in detail with scanning Hall-probe measurements.
+We present calculations that show a very delicate stability of this isolated-chain state.
+As the vortex density increases along the chain there is a first-order transition to a buckled chain, and then the chain will expel vortices in a continuous transition to a composite-chain state.
+At low densities there is an instability towards clustering, due to a long-range attraction between the vortices on the chain, and at very low densities it becomes energetically favorable to form a tilted chain, which may explain the sudden disappearance of vortices along the chains seen in recent experiments.

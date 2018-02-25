@@ -1,0 +1,13 @@
+We develop new methods to study the properties of galaxy redshift surveys and radial peculiar velocity surveys, both individually and combined.
+We derive the Fisher information matrix for redshift surveys, including redshift distortions and stochastic bias.
+We find exact results for estimating the marginalised accuracy of a two-parameter measurement of the amplitude of galaxy clustering, A_g, and the distortion parameter beta.
+The Fisher matrix is also derived for a radial peculiar velocity survey and we discuss optimisation of these surveys for equal timescales.
+The Fisher Super-Matrix, combining both surveys, is derived.
+We apply these results to investigate the 6 degree Field Galaxy Survey (6dFGS), currently underway on the UK Schmidt Telescope (UKST).
+The survey will consist of approximately 125000 K-band selected galaxies with redshifts and a subset of around 5000 galaxies with radial peculiar velocities.
+We find for the redshift survey that we can measure the three parameters A_g, Gamma and beta to about 3% accuracy, but will not be able to detect the baryon abundance, or the matter-galaxy correlation coefficient, r_g.
+The peculiar velocity survey will jointly measure the velocity amplitude A_v and Gamma to around 25% accuracy.
+A conditional estimate of the amplitude A_v alone, can be made to 5%.
+When the surveys are combined however, the major degeneracy between beta and r_g is lifted and we are able to measure A_g, Gamma, beta and r_g all to the 2% level, significantly improving on current estimates.
+Finally we consider scale dependence of r_g and the biassing parameter b.
+We find that measurements for these averaged over logarithmic passbands can be constrained to the level of a few percent.

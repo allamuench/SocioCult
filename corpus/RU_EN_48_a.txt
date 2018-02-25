@@ -1,0 +1,3 @@
+We report the results on the measurements of the work function of single-walled carbon nanotubes encapsulated by AgI (AgI@SWCNT), AgCl (AgCl@SWCNT), and CuBr (CuBr@SWCNT) by the local Kelvin probe technique.
+We found the values of the work function of tubes encapsulated with AgI and AgCl (Φ (AgI@SWCNT)=5.08\pm 0.02, Φ (AgCl@SWCNT)= 5.10 \pm 0.02 eV) to exceed substantially that of pristine carbon nanotubes, and the value of the work function of carbon nanotubes encapsulated with CuBr is Φ (CuBr@SWCNT)= 4.89 \pm 0.03 (eV).
+The measurements are carried out using different kinds of microscope probes including multi-walled carbon nanotube tips.

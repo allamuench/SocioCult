@@ -1,0 +1,6 @@
+Atom interferometric sensors and quantum information processors must maintain coherence while the evolving quantum wavefunction is split, transformed and recombined, but suffer from experimental inhomogeneities and uncertainties in the speeds and paths of these operations.
+Several error-correction techniques have been proposed to isolate the variable of interest.
+Here we apply composite pulse methods to velocity-sensitive Raman state manipulation in a freely-expanding thermal atom cloud.
+We compare several established pulse sequences, and follow the state evolution within them.
+The agreement between measurements and simple predictions shows the underlying coherence of the atom ensemble, and the inversion infidelity in an 80 micro-Kelvin atom cloud is halved.
+Composite pulse techniques, especially if tailored for atom interferometric applications, should allow greater interferometer areas, larger atomic samples and longer interaction times, and hence improve the sensitivity of quantum technologies from inertial sensing and clocks to quantum information processors and tests of fundamental physics.

@@ -1,0 +1,5 @@
+It is 100 years since Minkowski and Abraham first gave rival expressions for the momentum of light in a material medium.
+At the single-photon level, these correspond, respectively, either to multiplying or dividing the free-space value (Embedded Image) by the refractive index (n).
+The debate that this work started has continued till the present day, punctuated by the occasional publication of ‘decisive’ experimental demonstrations supporting one or other of these values.
+We review the compelling arguments made in support of the Minkowski and Abraham forms and are led to the conclusion that both momenta are correct.
+We explain why two distinct momenta are needed to describe light in a medium and why each appears as the natural, and experimentally observed, momentum in appropriate situations.

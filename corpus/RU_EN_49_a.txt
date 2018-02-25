@@ -1,0 +1,7 @@
+The angular dependence of Raman scattering selection rules for optical phonons in short-period (001) GaAs/AlAs superlattices is calculated and studied experimentally.
+Experiments are performed using a micro-Raman setup, in the scattering geometry with the wave vectors of the incident and scattered light lying in the plane of superlattices (so-called in-plane geometry).
+Phonon frequencies are calculated using the Born model taking the Coulomb interaction into account in the rigid-ion approximation.
+Raman scattering spectra are calculated in the framework of the deformation potential and electro-optical mechanisms.
+Calculations show an angular dependence of the selection rules for optical phonons with different directions of the wave vectors.
+Drastic differences in the selection rules are found for experimental and calculated spectra.
+Presumably, these differences are due to the Fröhlich mechanism in Raman scattering for short-period superlattices.

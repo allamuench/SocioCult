@@ -1,0 +1,3 @@
+Magnetic properties of the organic conductor κ-(BETS)2 Mn[N(CN)2]3 above and below the temperature of the metal-insulator transition that occurs at T_{MI}\approx25 K are studied by 1H NMR.
+The proton spectrum is shown to be determined by the static dipolar fields from Mn2+ localized moments, while the 1H spin-lattice relaxation is dominated by fluctuating fields from Mn2+ electrons.
+The NMR data, both static (the spectra) and dynamic (the spin-lattice relaxation), indicate the freezing of Mn2+ moments into a short-range or an incommensurate long-range antiferromagnetic order below TMI.

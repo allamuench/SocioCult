@@ -1,0 +1,6 @@
+In the event of a single, low-yield nuclear detonation in a major urban area, rapidly providing adequate shelter to affected populations could save 10 000–100 000 individuals from a fatal exposure to fallout radiation.
+However, poorly sheltered individuals may remain at risk.
+Current guidance and prior studies are not consistent as to the timing and conditions under which poorly sheltered individuals should leave their shelters to evacuate or obtain better shelter.
+This study proposes methods to determine the optimal shelter time based on information potentially available following a nuclear detonation.
+For the case in which individuals move to an adequate shelter that can be reached within 15 min, individuals should stay in a poor-quality shelter for at most 30 min after the detonation.
+If adequate shelter is available nearby (within 5 min), then poorly sheltered individuals should immediately proceed to the better shelter.

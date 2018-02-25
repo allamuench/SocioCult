@@ -1,0 +1,2 @@
+We prove results that enable the efficient and natural realization of a large class of robust heteroclinic networks in coupled identical cell systems.
+We also propose some general conjectures that relate a natural and large class of robust heteroclinic networks that occur in networks modelled by equations of Lotka–Volterra type, and certain networks of symmetric systems, to robust heteroclinic networks in coupled cell networks.

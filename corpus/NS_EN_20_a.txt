@@ -1,0 +1,6 @@
+We present a solid-state laser system that generates over 200 mW of continuous-wave, narrowband light, tunable from 316.3 nm - 17.7 nm and 318.0 nm - 319.3 nm.
+The laser is based on commercially available fiber amplifiers and optical frequency doubling technology, along with sum frequency generation in a periodically poled stoichiometric lithium tantalate crystal.
+The laser frequency is stabilized to an atomic-referenced high finesse optical transfer cavity.
+Using a GPS-referenced optical frequency comb we measure a long term frequency instability of <35 kHz for timescales between 10−3 s and 103 s.
+As an application we perform spectroscopy of Sr Rydberg states from n = 37 - 81, demonstrating mode-hop-free scans of 24 GHz.
+In a cold atomic sample we measure Doppler-limited linewidths of 350 kHz.

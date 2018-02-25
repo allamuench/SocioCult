@@ -1,0 +1,2 @@
+We consider excitations that exist, in addition to phonons, in the ideal Bose gas at zero temperature.
+These excitations are vortex rings whose energy spectrum is similar to the roton one in liquid helium.

@@ -1,0 +1,5 @@
+We demonstrate a method for probing interaction effects in a thermal beam of strontium atoms using simultaneous measurements of Rydberg EIT and spontaneously created ions or electrons.
+We present a Doppler-averaged optical Bloch equation model that reproduces the optical signals and allows us to connect the optical coherences and the populations.
+We use this to determine that the spontaneous ionization process in our system occurs due to collisions between Rydberg and ground state atoms in the EIT regime.
+We measure the cross section of this process to be $0.6\pm 0.2\,\,{\sigma }_{\mathrm{geo}}$, where ${\sigma }_{\mathrm{geo}}$ is the geometrical cross section of the Rydberg atom.
+This result adds complementary insight to a range of recent studies of interacting thermal Rydberg ensembles.

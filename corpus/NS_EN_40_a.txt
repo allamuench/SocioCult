@@ -1,0 +1,3 @@
+The 2.41 min ground state decay of108Ag has been studied with a Ge(Li) detector.
+Twelve transitions are observed of which seven have not been reported previously.
+Five of the new transitions are placed in the level scheme which includes the second 2+, 930.4 keV level and a new level at 1539.4 keV in108Pd.

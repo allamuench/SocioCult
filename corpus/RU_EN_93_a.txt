@@ -1,0 +1,5 @@
+The multiple quantum (MQ) NMR dynamics in the system of equivalent spins with the dipolar ordered initial state is considered.
+The high symmetry of the Hamiltonian responsible for the MQ NMR dynamics (the MQ Hamiltonian) is used to develop analytic and numerical methods for the investigation of the MQ NMR dynamics in systems consisting of hundreds of spins from the ``first principles''.
+We obtain the dependence of the intensities of the MQ NMR coherences on their orders (profiles of the MQ NMR coherences) for systems of 200-600 spins.
+It is shown that these profiles may be well approximated by exponential distribution functions.
+We also compare the MQ NMR dynamics in the systems of equivalent spins having two different initial states, the dipolar ordered state and the thermal equilibrium state in a strong external magnetic field.

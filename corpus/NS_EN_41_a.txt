@@ -1,0 +1,4 @@
+The (p, α) reaction was studied on a208Pb target at 16.475 MeV.
+Nineteen states were observed in205Tl, up to 3.6 MeV in excitation.
+Angular distributions were obtained for five strong proton-hole transitions, and DWBA fits made to determinelj values.
+Results are compared with previous206Pb(t, α)205Tl,206Pb(d,3He)205Tl,205Tl(p, p′), and205Tl(n, n′) work.

@@ -1,0 +1,4 @@
+Thermodynamics of a short-range model of spin ice magnets in a field is considered in the Bethe-Peierls approximation.
+The results obtained for [111], [100], and [011] fields agree reasonably well with the existing Monte Carlo simulations and some experiments.
+In this approximation, all extremely sharp field-induced anomalies are described by analytic functions of temperature and the applied field.
+In spite of the absence of true phase transitions, the analysis of the entropy and specific heat reliefs over the H-T plane allows discerning ``pseudo-phases'' with a specific character of spin fluctuations and defining the lines of relatively sharp ``pseudo-transitions'' between them.

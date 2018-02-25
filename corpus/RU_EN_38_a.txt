@@ -1,0 +1,4 @@
+We consider electromagnetic nonlinear normal modes in cylindrical cavity resonators filled with a nonlinear nondispersive medium.
+The key feature of the analysis is that exact analytic solutions of the nonlinear field equations are employed to study the mode properties in detail.
+Based on such a nonperturbative approach, we rigorously prove that the total energy of free nonlinear oscillations in a distributive conservative system, such as that considered in our work, can exactly coincide with the sum of energies of the normal modes of the system.
+This fact implies that the energy orthogonality property, which has so far been known to hold only for linear oscillations and fields, can also be observed in a nonlinear oscillatory system.
