@@ -14,3 +14,7 @@ References to the sources of data used for the study can be found in data_source
 The data has been annotated by four independent annotators according to the newly proposed ASSR annotation scheme described in Annotation_Guidelines_abstracts.pdf. The final Gold Standard annotations after adjudication based on the majority vote are given in the folder ‘annotations’ in three files, separately for each group of writers in the corpus. The files are in the csv format with the first column containing the annotated sentence and the second one the assigned ASSR category.
 
 Both the corpus and the annotations can be freely used for research purposes.
+
+The main findings of the study are summarized and visualized in main_findings.pfd and poster.pdf.
+
+Any feedback, questions, comments and suggestions can be sent to Alla Münch at muenchalla@gmail.com.
